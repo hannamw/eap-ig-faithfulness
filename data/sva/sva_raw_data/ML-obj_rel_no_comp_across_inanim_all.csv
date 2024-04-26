@@ -1,0 +1,1441 @@
+sentence,label,group,source
+The movies the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guards like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guards admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guards hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guards love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chefs like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chefs admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chefs hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chefs love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architects like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architects admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architects hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architects love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skaters like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skaters admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skaters hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skaters love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancers like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancers love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the ministers like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the ministers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the ministers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the ministers love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi drivers like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi drivers admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi drivers hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi drivers love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistants like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistants admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistants hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistants love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executives like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executives admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executives hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executives love,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parents like,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parents admire,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parents hate,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parents love,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The movies the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The books the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The games the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The songs the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The pictures the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The paintings the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The novels the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The poems the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guard likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guard admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guard hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the guard loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chef likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chef admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chef hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the chef loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architect likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architect admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architect hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the architect loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skater likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skater admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skater hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the skater loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancer likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancer admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancer hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the dancer loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the minister likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the minister admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the minister hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the minister loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi driver likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi driver admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi driver hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the taxi driver loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistant likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistant admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistant hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the assistant loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executive likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executive admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executive hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the executive loves,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parent likes,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parent admires,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parent hates,1,ML,obj_rel_no_comp_across_inanim_all
+The shows the parent loves,1,ML,obj_rel_no_comp_across_inanim_all
+The movie the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guards like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guards admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guards hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guards love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chefs like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chefs admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chefs hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chefs love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architects like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architects admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architects hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architects love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skaters like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skaters admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skaters hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skaters love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancers like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancers love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the ministers like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the ministers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the ministers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the ministers love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi drivers like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi drivers admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi drivers hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi drivers love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistants like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistants admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistants hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistants love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executives like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executives admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executives hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executives love,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parents like,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parents admire,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parents hate,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parents love,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The movie the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The book the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The game the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The song the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The picture the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The painting the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The novel the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The poem the parent loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guard likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guard admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guard hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the guard loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chef likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chef admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chef hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the chef loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architect likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architect admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architect hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the architect loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skater likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skater admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skater hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the skater loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancer likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancer admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancer hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the dancer loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the minister likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the minister admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the minister hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the minister loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi driver likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi driver admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi driver hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the taxi driver loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistant likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistant admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistant hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the assistant loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executive likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executive admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executive hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the executive loves,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parent likes,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parent admires,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parent hates,0,ML,obj_rel_no_comp_across_inanim_all
+The show the parent loves,0,ML,obj_rel_no_comp_across_inanim_all

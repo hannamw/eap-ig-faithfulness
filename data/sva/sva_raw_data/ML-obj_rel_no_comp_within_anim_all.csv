@@ -1,0 +1,401 @@
+sentence,label,group,source
+The authors the guards,1,ML,obj_rel_no_comp_within_anim_all
+The authors the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The authors the architects,1,ML,obj_rel_no_comp_within_anim_all
+The authors the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The authors the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The authors the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The authors the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The authors the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The authors the executives,1,ML,obj_rel_no_comp_within_anim_all
+The authors the parents,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the guards,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the architects,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the executives,1,ML,obj_rel_no_comp_within_anim_all
+The pilots the parents,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the guards,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the architects,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the executives,1,ML,obj_rel_no_comp_within_anim_all
+The surgeons the parents,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the guards,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the architects,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the executives,1,ML,obj_rel_no_comp_within_anim_all
+The farmers the parents,1,ML,obj_rel_no_comp_within_anim_all
+The managers the guards,1,ML,obj_rel_no_comp_within_anim_all
+The managers the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The managers the architects,1,ML,obj_rel_no_comp_within_anim_all
+The managers the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The managers the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The managers the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The managers the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The managers the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The managers the executives,1,ML,obj_rel_no_comp_within_anim_all
+The managers the parents,1,ML,obj_rel_no_comp_within_anim_all
+The customers the guards,1,ML,obj_rel_no_comp_within_anim_all
+The customers the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The customers the architects,1,ML,obj_rel_no_comp_within_anim_all
+The customers the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The customers the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The customers the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The customers the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The customers the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The customers the executives,1,ML,obj_rel_no_comp_within_anim_all
+The customers the parents,1,ML,obj_rel_no_comp_within_anim_all
+The officers the guards,1,ML,obj_rel_no_comp_within_anim_all
+The officers the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The officers the architects,1,ML,obj_rel_no_comp_within_anim_all
+The officers the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The officers the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The officers the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The officers the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The officers the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The officers the executives,1,ML,obj_rel_no_comp_within_anim_all
+The officers the parents,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the guards,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the architects,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the executives,1,ML,obj_rel_no_comp_within_anim_all
+The teachers the parents,1,ML,obj_rel_no_comp_within_anim_all
+The senators the guards,1,ML,obj_rel_no_comp_within_anim_all
+The senators the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The senators the architects,1,ML,obj_rel_no_comp_within_anim_all
+The senators the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The senators the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The senators the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The senators the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The senators the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The senators the executives,1,ML,obj_rel_no_comp_within_anim_all
+The senators the parents,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the guards,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the architects,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the executives,1,ML,obj_rel_no_comp_within_anim_all
+The consultants the parents,1,ML,obj_rel_no_comp_within_anim_all
+The author the guards,1,ML,obj_rel_no_comp_within_anim_all
+The author the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The author the architects,1,ML,obj_rel_no_comp_within_anim_all
+The author the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The author the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The author the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The author the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The author the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The author the executives,1,ML,obj_rel_no_comp_within_anim_all
+The author the parents,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the guards,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the architects,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the executives,1,ML,obj_rel_no_comp_within_anim_all
+The pilot the parents,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the guards,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the architects,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the executives,1,ML,obj_rel_no_comp_within_anim_all
+The surgeon the parents,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the guards,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the architects,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the executives,1,ML,obj_rel_no_comp_within_anim_all
+The farmer the parents,1,ML,obj_rel_no_comp_within_anim_all
+The manager the guards,1,ML,obj_rel_no_comp_within_anim_all
+The manager the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The manager the architects,1,ML,obj_rel_no_comp_within_anim_all
+The manager the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The manager the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The manager the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The manager the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The manager the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The manager the executives,1,ML,obj_rel_no_comp_within_anim_all
+The manager the parents,1,ML,obj_rel_no_comp_within_anim_all
+The customer the guards,1,ML,obj_rel_no_comp_within_anim_all
+The customer the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The customer the architects,1,ML,obj_rel_no_comp_within_anim_all
+The customer the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The customer the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The customer the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The customer the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The customer the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The customer the executives,1,ML,obj_rel_no_comp_within_anim_all
+The customer the parents,1,ML,obj_rel_no_comp_within_anim_all
+The officer the guards,1,ML,obj_rel_no_comp_within_anim_all
+The officer the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The officer the architects,1,ML,obj_rel_no_comp_within_anim_all
+The officer the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The officer the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The officer the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The officer the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The officer the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The officer the executives,1,ML,obj_rel_no_comp_within_anim_all
+The officer the parents,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the guards,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the architects,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the executives,1,ML,obj_rel_no_comp_within_anim_all
+The teacher the parents,1,ML,obj_rel_no_comp_within_anim_all
+The senator the guards,1,ML,obj_rel_no_comp_within_anim_all
+The senator the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The senator the architects,1,ML,obj_rel_no_comp_within_anim_all
+The senator the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The senator the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The senator the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The senator the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The senator the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The senator the executives,1,ML,obj_rel_no_comp_within_anim_all
+The senator the parents,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the guards,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the chefs,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the architects,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the skaters,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the dancers,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the ministers,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the taxi drivers,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the assistants,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the executives,1,ML,obj_rel_no_comp_within_anim_all
+The consultant the parents,1,ML,obj_rel_no_comp_within_anim_all
+The authors the guard,0,ML,obj_rel_no_comp_within_anim_all
+The authors the chef,0,ML,obj_rel_no_comp_within_anim_all
+The authors the architect,0,ML,obj_rel_no_comp_within_anim_all
+The authors the skater,0,ML,obj_rel_no_comp_within_anim_all
+The authors the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The authors the minister,0,ML,obj_rel_no_comp_within_anim_all
+The authors the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The authors the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The authors the executive,0,ML,obj_rel_no_comp_within_anim_all
+The authors the parent,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the guard,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the chef,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the architect,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the skater,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the minister,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the executive,0,ML,obj_rel_no_comp_within_anim_all
+The pilots the parent,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the guard,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the chef,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the architect,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the skater,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the minister,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the executive,0,ML,obj_rel_no_comp_within_anim_all
+The surgeons the parent,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the guard,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the chef,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the architect,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the skater,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the minister,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the executive,0,ML,obj_rel_no_comp_within_anim_all
+The farmers the parent,0,ML,obj_rel_no_comp_within_anim_all
+The managers the guard,0,ML,obj_rel_no_comp_within_anim_all
+The managers the chef,0,ML,obj_rel_no_comp_within_anim_all
+The managers the architect,0,ML,obj_rel_no_comp_within_anim_all
+The managers the skater,0,ML,obj_rel_no_comp_within_anim_all
+The managers the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The managers the minister,0,ML,obj_rel_no_comp_within_anim_all
+The managers the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The managers the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The managers the executive,0,ML,obj_rel_no_comp_within_anim_all
+The managers the parent,0,ML,obj_rel_no_comp_within_anim_all
+The customers the guard,0,ML,obj_rel_no_comp_within_anim_all
+The customers the chef,0,ML,obj_rel_no_comp_within_anim_all
+The customers the architect,0,ML,obj_rel_no_comp_within_anim_all
+The customers the skater,0,ML,obj_rel_no_comp_within_anim_all
+The customers the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The customers the minister,0,ML,obj_rel_no_comp_within_anim_all
+The customers the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The customers the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The customers the executive,0,ML,obj_rel_no_comp_within_anim_all
+The customers the parent,0,ML,obj_rel_no_comp_within_anim_all
+The officers the guard,0,ML,obj_rel_no_comp_within_anim_all
+The officers the chef,0,ML,obj_rel_no_comp_within_anim_all
+The officers the architect,0,ML,obj_rel_no_comp_within_anim_all
+The officers the skater,0,ML,obj_rel_no_comp_within_anim_all
+The officers the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The officers the minister,0,ML,obj_rel_no_comp_within_anim_all
+The officers the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The officers the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The officers the executive,0,ML,obj_rel_no_comp_within_anim_all
+The officers the parent,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the guard,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the chef,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the architect,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the skater,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the minister,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the executive,0,ML,obj_rel_no_comp_within_anim_all
+The teachers the parent,0,ML,obj_rel_no_comp_within_anim_all
+The senators the guard,0,ML,obj_rel_no_comp_within_anim_all
+The senators the chef,0,ML,obj_rel_no_comp_within_anim_all
+The senators the architect,0,ML,obj_rel_no_comp_within_anim_all
+The senators the skater,0,ML,obj_rel_no_comp_within_anim_all
+The senators the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The senators the minister,0,ML,obj_rel_no_comp_within_anim_all
+The senators the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The senators the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The senators the executive,0,ML,obj_rel_no_comp_within_anim_all
+The senators the parent,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the guard,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the chef,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the architect,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the skater,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the minister,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the executive,0,ML,obj_rel_no_comp_within_anim_all
+The consultants the parent,0,ML,obj_rel_no_comp_within_anim_all
+The author the guard,0,ML,obj_rel_no_comp_within_anim_all
+The author the chef,0,ML,obj_rel_no_comp_within_anim_all
+The author the architect,0,ML,obj_rel_no_comp_within_anim_all
+The author the skater,0,ML,obj_rel_no_comp_within_anim_all
+The author the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The author the minister,0,ML,obj_rel_no_comp_within_anim_all
+The author the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The author the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The author the executive,0,ML,obj_rel_no_comp_within_anim_all
+The author the parent,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the guard,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the chef,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the architect,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the skater,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the minister,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the executive,0,ML,obj_rel_no_comp_within_anim_all
+The pilot the parent,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the guard,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the chef,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the architect,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the skater,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the minister,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the executive,0,ML,obj_rel_no_comp_within_anim_all
+The surgeon the parent,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the guard,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the chef,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the architect,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the skater,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the minister,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the executive,0,ML,obj_rel_no_comp_within_anim_all
+The farmer the parent,0,ML,obj_rel_no_comp_within_anim_all
+The manager the guard,0,ML,obj_rel_no_comp_within_anim_all
+The manager the chef,0,ML,obj_rel_no_comp_within_anim_all
+The manager the architect,0,ML,obj_rel_no_comp_within_anim_all
+The manager the skater,0,ML,obj_rel_no_comp_within_anim_all
+The manager the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The manager the minister,0,ML,obj_rel_no_comp_within_anim_all
+The manager the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The manager the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The manager the executive,0,ML,obj_rel_no_comp_within_anim_all
+The manager the parent,0,ML,obj_rel_no_comp_within_anim_all
+The customer the guard,0,ML,obj_rel_no_comp_within_anim_all
+The customer the chef,0,ML,obj_rel_no_comp_within_anim_all
+The customer the architect,0,ML,obj_rel_no_comp_within_anim_all
+The customer the skater,0,ML,obj_rel_no_comp_within_anim_all
+The customer the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The customer the minister,0,ML,obj_rel_no_comp_within_anim_all
+The customer the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The customer the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The customer the executive,0,ML,obj_rel_no_comp_within_anim_all
+The customer the parent,0,ML,obj_rel_no_comp_within_anim_all
+The officer the guard,0,ML,obj_rel_no_comp_within_anim_all
+The officer the chef,0,ML,obj_rel_no_comp_within_anim_all
+The officer the architect,0,ML,obj_rel_no_comp_within_anim_all
+The officer the skater,0,ML,obj_rel_no_comp_within_anim_all
+The officer the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The officer the minister,0,ML,obj_rel_no_comp_within_anim_all
+The officer the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The officer the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The officer the executive,0,ML,obj_rel_no_comp_within_anim_all
+The officer the parent,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the guard,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the chef,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the architect,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the skater,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the minister,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the executive,0,ML,obj_rel_no_comp_within_anim_all
+The teacher the parent,0,ML,obj_rel_no_comp_within_anim_all
+The senator the guard,0,ML,obj_rel_no_comp_within_anim_all
+The senator the chef,0,ML,obj_rel_no_comp_within_anim_all
+The senator the architect,0,ML,obj_rel_no_comp_within_anim_all
+The senator the skater,0,ML,obj_rel_no_comp_within_anim_all
+The senator the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The senator the minister,0,ML,obj_rel_no_comp_within_anim_all
+The senator the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The senator the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The senator the executive,0,ML,obj_rel_no_comp_within_anim_all
+The senator the parent,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the guard,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the chef,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the architect,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the skater,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the dancer,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the minister,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the taxi driver,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the assistant,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the executive,0,ML,obj_rel_no_comp_within_anim_all
+The consultant the parent,0,ML,obj_rel_no_comp_within_anim_all

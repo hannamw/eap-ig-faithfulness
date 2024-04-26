@@ -1,0 +1,21 @@
+sentence,label,group,source
+The authors,1,ML,simple_agrmt_all
+The pilots,1,ML,simple_agrmt_all
+The surgeons,1,ML,simple_agrmt_all
+The farmers,1,ML,simple_agrmt_all
+The managers,1,ML,simple_agrmt_all
+The customers,1,ML,simple_agrmt_all
+The officers,1,ML,simple_agrmt_all
+The teachers,1,ML,simple_agrmt_all
+The senators,1,ML,simple_agrmt_all
+The consultants,1,ML,simple_agrmt_all
+The author,0,ML,simple_agrmt_all
+The pilot,0,ML,simple_agrmt_all
+The surgeon,0,ML,simple_agrmt_all
+The farmer,0,ML,simple_agrmt_all
+The manager,0,ML,simple_agrmt_all
+The customer,0,ML,simple_agrmt_all
+The officer,0,ML,simple_agrmt_all
+The teacher,0,ML,simple_agrmt_all
+The senator,0,ML,simple_agrmt_all
+The consultant,0,ML,simple_agrmt_all

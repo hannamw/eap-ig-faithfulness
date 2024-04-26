@@ -1,0 +1,1601 @@
+sentence,label,group,source
+The author that likes the guard,0,ML,subj_rel_all
+The author that likes the chef,0,ML,subj_rel_all
+The author that likes the architect,0,ML,subj_rel_all
+The author that likes the skater,0,ML,subj_rel_all
+The author that likes the dancer,0,ML,subj_rel_all
+The author that likes the minister,0,ML,subj_rel_all
+The author that likes the taxi driver,0,ML,subj_rel_all
+The author that likes the assistant,0,ML,subj_rel_all
+The author that likes the executive,0,ML,subj_rel_all
+The author that likes the parent,0,ML,subj_rel_all
+The author that admires the guard,0,ML,subj_rel_all
+The author that admires the chef,0,ML,subj_rel_all
+The author that admires the architect,0,ML,subj_rel_all
+The author that admires the skater,0,ML,subj_rel_all
+The author that admires the dancer,0,ML,subj_rel_all
+The author that admires the minister,0,ML,subj_rel_all
+The author that admires the taxi driver,0,ML,subj_rel_all
+The author that admires the assistant,0,ML,subj_rel_all
+The author that admires the executive,0,ML,subj_rel_all
+The author that admires the parent,0,ML,subj_rel_all
+The author that hates the guard,0,ML,subj_rel_all
+The author that hates the chef,0,ML,subj_rel_all
+The author that hates the architect,0,ML,subj_rel_all
+The author that hates the skater,0,ML,subj_rel_all
+The author that hates the dancer,0,ML,subj_rel_all
+The author that hates the minister,0,ML,subj_rel_all
+The author that hates the taxi driver,0,ML,subj_rel_all
+The author that hates the assistant,0,ML,subj_rel_all
+The author that hates the executive,0,ML,subj_rel_all
+The author that hates the parent,0,ML,subj_rel_all
+The author that loves the guard,0,ML,subj_rel_all
+The author that loves the chef,0,ML,subj_rel_all
+The author that loves the architect,0,ML,subj_rel_all
+The author that loves the skater,0,ML,subj_rel_all
+The author that loves the dancer,0,ML,subj_rel_all
+The author that loves the minister,0,ML,subj_rel_all
+The author that loves the taxi driver,0,ML,subj_rel_all
+The author that loves the assistant,0,ML,subj_rel_all
+The author that loves the executive,0,ML,subj_rel_all
+The author that loves the parent,0,ML,subj_rel_all
+The pilot that likes the guard,0,ML,subj_rel_all
+The pilot that likes the chef,0,ML,subj_rel_all
+The pilot that likes the architect,0,ML,subj_rel_all
+The pilot that likes the skater,0,ML,subj_rel_all
+The pilot that likes the dancer,0,ML,subj_rel_all
+The pilot that likes the minister,0,ML,subj_rel_all
+The pilot that likes the taxi driver,0,ML,subj_rel_all
+The pilot that likes the assistant,0,ML,subj_rel_all
+The pilot that likes the executive,0,ML,subj_rel_all
+The pilot that likes the parent,0,ML,subj_rel_all
+The pilot that admires the guard,0,ML,subj_rel_all
+The pilot that admires the chef,0,ML,subj_rel_all
+The pilot that admires the architect,0,ML,subj_rel_all
+The pilot that admires the skater,0,ML,subj_rel_all
+The pilot that admires the dancer,0,ML,subj_rel_all
+The pilot that admires the minister,0,ML,subj_rel_all
+The pilot that admires the taxi driver,0,ML,subj_rel_all
+The pilot that admires the assistant,0,ML,subj_rel_all
+The pilot that admires the executive,0,ML,subj_rel_all
+The pilot that admires the parent,0,ML,subj_rel_all
+The pilot that hates the guard,0,ML,subj_rel_all
+The pilot that hates the chef,0,ML,subj_rel_all
+The pilot that hates the architect,0,ML,subj_rel_all
+The pilot that hates the skater,0,ML,subj_rel_all
+The pilot that hates the dancer,0,ML,subj_rel_all
+The pilot that hates the minister,0,ML,subj_rel_all
+The pilot that hates the taxi driver,0,ML,subj_rel_all
+The pilot that hates the assistant,0,ML,subj_rel_all
+The pilot that hates the executive,0,ML,subj_rel_all
+The pilot that hates the parent,0,ML,subj_rel_all
+The pilot that loves the guard,0,ML,subj_rel_all
+The pilot that loves the chef,0,ML,subj_rel_all
+The pilot that loves the architect,0,ML,subj_rel_all
+The pilot that loves the skater,0,ML,subj_rel_all
+The pilot that loves the dancer,0,ML,subj_rel_all
+The pilot that loves the minister,0,ML,subj_rel_all
+The pilot that loves the taxi driver,0,ML,subj_rel_all
+The pilot that loves the assistant,0,ML,subj_rel_all
+The pilot that loves the executive,0,ML,subj_rel_all
+The pilot that loves the parent,0,ML,subj_rel_all
+The surgeon that likes the guard,0,ML,subj_rel_all
+The surgeon that likes the chef,0,ML,subj_rel_all
+The surgeon that likes the architect,0,ML,subj_rel_all
+The surgeon that likes the skater,0,ML,subj_rel_all
+The surgeon that likes the dancer,0,ML,subj_rel_all
+The surgeon that likes the minister,0,ML,subj_rel_all
+The surgeon that likes the taxi driver,0,ML,subj_rel_all
+The surgeon that likes the assistant,0,ML,subj_rel_all
+The surgeon that likes the executive,0,ML,subj_rel_all
+The surgeon that likes the parent,0,ML,subj_rel_all
+The surgeon that admires the guard,0,ML,subj_rel_all
+The surgeon that admires the chef,0,ML,subj_rel_all
+The surgeon that admires the architect,0,ML,subj_rel_all
+The surgeon that admires the skater,0,ML,subj_rel_all
+The surgeon that admires the dancer,0,ML,subj_rel_all
+The surgeon that admires the minister,0,ML,subj_rel_all
+The surgeon that admires the taxi driver,0,ML,subj_rel_all
+The surgeon that admires the assistant,0,ML,subj_rel_all
+The surgeon that admires the executive,0,ML,subj_rel_all
+The surgeon that admires the parent,0,ML,subj_rel_all
+The surgeon that hates the guard,0,ML,subj_rel_all
+The surgeon that hates the chef,0,ML,subj_rel_all
+The surgeon that hates the architect,0,ML,subj_rel_all
+The surgeon that hates the skater,0,ML,subj_rel_all
+The surgeon that hates the dancer,0,ML,subj_rel_all
+The surgeon that hates the minister,0,ML,subj_rel_all
+The surgeon that hates the taxi driver,0,ML,subj_rel_all
+The surgeon that hates the assistant,0,ML,subj_rel_all
+The surgeon that hates the executive,0,ML,subj_rel_all
+The surgeon that hates the parent,0,ML,subj_rel_all
+The surgeon that loves the guard,0,ML,subj_rel_all
+The surgeon that loves the chef,0,ML,subj_rel_all
+The surgeon that loves the architect,0,ML,subj_rel_all
+The surgeon that loves the skater,0,ML,subj_rel_all
+The surgeon that loves the dancer,0,ML,subj_rel_all
+The surgeon that loves the minister,0,ML,subj_rel_all
+The surgeon that loves the taxi driver,0,ML,subj_rel_all
+The surgeon that loves the assistant,0,ML,subj_rel_all
+The surgeon that loves the executive,0,ML,subj_rel_all
+The surgeon that loves the parent,0,ML,subj_rel_all
+The farmer that likes the guard,0,ML,subj_rel_all
+The farmer that likes the chef,0,ML,subj_rel_all
+The farmer that likes the architect,0,ML,subj_rel_all
+The farmer that likes the skater,0,ML,subj_rel_all
+The farmer that likes the dancer,0,ML,subj_rel_all
+The farmer that likes the minister,0,ML,subj_rel_all
+The farmer that likes the taxi driver,0,ML,subj_rel_all
+The farmer that likes the assistant,0,ML,subj_rel_all
+The farmer that likes the executive,0,ML,subj_rel_all
+The farmer that likes the parent,0,ML,subj_rel_all
+The farmer that admires the guard,0,ML,subj_rel_all
+The farmer that admires the chef,0,ML,subj_rel_all
+The farmer that admires the architect,0,ML,subj_rel_all
+The farmer that admires the skater,0,ML,subj_rel_all
+The farmer that admires the dancer,0,ML,subj_rel_all
+The farmer that admires the minister,0,ML,subj_rel_all
+The farmer that admires the taxi driver,0,ML,subj_rel_all
+The farmer that admires the assistant,0,ML,subj_rel_all
+The farmer that admires the executive,0,ML,subj_rel_all
+The farmer that admires the parent,0,ML,subj_rel_all
+The farmer that hates the guard,0,ML,subj_rel_all
+The farmer that hates the chef,0,ML,subj_rel_all
+The farmer that hates the architect,0,ML,subj_rel_all
+The farmer that hates the skater,0,ML,subj_rel_all
+The farmer that hates the dancer,0,ML,subj_rel_all
+The farmer that hates the minister,0,ML,subj_rel_all
+The farmer that hates the taxi driver,0,ML,subj_rel_all
+The farmer that hates the assistant,0,ML,subj_rel_all
+The farmer that hates the executive,0,ML,subj_rel_all
+The farmer that hates the parent,0,ML,subj_rel_all
+The farmer that loves the guard,0,ML,subj_rel_all
+The farmer that loves the chef,0,ML,subj_rel_all
+The farmer that loves the architect,0,ML,subj_rel_all
+The farmer that loves the skater,0,ML,subj_rel_all
+The farmer that loves the dancer,0,ML,subj_rel_all
+The farmer that loves the minister,0,ML,subj_rel_all
+The farmer that loves the taxi driver,0,ML,subj_rel_all
+The farmer that loves the assistant,0,ML,subj_rel_all
+The farmer that loves the executive,0,ML,subj_rel_all
+The farmer that loves the parent,0,ML,subj_rel_all
+The manager that likes the guard,0,ML,subj_rel_all
+The manager that likes the chef,0,ML,subj_rel_all
+The manager that likes the architect,0,ML,subj_rel_all
+The manager that likes the skater,0,ML,subj_rel_all
+The manager that likes the dancer,0,ML,subj_rel_all
+The manager that likes the minister,0,ML,subj_rel_all
+The manager that likes the taxi driver,0,ML,subj_rel_all
+The manager that likes the assistant,0,ML,subj_rel_all
+The manager that likes the executive,0,ML,subj_rel_all
+The manager that likes the parent,0,ML,subj_rel_all
+The manager that admires the guard,0,ML,subj_rel_all
+The manager that admires the chef,0,ML,subj_rel_all
+The manager that admires the architect,0,ML,subj_rel_all
+The manager that admires the skater,0,ML,subj_rel_all
+The manager that admires the dancer,0,ML,subj_rel_all
+The manager that admires the minister,0,ML,subj_rel_all
+The manager that admires the taxi driver,0,ML,subj_rel_all
+The manager that admires the assistant,0,ML,subj_rel_all
+The manager that admires the executive,0,ML,subj_rel_all
+The manager that admires the parent,0,ML,subj_rel_all
+The manager that hates the guard,0,ML,subj_rel_all
+The manager that hates the chef,0,ML,subj_rel_all
+The manager that hates the architect,0,ML,subj_rel_all
+The manager that hates the skater,0,ML,subj_rel_all
+The manager that hates the dancer,0,ML,subj_rel_all
+The manager that hates the minister,0,ML,subj_rel_all
+The manager that hates the taxi driver,0,ML,subj_rel_all
+The manager that hates the assistant,0,ML,subj_rel_all
+The manager that hates the executive,0,ML,subj_rel_all
+The manager that hates the parent,0,ML,subj_rel_all
+The manager that loves the guard,0,ML,subj_rel_all
+The manager that loves the chef,0,ML,subj_rel_all
+The manager that loves the architect,0,ML,subj_rel_all
+The manager that loves the skater,0,ML,subj_rel_all
+The manager that loves the dancer,0,ML,subj_rel_all
+The manager that loves the minister,0,ML,subj_rel_all
+The manager that loves the taxi driver,0,ML,subj_rel_all
+The manager that loves the assistant,0,ML,subj_rel_all
+The manager that loves the executive,0,ML,subj_rel_all
+The manager that loves the parent,0,ML,subj_rel_all
+The customer that likes the guard,0,ML,subj_rel_all
+The customer that likes the chef,0,ML,subj_rel_all
+The customer that likes the architect,0,ML,subj_rel_all
+The customer that likes the skater,0,ML,subj_rel_all
+The customer that likes the dancer,0,ML,subj_rel_all
+The customer that likes the minister,0,ML,subj_rel_all
+The customer that likes the taxi driver,0,ML,subj_rel_all
+The customer that likes the assistant,0,ML,subj_rel_all
+The customer that likes the executive,0,ML,subj_rel_all
+The customer that likes the parent,0,ML,subj_rel_all
+The customer that admires the guard,0,ML,subj_rel_all
+The customer that admires the chef,0,ML,subj_rel_all
+The customer that admires the architect,0,ML,subj_rel_all
+The customer that admires the skater,0,ML,subj_rel_all
+The customer that admires the dancer,0,ML,subj_rel_all
+The customer that admires the minister,0,ML,subj_rel_all
+The customer that admires the taxi driver,0,ML,subj_rel_all
+The customer that admires the assistant,0,ML,subj_rel_all
+The customer that admires the executive,0,ML,subj_rel_all
+The customer that admires the parent,0,ML,subj_rel_all
+The customer that hates the guard,0,ML,subj_rel_all
+The customer that hates the chef,0,ML,subj_rel_all
+The customer that hates the architect,0,ML,subj_rel_all
+The customer that hates the skater,0,ML,subj_rel_all
+The customer that hates the dancer,0,ML,subj_rel_all
+The customer that hates the minister,0,ML,subj_rel_all
+The customer that hates the taxi driver,0,ML,subj_rel_all
+The customer that hates the assistant,0,ML,subj_rel_all
+The customer that hates the executive,0,ML,subj_rel_all
+The customer that hates the parent,0,ML,subj_rel_all
+The customer that loves the guard,0,ML,subj_rel_all
+The customer that loves the chef,0,ML,subj_rel_all
+The customer that loves the architect,0,ML,subj_rel_all
+The customer that loves the skater,0,ML,subj_rel_all
+The customer that loves the dancer,0,ML,subj_rel_all
+The customer that loves the minister,0,ML,subj_rel_all
+The customer that loves the taxi driver,0,ML,subj_rel_all
+The customer that loves the assistant,0,ML,subj_rel_all
+The customer that loves the executive,0,ML,subj_rel_all
+The customer that loves the parent,0,ML,subj_rel_all
+The officer that likes the guard,0,ML,subj_rel_all
+The officer that likes the chef,0,ML,subj_rel_all
+The officer that likes the architect,0,ML,subj_rel_all
+The officer that likes the skater,0,ML,subj_rel_all
+The officer that likes the dancer,0,ML,subj_rel_all
+The officer that likes the minister,0,ML,subj_rel_all
+The officer that likes the taxi driver,0,ML,subj_rel_all
+The officer that likes the assistant,0,ML,subj_rel_all
+The officer that likes the executive,0,ML,subj_rel_all
+The officer that likes the parent,0,ML,subj_rel_all
+The officer that admires the guard,0,ML,subj_rel_all
+The officer that admires the chef,0,ML,subj_rel_all
+The officer that admires the architect,0,ML,subj_rel_all
+The officer that admires the skater,0,ML,subj_rel_all
+The officer that admires the dancer,0,ML,subj_rel_all
+The officer that admires the minister,0,ML,subj_rel_all
+The officer that admires the taxi driver,0,ML,subj_rel_all
+The officer that admires the assistant,0,ML,subj_rel_all
+The officer that admires the executive,0,ML,subj_rel_all
+The officer that admires the parent,0,ML,subj_rel_all
+The officer that hates the guard,0,ML,subj_rel_all
+The officer that hates the chef,0,ML,subj_rel_all
+The officer that hates the architect,0,ML,subj_rel_all
+The officer that hates the skater,0,ML,subj_rel_all
+The officer that hates the dancer,0,ML,subj_rel_all
+The officer that hates the minister,0,ML,subj_rel_all
+The officer that hates the taxi driver,0,ML,subj_rel_all
+The officer that hates the assistant,0,ML,subj_rel_all
+The officer that hates the executive,0,ML,subj_rel_all
+The officer that hates the parent,0,ML,subj_rel_all
+The officer that loves the guard,0,ML,subj_rel_all
+The officer that loves the chef,0,ML,subj_rel_all
+The officer that loves the architect,0,ML,subj_rel_all
+The officer that loves the skater,0,ML,subj_rel_all
+The officer that loves the dancer,0,ML,subj_rel_all
+The officer that loves the minister,0,ML,subj_rel_all
+The officer that loves the taxi driver,0,ML,subj_rel_all
+The officer that loves the assistant,0,ML,subj_rel_all
+The officer that loves the executive,0,ML,subj_rel_all
+The officer that loves the parent,0,ML,subj_rel_all
+The teacher that likes the guard,0,ML,subj_rel_all
+The teacher that likes the chef,0,ML,subj_rel_all
+The teacher that likes the architect,0,ML,subj_rel_all
+The teacher that likes the skater,0,ML,subj_rel_all
+The teacher that likes the dancer,0,ML,subj_rel_all
+The teacher that likes the minister,0,ML,subj_rel_all
+The teacher that likes the taxi driver,0,ML,subj_rel_all
+The teacher that likes the assistant,0,ML,subj_rel_all
+The teacher that likes the executive,0,ML,subj_rel_all
+The teacher that likes the parent,0,ML,subj_rel_all
+The teacher that admires the guard,0,ML,subj_rel_all
+The teacher that admires the chef,0,ML,subj_rel_all
+The teacher that admires the architect,0,ML,subj_rel_all
+The teacher that admires the skater,0,ML,subj_rel_all
+The teacher that admires the dancer,0,ML,subj_rel_all
+The teacher that admires the minister,0,ML,subj_rel_all
+The teacher that admires the taxi driver,0,ML,subj_rel_all
+The teacher that admires the assistant,0,ML,subj_rel_all
+The teacher that admires the executive,0,ML,subj_rel_all
+The teacher that admires the parent,0,ML,subj_rel_all
+The teacher that hates the guard,0,ML,subj_rel_all
+The teacher that hates the chef,0,ML,subj_rel_all
+The teacher that hates the architect,0,ML,subj_rel_all
+The teacher that hates the skater,0,ML,subj_rel_all
+The teacher that hates the dancer,0,ML,subj_rel_all
+The teacher that hates the minister,0,ML,subj_rel_all
+The teacher that hates the taxi driver,0,ML,subj_rel_all
+The teacher that hates the assistant,0,ML,subj_rel_all
+The teacher that hates the executive,0,ML,subj_rel_all
+The teacher that hates the parent,0,ML,subj_rel_all
+The teacher that loves the guard,0,ML,subj_rel_all
+The teacher that loves the chef,0,ML,subj_rel_all
+The teacher that loves the architect,0,ML,subj_rel_all
+The teacher that loves the skater,0,ML,subj_rel_all
+The teacher that loves the dancer,0,ML,subj_rel_all
+The teacher that loves the minister,0,ML,subj_rel_all
+The teacher that loves the taxi driver,0,ML,subj_rel_all
+The teacher that loves the assistant,0,ML,subj_rel_all
+The teacher that loves the executive,0,ML,subj_rel_all
+The teacher that loves the parent,0,ML,subj_rel_all
+The senator that likes the guard,0,ML,subj_rel_all
+The senator that likes the chef,0,ML,subj_rel_all
+The senator that likes the architect,0,ML,subj_rel_all
+The senator that likes the skater,0,ML,subj_rel_all
+The senator that likes the dancer,0,ML,subj_rel_all
+The senator that likes the minister,0,ML,subj_rel_all
+The senator that likes the taxi driver,0,ML,subj_rel_all
+The senator that likes the assistant,0,ML,subj_rel_all
+The senator that likes the executive,0,ML,subj_rel_all
+The senator that likes the parent,0,ML,subj_rel_all
+The senator that admires the guard,0,ML,subj_rel_all
+The senator that admires the chef,0,ML,subj_rel_all
+The senator that admires the architect,0,ML,subj_rel_all
+The senator that admires the skater,0,ML,subj_rel_all
+The senator that admires the dancer,0,ML,subj_rel_all
+The senator that admires the minister,0,ML,subj_rel_all
+The senator that admires the taxi driver,0,ML,subj_rel_all
+The senator that admires the assistant,0,ML,subj_rel_all
+The senator that admires the executive,0,ML,subj_rel_all
+The senator that admires the parent,0,ML,subj_rel_all
+The senator that hates the guard,0,ML,subj_rel_all
+The senator that hates the chef,0,ML,subj_rel_all
+The senator that hates the architect,0,ML,subj_rel_all
+The senator that hates the skater,0,ML,subj_rel_all
+The senator that hates the dancer,0,ML,subj_rel_all
+The senator that hates the minister,0,ML,subj_rel_all
+The senator that hates the taxi driver,0,ML,subj_rel_all
+The senator that hates the assistant,0,ML,subj_rel_all
+The senator that hates the executive,0,ML,subj_rel_all
+The senator that hates the parent,0,ML,subj_rel_all
+The senator that loves the guard,0,ML,subj_rel_all
+The senator that loves the chef,0,ML,subj_rel_all
+The senator that loves the architect,0,ML,subj_rel_all
+The senator that loves the skater,0,ML,subj_rel_all
+The senator that loves the dancer,0,ML,subj_rel_all
+The senator that loves the minister,0,ML,subj_rel_all
+The senator that loves the taxi driver,0,ML,subj_rel_all
+The senator that loves the assistant,0,ML,subj_rel_all
+The senator that loves the executive,0,ML,subj_rel_all
+The senator that loves the parent,0,ML,subj_rel_all
+The consultant that likes the guard,0,ML,subj_rel_all
+The consultant that likes the chef,0,ML,subj_rel_all
+The consultant that likes the architect,0,ML,subj_rel_all
+The consultant that likes the skater,0,ML,subj_rel_all
+The consultant that likes the dancer,0,ML,subj_rel_all
+The consultant that likes the minister,0,ML,subj_rel_all
+The consultant that likes the taxi driver,0,ML,subj_rel_all
+The consultant that likes the assistant,0,ML,subj_rel_all
+The consultant that likes the executive,0,ML,subj_rel_all
+The consultant that likes the parent,0,ML,subj_rel_all
+The consultant that admires the guard,0,ML,subj_rel_all
+The consultant that admires the chef,0,ML,subj_rel_all
+The consultant that admires the architect,0,ML,subj_rel_all
+The consultant that admires the skater,0,ML,subj_rel_all
+The consultant that admires the dancer,0,ML,subj_rel_all
+The consultant that admires the minister,0,ML,subj_rel_all
+The consultant that admires the taxi driver,0,ML,subj_rel_all
+The consultant that admires the assistant,0,ML,subj_rel_all
+The consultant that admires the executive,0,ML,subj_rel_all
+The consultant that admires the parent,0,ML,subj_rel_all
+The consultant that hates the guard,0,ML,subj_rel_all
+The consultant that hates the chef,0,ML,subj_rel_all
+The consultant that hates the architect,0,ML,subj_rel_all
+The consultant that hates the skater,0,ML,subj_rel_all
+The consultant that hates the dancer,0,ML,subj_rel_all
+The consultant that hates the minister,0,ML,subj_rel_all
+The consultant that hates the taxi driver,0,ML,subj_rel_all
+The consultant that hates the assistant,0,ML,subj_rel_all
+The consultant that hates the executive,0,ML,subj_rel_all
+The consultant that hates the parent,0,ML,subj_rel_all
+The consultant that loves the guard,0,ML,subj_rel_all
+The consultant that loves the chef,0,ML,subj_rel_all
+The consultant that loves the architect,0,ML,subj_rel_all
+The consultant that loves the skater,0,ML,subj_rel_all
+The consultant that loves the dancer,0,ML,subj_rel_all
+The consultant that loves the minister,0,ML,subj_rel_all
+The consultant that loves the taxi driver,0,ML,subj_rel_all
+The consultant that loves the assistant,0,ML,subj_rel_all
+The consultant that loves the executive,0,ML,subj_rel_all
+The consultant that loves the parent,0,ML,subj_rel_all
+The author that likes the guards,0,ML,subj_rel_all
+The author that likes the chefs,0,ML,subj_rel_all
+The author that likes the architects,0,ML,subj_rel_all
+The author that likes the skaters,0,ML,subj_rel_all
+The author that likes the dancers,0,ML,subj_rel_all
+The author that likes the ministers,0,ML,subj_rel_all
+The author that likes the taxi drivers,0,ML,subj_rel_all
+The author that likes the assistants,0,ML,subj_rel_all
+The author that likes the executives,0,ML,subj_rel_all
+The author that likes the parents,0,ML,subj_rel_all
+The author that admires the guards,0,ML,subj_rel_all
+The author that admires the chefs,0,ML,subj_rel_all
+The author that admires the architects,0,ML,subj_rel_all
+The author that admires the skaters,0,ML,subj_rel_all
+The author that admires the dancers,0,ML,subj_rel_all
+The author that admires the ministers,0,ML,subj_rel_all
+The author that admires the taxi drivers,0,ML,subj_rel_all
+The author that admires the assistants,0,ML,subj_rel_all
+The author that admires the executives,0,ML,subj_rel_all
+The author that admires the parents,0,ML,subj_rel_all
+The author that hates the guards,0,ML,subj_rel_all
+The author that hates the chefs,0,ML,subj_rel_all
+The author that hates the architects,0,ML,subj_rel_all
+The author that hates the skaters,0,ML,subj_rel_all
+The author that hates the dancers,0,ML,subj_rel_all
+The author that hates the ministers,0,ML,subj_rel_all
+The author that hates the taxi drivers,0,ML,subj_rel_all
+The author that hates the assistants,0,ML,subj_rel_all
+The author that hates the executives,0,ML,subj_rel_all
+The author that hates the parents,0,ML,subj_rel_all
+The author that loves the guards,0,ML,subj_rel_all
+The author that loves the chefs,0,ML,subj_rel_all
+The author that loves the architects,0,ML,subj_rel_all
+The author that loves the skaters,0,ML,subj_rel_all
+The author that loves the dancers,0,ML,subj_rel_all
+The author that loves the ministers,0,ML,subj_rel_all
+The author that loves the taxi drivers,0,ML,subj_rel_all
+The author that loves the assistants,0,ML,subj_rel_all
+The author that loves the executives,0,ML,subj_rel_all
+The author that loves the parents,0,ML,subj_rel_all
+The pilot that likes the guards,0,ML,subj_rel_all
+The pilot that likes the chefs,0,ML,subj_rel_all
+The pilot that likes the architects,0,ML,subj_rel_all
+The pilot that likes the skaters,0,ML,subj_rel_all
+The pilot that likes the dancers,0,ML,subj_rel_all
+The pilot that likes the ministers,0,ML,subj_rel_all
+The pilot that likes the taxi drivers,0,ML,subj_rel_all
+The pilot that likes the assistants,0,ML,subj_rel_all
+The pilot that likes the executives,0,ML,subj_rel_all
+The pilot that likes the parents,0,ML,subj_rel_all
+The pilot that admires the guards,0,ML,subj_rel_all
+The pilot that admires the chefs,0,ML,subj_rel_all
+The pilot that admires the architects,0,ML,subj_rel_all
+The pilot that admires the skaters,0,ML,subj_rel_all
+The pilot that admires the dancers,0,ML,subj_rel_all
+The pilot that admires the ministers,0,ML,subj_rel_all
+The pilot that admires the taxi drivers,0,ML,subj_rel_all
+The pilot that admires the assistants,0,ML,subj_rel_all
+The pilot that admires the executives,0,ML,subj_rel_all
+The pilot that admires the parents,0,ML,subj_rel_all
+The pilot that hates the guards,0,ML,subj_rel_all
+The pilot that hates the chefs,0,ML,subj_rel_all
+The pilot that hates the architects,0,ML,subj_rel_all
+The pilot that hates the skaters,0,ML,subj_rel_all
+The pilot that hates the dancers,0,ML,subj_rel_all
+The pilot that hates the ministers,0,ML,subj_rel_all
+The pilot that hates the taxi drivers,0,ML,subj_rel_all
+The pilot that hates the assistants,0,ML,subj_rel_all
+The pilot that hates the executives,0,ML,subj_rel_all
+The pilot that hates the parents,0,ML,subj_rel_all
+The pilot that loves the guards,0,ML,subj_rel_all
+The pilot that loves the chefs,0,ML,subj_rel_all
+The pilot that loves the architects,0,ML,subj_rel_all
+The pilot that loves the skaters,0,ML,subj_rel_all
+The pilot that loves the dancers,0,ML,subj_rel_all
+The pilot that loves the ministers,0,ML,subj_rel_all
+The pilot that loves the taxi drivers,0,ML,subj_rel_all
+The pilot that loves the assistants,0,ML,subj_rel_all
+The pilot that loves the executives,0,ML,subj_rel_all
+The pilot that loves the parents,0,ML,subj_rel_all
+The surgeon that likes the guards,0,ML,subj_rel_all
+The surgeon that likes the chefs,0,ML,subj_rel_all
+The surgeon that likes the architects,0,ML,subj_rel_all
+The surgeon that likes the skaters,0,ML,subj_rel_all
+The surgeon that likes the dancers,0,ML,subj_rel_all
+The surgeon that likes the ministers,0,ML,subj_rel_all
+The surgeon that likes the taxi drivers,0,ML,subj_rel_all
+The surgeon that likes the assistants,0,ML,subj_rel_all
+The surgeon that likes the executives,0,ML,subj_rel_all
+The surgeon that likes the parents,0,ML,subj_rel_all
+The surgeon that admires the guards,0,ML,subj_rel_all
+The surgeon that admires the chefs,0,ML,subj_rel_all
+The surgeon that admires the architects,0,ML,subj_rel_all
+The surgeon that admires the skaters,0,ML,subj_rel_all
+The surgeon that admires the dancers,0,ML,subj_rel_all
+The surgeon that admires the ministers,0,ML,subj_rel_all
+The surgeon that admires the taxi drivers,0,ML,subj_rel_all
+The surgeon that admires the assistants,0,ML,subj_rel_all
+The surgeon that admires the executives,0,ML,subj_rel_all
+The surgeon that admires the parents,0,ML,subj_rel_all
+The surgeon that hates the guards,0,ML,subj_rel_all
+The surgeon that hates the chefs,0,ML,subj_rel_all
+The surgeon that hates the architects,0,ML,subj_rel_all
+The surgeon that hates the skaters,0,ML,subj_rel_all
+The surgeon that hates the dancers,0,ML,subj_rel_all
+The surgeon that hates the ministers,0,ML,subj_rel_all
+The surgeon that hates the taxi drivers,0,ML,subj_rel_all
+The surgeon that hates the assistants,0,ML,subj_rel_all
+The surgeon that hates the executives,0,ML,subj_rel_all
+The surgeon that hates the parents,0,ML,subj_rel_all
+The surgeon that loves the guards,0,ML,subj_rel_all
+The surgeon that loves the chefs,0,ML,subj_rel_all
+The surgeon that loves the architects,0,ML,subj_rel_all
+The surgeon that loves the skaters,0,ML,subj_rel_all
+The surgeon that loves the dancers,0,ML,subj_rel_all
+The surgeon that loves the ministers,0,ML,subj_rel_all
+The surgeon that loves the taxi drivers,0,ML,subj_rel_all
+The surgeon that loves the assistants,0,ML,subj_rel_all
+The surgeon that loves the executives,0,ML,subj_rel_all
+The surgeon that loves the parents,0,ML,subj_rel_all
+The farmer that likes the guards,0,ML,subj_rel_all
+The farmer that likes the chefs,0,ML,subj_rel_all
+The farmer that likes the architects,0,ML,subj_rel_all
+The farmer that likes the skaters,0,ML,subj_rel_all
+The farmer that likes the dancers,0,ML,subj_rel_all
+The farmer that likes the ministers,0,ML,subj_rel_all
+The farmer that likes the taxi drivers,0,ML,subj_rel_all
+The farmer that likes the assistants,0,ML,subj_rel_all
+The farmer that likes the executives,0,ML,subj_rel_all
+The farmer that likes the parents,0,ML,subj_rel_all
+The farmer that admires the guards,0,ML,subj_rel_all
+The farmer that admires the chefs,0,ML,subj_rel_all
+The farmer that admires the architects,0,ML,subj_rel_all
+The farmer that admires the skaters,0,ML,subj_rel_all
+The farmer that admires the dancers,0,ML,subj_rel_all
+The farmer that admires the ministers,0,ML,subj_rel_all
+The farmer that admires the taxi drivers,0,ML,subj_rel_all
+The farmer that admires the assistants,0,ML,subj_rel_all
+The farmer that admires the executives,0,ML,subj_rel_all
+The farmer that admires the parents,0,ML,subj_rel_all
+The farmer that hates the guards,0,ML,subj_rel_all
+The farmer that hates the chefs,0,ML,subj_rel_all
+The farmer that hates the architects,0,ML,subj_rel_all
+The farmer that hates the skaters,0,ML,subj_rel_all
+The farmer that hates the dancers,0,ML,subj_rel_all
+The farmer that hates the ministers,0,ML,subj_rel_all
+The farmer that hates the taxi drivers,0,ML,subj_rel_all
+The farmer that hates the assistants,0,ML,subj_rel_all
+The farmer that hates the executives,0,ML,subj_rel_all
+The farmer that hates the parents,0,ML,subj_rel_all
+The farmer that loves the guards,0,ML,subj_rel_all
+The farmer that loves the chefs,0,ML,subj_rel_all
+The farmer that loves the architects,0,ML,subj_rel_all
+The farmer that loves the skaters,0,ML,subj_rel_all
+The farmer that loves the dancers,0,ML,subj_rel_all
+The farmer that loves the ministers,0,ML,subj_rel_all
+The farmer that loves the taxi drivers,0,ML,subj_rel_all
+The farmer that loves the assistants,0,ML,subj_rel_all
+The farmer that loves the executives,0,ML,subj_rel_all
+The farmer that loves the parents,0,ML,subj_rel_all
+The manager that likes the guards,0,ML,subj_rel_all
+The manager that likes the chefs,0,ML,subj_rel_all
+The manager that likes the architects,0,ML,subj_rel_all
+The manager that likes the skaters,0,ML,subj_rel_all
+The manager that likes the dancers,0,ML,subj_rel_all
+The manager that likes the ministers,0,ML,subj_rel_all
+The manager that likes the taxi drivers,0,ML,subj_rel_all
+The manager that likes the assistants,0,ML,subj_rel_all
+The manager that likes the executives,0,ML,subj_rel_all
+The manager that likes the parents,0,ML,subj_rel_all
+The manager that admires the guards,0,ML,subj_rel_all
+The manager that admires the chefs,0,ML,subj_rel_all
+The manager that admires the architects,0,ML,subj_rel_all
+The manager that admires the skaters,0,ML,subj_rel_all
+The manager that admires the dancers,0,ML,subj_rel_all
+The manager that admires the ministers,0,ML,subj_rel_all
+The manager that admires the taxi drivers,0,ML,subj_rel_all
+The manager that admires the assistants,0,ML,subj_rel_all
+The manager that admires the executives,0,ML,subj_rel_all
+The manager that admires the parents,0,ML,subj_rel_all
+The manager that hates the guards,0,ML,subj_rel_all
+The manager that hates the chefs,0,ML,subj_rel_all
+The manager that hates the architects,0,ML,subj_rel_all
+The manager that hates the skaters,0,ML,subj_rel_all
+The manager that hates the dancers,0,ML,subj_rel_all
+The manager that hates the ministers,0,ML,subj_rel_all
+The manager that hates the taxi drivers,0,ML,subj_rel_all
+The manager that hates the assistants,0,ML,subj_rel_all
+The manager that hates the executives,0,ML,subj_rel_all
+The manager that hates the parents,0,ML,subj_rel_all
+The manager that loves the guards,0,ML,subj_rel_all
+The manager that loves the chefs,0,ML,subj_rel_all
+The manager that loves the architects,0,ML,subj_rel_all
+The manager that loves the skaters,0,ML,subj_rel_all
+The manager that loves the dancers,0,ML,subj_rel_all
+The manager that loves the ministers,0,ML,subj_rel_all
+The manager that loves the taxi drivers,0,ML,subj_rel_all
+The manager that loves the assistants,0,ML,subj_rel_all
+The manager that loves the executives,0,ML,subj_rel_all
+The manager that loves the parents,0,ML,subj_rel_all
+The customer that likes the guards,0,ML,subj_rel_all
+The customer that likes the chefs,0,ML,subj_rel_all
+The customer that likes the architects,0,ML,subj_rel_all
+The customer that likes the skaters,0,ML,subj_rel_all
+The customer that likes the dancers,0,ML,subj_rel_all
+The customer that likes the ministers,0,ML,subj_rel_all
+The customer that likes the taxi drivers,0,ML,subj_rel_all
+The customer that likes the assistants,0,ML,subj_rel_all
+The customer that likes the executives,0,ML,subj_rel_all
+The customer that likes the parents,0,ML,subj_rel_all
+The customer that admires the guards,0,ML,subj_rel_all
+The customer that admires the chefs,0,ML,subj_rel_all
+The customer that admires the architects,0,ML,subj_rel_all
+The customer that admires the skaters,0,ML,subj_rel_all
+The customer that admires the dancers,0,ML,subj_rel_all
+The customer that admires the ministers,0,ML,subj_rel_all
+The customer that admires the taxi drivers,0,ML,subj_rel_all
+The customer that admires the assistants,0,ML,subj_rel_all
+The customer that admires the executives,0,ML,subj_rel_all
+The customer that admires the parents,0,ML,subj_rel_all
+The customer that hates the guards,0,ML,subj_rel_all
+The customer that hates the chefs,0,ML,subj_rel_all
+The customer that hates the architects,0,ML,subj_rel_all
+The customer that hates the skaters,0,ML,subj_rel_all
+The customer that hates the dancers,0,ML,subj_rel_all
+The customer that hates the ministers,0,ML,subj_rel_all
+The customer that hates the taxi drivers,0,ML,subj_rel_all
+The customer that hates the assistants,0,ML,subj_rel_all
+The customer that hates the executives,0,ML,subj_rel_all
+The customer that hates the parents,0,ML,subj_rel_all
+The customer that loves the guards,0,ML,subj_rel_all
+The customer that loves the chefs,0,ML,subj_rel_all
+The customer that loves the architects,0,ML,subj_rel_all
+The customer that loves the skaters,0,ML,subj_rel_all
+The customer that loves the dancers,0,ML,subj_rel_all
+The customer that loves the ministers,0,ML,subj_rel_all
+The customer that loves the taxi drivers,0,ML,subj_rel_all
+The customer that loves the assistants,0,ML,subj_rel_all
+The customer that loves the executives,0,ML,subj_rel_all
+The customer that loves the parents,0,ML,subj_rel_all
+The officer that likes the guards,0,ML,subj_rel_all
+The officer that likes the chefs,0,ML,subj_rel_all
+The officer that likes the architects,0,ML,subj_rel_all
+The officer that likes the skaters,0,ML,subj_rel_all
+The officer that likes the dancers,0,ML,subj_rel_all
+The officer that likes the ministers,0,ML,subj_rel_all
+The officer that likes the taxi drivers,0,ML,subj_rel_all
+The officer that likes the assistants,0,ML,subj_rel_all
+The officer that likes the executives,0,ML,subj_rel_all
+The officer that likes the parents,0,ML,subj_rel_all
+The officer that admires the guards,0,ML,subj_rel_all
+The officer that admires the chefs,0,ML,subj_rel_all
+The officer that admires the architects,0,ML,subj_rel_all
+The officer that admires the skaters,0,ML,subj_rel_all
+The officer that admires the dancers,0,ML,subj_rel_all
+The officer that admires the ministers,0,ML,subj_rel_all
+The officer that admires the taxi drivers,0,ML,subj_rel_all
+The officer that admires the assistants,0,ML,subj_rel_all
+The officer that admires the executives,0,ML,subj_rel_all
+The officer that admires the parents,0,ML,subj_rel_all
+The officer that hates the guards,0,ML,subj_rel_all
+The officer that hates the chefs,0,ML,subj_rel_all
+The officer that hates the architects,0,ML,subj_rel_all
+The officer that hates the skaters,0,ML,subj_rel_all
+The officer that hates the dancers,0,ML,subj_rel_all
+The officer that hates the ministers,0,ML,subj_rel_all
+The officer that hates the taxi drivers,0,ML,subj_rel_all
+The officer that hates the assistants,0,ML,subj_rel_all
+The officer that hates the executives,0,ML,subj_rel_all
+The officer that hates the parents,0,ML,subj_rel_all
+The officer that loves the guards,0,ML,subj_rel_all
+The officer that loves the chefs,0,ML,subj_rel_all
+The officer that loves the architects,0,ML,subj_rel_all
+The officer that loves the skaters,0,ML,subj_rel_all
+The officer that loves the dancers,0,ML,subj_rel_all
+The officer that loves the ministers,0,ML,subj_rel_all
+The officer that loves the taxi drivers,0,ML,subj_rel_all
+The officer that loves the assistants,0,ML,subj_rel_all
+The officer that loves the executives,0,ML,subj_rel_all
+The officer that loves the parents,0,ML,subj_rel_all
+The teacher that likes the guards,0,ML,subj_rel_all
+The teacher that likes the chefs,0,ML,subj_rel_all
+The teacher that likes the architects,0,ML,subj_rel_all
+The teacher that likes the skaters,0,ML,subj_rel_all
+The teacher that likes the dancers,0,ML,subj_rel_all
+The teacher that likes the ministers,0,ML,subj_rel_all
+The teacher that likes the taxi drivers,0,ML,subj_rel_all
+The teacher that likes the assistants,0,ML,subj_rel_all
+The teacher that likes the executives,0,ML,subj_rel_all
+The teacher that likes the parents,0,ML,subj_rel_all
+The teacher that admires the guards,0,ML,subj_rel_all
+The teacher that admires the chefs,0,ML,subj_rel_all
+The teacher that admires the architects,0,ML,subj_rel_all
+The teacher that admires the skaters,0,ML,subj_rel_all
+The teacher that admires the dancers,0,ML,subj_rel_all
+The teacher that admires the ministers,0,ML,subj_rel_all
+The teacher that admires the taxi drivers,0,ML,subj_rel_all
+The teacher that admires the assistants,0,ML,subj_rel_all
+The teacher that admires the executives,0,ML,subj_rel_all
+The teacher that admires the parents,0,ML,subj_rel_all
+The teacher that hates the guards,0,ML,subj_rel_all
+The teacher that hates the chefs,0,ML,subj_rel_all
+The teacher that hates the architects,0,ML,subj_rel_all
+The teacher that hates the skaters,0,ML,subj_rel_all
+The teacher that hates the dancers,0,ML,subj_rel_all
+The teacher that hates the ministers,0,ML,subj_rel_all
+The teacher that hates the taxi drivers,0,ML,subj_rel_all
+The teacher that hates the assistants,0,ML,subj_rel_all
+The teacher that hates the executives,0,ML,subj_rel_all
+The teacher that hates the parents,0,ML,subj_rel_all
+The teacher that loves the guards,0,ML,subj_rel_all
+The teacher that loves the chefs,0,ML,subj_rel_all
+The teacher that loves the architects,0,ML,subj_rel_all
+The teacher that loves the skaters,0,ML,subj_rel_all
+The teacher that loves the dancers,0,ML,subj_rel_all
+The teacher that loves the ministers,0,ML,subj_rel_all
+The teacher that loves the taxi drivers,0,ML,subj_rel_all
+The teacher that loves the assistants,0,ML,subj_rel_all
+The teacher that loves the executives,0,ML,subj_rel_all
+The teacher that loves the parents,0,ML,subj_rel_all
+The senator that likes the guards,0,ML,subj_rel_all
+The senator that likes the chefs,0,ML,subj_rel_all
+The senator that likes the architects,0,ML,subj_rel_all
+The senator that likes the skaters,0,ML,subj_rel_all
+The senator that likes the dancers,0,ML,subj_rel_all
+The senator that likes the ministers,0,ML,subj_rel_all
+The senator that likes the taxi drivers,0,ML,subj_rel_all
+The senator that likes the assistants,0,ML,subj_rel_all
+The senator that likes the executives,0,ML,subj_rel_all
+The senator that likes the parents,0,ML,subj_rel_all
+The senator that admires the guards,0,ML,subj_rel_all
+The senator that admires the chefs,0,ML,subj_rel_all
+The senator that admires the architects,0,ML,subj_rel_all
+The senator that admires the skaters,0,ML,subj_rel_all
+The senator that admires the dancers,0,ML,subj_rel_all
+The senator that admires the ministers,0,ML,subj_rel_all
+The senator that admires the taxi drivers,0,ML,subj_rel_all
+The senator that admires the assistants,0,ML,subj_rel_all
+The senator that admires the executives,0,ML,subj_rel_all
+The senator that admires the parents,0,ML,subj_rel_all
+The senator that hates the guards,0,ML,subj_rel_all
+The senator that hates the chefs,0,ML,subj_rel_all
+The senator that hates the architects,0,ML,subj_rel_all
+The senator that hates the skaters,0,ML,subj_rel_all
+The senator that hates the dancers,0,ML,subj_rel_all
+The senator that hates the ministers,0,ML,subj_rel_all
+The senator that hates the taxi drivers,0,ML,subj_rel_all
+The senator that hates the assistants,0,ML,subj_rel_all
+The senator that hates the executives,0,ML,subj_rel_all
+The senator that hates the parents,0,ML,subj_rel_all
+The senator that loves the guards,0,ML,subj_rel_all
+The senator that loves the chefs,0,ML,subj_rel_all
+The senator that loves the architects,0,ML,subj_rel_all
+The senator that loves the skaters,0,ML,subj_rel_all
+The senator that loves the dancers,0,ML,subj_rel_all
+The senator that loves the ministers,0,ML,subj_rel_all
+The senator that loves the taxi drivers,0,ML,subj_rel_all
+The senator that loves the assistants,0,ML,subj_rel_all
+The senator that loves the executives,0,ML,subj_rel_all
+The senator that loves the parents,0,ML,subj_rel_all
+The consultant that likes the guards,0,ML,subj_rel_all
+The consultant that likes the chefs,0,ML,subj_rel_all
+The consultant that likes the architects,0,ML,subj_rel_all
+The consultant that likes the skaters,0,ML,subj_rel_all
+The consultant that likes the dancers,0,ML,subj_rel_all
+The consultant that likes the ministers,0,ML,subj_rel_all
+The consultant that likes the taxi drivers,0,ML,subj_rel_all
+The consultant that likes the assistants,0,ML,subj_rel_all
+The consultant that likes the executives,0,ML,subj_rel_all
+The consultant that likes the parents,0,ML,subj_rel_all
+The consultant that admires the guards,0,ML,subj_rel_all
+The consultant that admires the chefs,0,ML,subj_rel_all
+The consultant that admires the architects,0,ML,subj_rel_all
+The consultant that admires the skaters,0,ML,subj_rel_all
+The consultant that admires the dancers,0,ML,subj_rel_all
+The consultant that admires the ministers,0,ML,subj_rel_all
+The consultant that admires the taxi drivers,0,ML,subj_rel_all
+The consultant that admires the assistants,0,ML,subj_rel_all
+The consultant that admires the executives,0,ML,subj_rel_all
+The consultant that admires the parents,0,ML,subj_rel_all
+The consultant that hates the guards,0,ML,subj_rel_all
+The consultant that hates the chefs,0,ML,subj_rel_all
+The consultant that hates the architects,0,ML,subj_rel_all
+The consultant that hates the skaters,0,ML,subj_rel_all
+The consultant that hates the dancers,0,ML,subj_rel_all
+The consultant that hates the ministers,0,ML,subj_rel_all
+The consultant that hates the taxi drivers,0,ML,subj_rel_all
+The consultant that hates the assistants,0,ML,subj_rel_all
+The consultant that hates the executives,0,ML,subj_rel_all
+The consultant that hates the parents,0,ML,subj_rel_all
+The consultant that loves the guards,0,ML,subj_rel_all
+The consultant that loves the chefs,0,ML,subj_rel_all
+The consultant that loves the architects,0,ML,subj_rel_all
+The consultant that loves the skaters,0,ML,subj_rel_all
+The consultant that loves the dancers,0,ML,subj_rel_all
+The consultant that loves the ministers,0,ML,subj_rel_all
+The consultant that loves the taxi drivers,0,ML,subj_rel_all
+The consultant that loves the assistants,0,ML,subj_rel_all
+The consultant that loves the executives,0,ML,subj_rel_all
+The consultant that loves the parents,0,ML,subj_rel_all
+The authors that like the guard,1,ML,subj_rel_all
+The authors that like the chef,1,ML,subj_rel_all
+The authors that like the architect,1,ML,subj_rel_all
+The authors that like the skater,1,ML,subj_rel_all
+The authors that like the dancer,1,ML,subj_rel_all
+The authors that like the minister,1,ML,subj_rel_all
+The authors that like the taxi driver,1,ML,subj_rel_all
+The authors that like the assistant,1,ML,subj_rel_all
+The authors that like the executive,1,ML,subj_rel_all
+The authors that like the parent,1,ML,subj_rel_all
+The authors that admire the guard,1,ML,subj_rel_all
+The authors that admire the chef,1,ML,subj_rel_all
+The authors that admire the architect,1,ML,subj_rel_all
+The authors that admire the skater,1,ML,subj_rel_all
+The authors that admire the dancer,1,ML,subj_rel_all
+The authors that admire the minister,1,ML,subj_rel_all
+The authors that admire the taxi driver,1,ML,subj_rel_all
+The authors that admire the assistant,1,ML,subj_rel_all
+The authors that admire the executive,1,ML,subj_rel_all
+The authors that admire the parent,1,ML,subj_rel_all
+The authors that hate the guard,1,ML,subj_rel_all
+The authors that hate the chef,1,ML,subj_rel_all
+The authors that hate the architect,1,ML,subj_rel_all
+The authors that hate the skater,1,ML,subj_rel_all
+The authors that hate the dancer,1,ML,subj_rel_all
+The authors that hate the minister,1,ML,subj_rel_all
+The authors that hate the taxi driver,1,ML,subj_rel_all
+The authors that hate the assistant,1,ML,subj_rel_all
+The authors that hate the executive,1,ML,subj_rel_all
+The authors that hate the parent,1,ML,subj_rel_all
+The authors that love the guard,1,ML,subj_rel_all
+The authors that love the chef,1,ML,subj_rel_all
+The authors that love the architect,1,ML,subj_rel_all
+The authors that love the skater,1,ML,subj_rel_all
+The authors that love the dancer,1,ML,subj_rel_all
+The authors that love the minister,1,ML,subj_rel_all
+The authors that love the taxi driver,1,ML,subj_rel_all
+The authors that love the assistant,1,ML,subj_rel_all
+The authors that love the executive,1,ML,subj_rel_all
+The authors that love the parent,1,ML,subj_rel_all
+The pilots that like the guard,1,ML,subj_rel_all
+The pilots that like the chef,1,ML,subj_rel_all
+The pilots that like the architect,1,ML,subj_rel_all
+The pilots that like the skater,1,ML,subj_rel_all
+The pilots that like the dancer,1,ML,subj_rel_all
+The pilots that like the minister,1,ML,subj_rel_all
+The pilots that like the taxi driver,1,ML,subj_rel_all
+The pilots that like the assistant,1,ML,subj_rel_all
+The pilots that like the executive,1,ML,subj_rel_all
+The pilots that like the parent,1,ML,subj_rel_all
+The pilots that admire the guard,1,ML,subj_rel_all
+The pilots that admire the chef,1,ML,subj_rel_all
+The pilots that admire the architect,1,ML,subj_rel_all
+The pilots that admire the skater,1,ML,subj_rel_all
+The pilots that admire the dancer,1,ML,subj_rel_all
+The pilots that admire the minister,1,ML,subj_rel_all
+The pilots that admire the taxi driver,1,ML,subj_rel_all
+The pilots that admire the assistant,1,ML,subj_rel_all
+The pilots that admire the executive,1,ML,subj_rel_all
+The pilots that admire the parent,1,ML,subj_rel_all
+The pilots that hate the guard,1,ML,subj_rel_all
+The pilots that hate the chef,1,ML,subj_rel_all
+The pilots that hate the architect,1,ML,subj_rel_all
+The pilots that hate the skater,1,ML,subj_rel_all
+The pilots that hate the dancer,1,ML,subj_rel_all
+The pilots that hate the minister,1,ML,subj_rel_all
+The pilots that hate the taxi driver,1,ML,subj_rel_all
+The pilots that hate the assistant,1,ML,subj_rel_all
+The pilots that hate the executive,1,ML,subj_rel_all
+The pilots that hate the parent,1,ML,subj_rel_all
+The pilots that love the guard,1,ML,subj_rel_all
+The pilots that love the chef,1,ML,subj_rel_all
+The pilots that love the architect,1,ML,subj_rel_all
+The pilots that love the skater,1,ML,subj_rel_all
+The pilots that love the dancer,1,ML,subj_rel_all
+The pilots that love the minister,1,ML,subj_rel_all
+The pilots that love the taxi driver,1,ML,subj_rel_all
+The pilots that love the assistant,1,ML,subj_rel_all
+The pilots that love the executive,1,ML,subj_rel_all
+The pilots that love the parent,1,ML,subj_rel_all
+The surgeons that like the guard,1,ML,subj_rel_all
+The surgeons that like the chef,1,ML,subj_rel_all
+The surgeons that like the architect,1,ML,subj_rel_all
+The surgeons that like the skater,1,ML,subj_rel_all
+The surgeons that like the dancer,1,ML,subj_rel_all
+The surgeons that like the minister,1,ML,subj_rel_all
+The surgeons that like the taxi driver,1,ML,subj_rel_all
+The surgeons that like the assistant,1,ML,subj_rel_all
+The surgeons that like the executive,1,ML,subj_rel_all
+The surgeons that like the parent,1,ML,subj_rel_all
+The surgeons that admire the guard,1,ML,subj_rel_all
+The surgeons that admire the chef,1,ML,subj_rel_all
+The surgeons that admire the architect,1,ML,subj_rel_all
+The surgeons that admire the skater,1,ML,subj_rel_all
+The surgeons that admire the dancer,1,ML,subj_rel_all
+The surgeons that admire the minister,1,ML,subj_rel_all
+The surgeons that admire the taxi driver,1,ML,subj_rel_all
+The surgeons that admire the assistant,1,ML,subj_rel_all
+The surgeons that admire the executive,1,ML,subj_rel_all
+The surgeons that admire the parent,1,ML,subj_rel_all
+The surgeons that hate the guard,1,ML,subj_rel_all
+The surgeons that hate the chef,1,ML,subj_rel_all
+The surgeons that hate the architect,1,ML,subj_rel_all
+The surgeons that hate the skater,1,ML,subj_rel_all
+The surgeons that hate the dancer,1,ML,subj_rel_all
+The surgeons that hate the minister,1,ML,subj_rel_all
+The surgeons that hate the taxi driver,1,ML,subj_rel_all
+The surgeons that hate the assistant,1,ML,subj_rel_all
+The surgeons that hate the executive,1,ML,subj_rel_all
+The surgeons that hate the parent,1,ML,subj_rel_all
+The surgeons that love the guard,1,ML,subj_rel_all
+The surgeons that love the chef,1,ML,subj_rel_all
+The surgeons that love the architect,1,ML,subj_rel_all
+The surgeons that love the skater,1,ML,subj_rel_all
+The surgeons that love the dancer,1,ML,subj_rel_all
+The surgeons that love the minister,1,ML,subj_rel_all
+The surgeons that love the taxi driver,1,ML,subj_rel_all
+The surgeons that love the assistant,1,ML,subj_rel_all
+The surgeons that love the executive,1,ML,subj_rel_all
+The surgeons that love the parent,1,ML,subj_rel_all
+The farmers that like the guard,1,ML,subj_rel_all
+The farmers that like the chef,1,ML,subj_rel_all
+The farmers that like the architect,1,ML,subj_rel_all
+The farmers that like the skater,1,ML,subj_rel_all
+The farmers that like the dancer,1,ML,subj_rel_all
+The farmers that like the minister,1,ML,subj_rel_all
+The farmers that like the taxi driver,1,ML,subj_rel_all
+The farmers that like the assistant,1,ML,subj_rel_all
+The farmers that like the executive,1,ML,subj_rel_all
+The farmers that like the parent,1,ML,subj_rel_all
+The farmers that admire the guard,1,ML,subj_rel_all
+The farmers that admire the chef,1,ML,subj_rel_all
+The farmers that admire the architect,1,ML,subj_rel_all
+The farmers that admire the skater,1,ML,subj_rel_all
+The farmers that admire the dancer,1,ML,subj_rel_all
+The farmers that admire the minister,1,ML,subj_rel_all
+The farmers that admire the taxi driver,1,ML,subj_rel_all
+The farmers that admire the assistant,1,ML,subj_rel_all
+The farmers that admire the executive,1,ML,subj_rel_all
+The farmers that admire the parent,1,ML,subj_rel_all
+The farmers that hate the guard,1,ML,subj_rel_all
+The farmers that hate the chef,1,ML,subj_rel_all
+The farmers that hate the architect,1,ML,subj_rel_all
+The farmers that hate the skater,1,ML,subj_rel_all
+The farmers that hate the dancer,1,ML,subj_rel_all
+The farmers that hate the minister,1,ML,subj_rel_all
+The farmers that hate the taxi driver,1,ML,subj_rel_all
+The farmers that hate the assistant,1,ML,subj_rel_all
+The farmers that hate the executive,1,ML,subj_rel_all
+The farmers that hate the parent,1,ML,subj_rel_all
+The farmers that love the guard,1,ML,subj_rel_all
+The farmers that love the chef,1,ML,subj_rel_all
+The farmers that love the architect,1,ML,subj_rel_all
+The farmers that love the skater,1,ML,subj_rel_all
+The farmers that love the dancer,1,ML,subj_rel_all
+The farmers that love the minister,1,ML,subj_rel_all
+The farmers that love the taxi driver,1,ML,subj_rel_all
+The farmers that love the assistant,1,ML,subj_rel_all
+The farmers that love the executive,1,ML,subj_rel_all
+The farmers that love the parent,1,ML,subj_rel_all
+The managers that like the guard,1,ML,subj_rel_all
+The managers that like the chef,1,ML,subj_rel_all
+The managers that like the architect,1,ML,subj_rel_all
+The managers that like the skater,1,ML,subj_rel_all
+The managers that like the dancer,1,ML,subj_rel_all
+The managers that like the minister,1,ML,subj_rel_all
+The managers that like the taxi driver,1,ML,subj_rel_all
+The managers that like the assistant,1,ML,subj_rel_all
+The managers that like the executive,1,ML,subj_rel_all
+The managers that like the parent,1,ML,subj_rel_all
+The managers that admire the guard,1,ML,subj_rel_all
+The managers that admire the chef,1,ML,subj_rel_all
+The managers that admire the architect,1,ML,subj_rel_all
+The managers that admire the skater,1,ML,subj_rel_all
+The managers that admire the dancer,1,ML,subj_rel_all
+The managers that admire the minister,1,ML,subj_rel_all
+The managers that admire the taxi driver,1,ML,subj_rel_all
+The managers that admire the assistant,1,ML,subj_rel_all
+The managers that admire the executive,1,ML,subj_rel_all
+The managers that admire the parent,1,ML,subj_rel_all
+The managers that hate the guard,1,ML,subj_rel_all
+The managers that hate the chef,1,ML,subj_rel_all
+The managers that hate the architect,1,ML,subj_rel_all
+The managers that hate the skater,1,ML,subj_rel_all
+The managers that hate the dancer,1,ML,subj_rel_all
+The managers that hate the minister,1,ML,subj_rel_all
+The managers that hate the taxi driver,1,ML,subj_rel_all
+The managers that hate the assistant,1,ML,subj_rel_all
+The managers that hate the executive,1,ML,subj_rel_all
+The managers that hate the parent,1,ML,subj_rel_all
+The managers that love the guard,1,ML,subj_rel_all
+The managers that love the chef,1,ML,subj_rel_all
+The managers that love the architect,1,ML,subj_rel_all
+The managers that love the skater,1,ML,subj_rel_all
+The managers that love the dancer,1,ML,subj_rel_all
+The managers that love the minister,1,ML,subj_rel_all
+The managers that love the taxi driver,1,ML,subj_rel_all
+The managers that love the assistant,1,ML,subj_rel_all
+The managers that love the executive,1,ML,subj_rel_all
+The managers that love the parent,1,ML,subj_rel_all
+The customers that like the guard,1,ML,subj_rel_all
+The customers that like the chef,1,ML,subj_rel_all
+The customers that like the architect,1,ML,subj_rel_all
+The customers that like the skater,1,ML,subj_rel_all
+The customers that like the dancer,1,ML,subj_rel_all
+The customers that like the minister,1,ML,subj_rel_all
+The customers that like the taxi driver,1,ML,subj_rel_all
+The customers that like the assistant,1,ML,subj_rel_all
+The customers that like the executive,1,ML,subj_rel_all
+The customers that like the parent,1,ML,subj_rel_all
+The customers that admire the guard,1,ML,subj_rel_all
+The customers that admire the chef,1,ML,subj_rel_all
+The customers that admire the architect,1,ML,subj_rel_all
+The customers that admire the skater,1,ML,subj_rel_all
+The customers that admire the dancer,1,ML,subj_rel_all
+The customers that admire the minister,1,ML,subj_rel_all
+The customers that admire the taxi driver,1,ML,subj_rel_all
+The customers that admire the assistant,1,ML,subj_rel_all
+The customers that admire the executive,1,ML,subj_rel_all
+The customers that admire the parent,1,ML,subj_rel_all
+The customers that hate the guard,1,ML,subj_rel_all
+The customers that hate the chef,1,ML,subj_rel_all
+The customers that hate the architect,1,ML,subj_rel_all
+The customers that hate the skater,1,ML,subj_rel_all
+The customers that hate the dancer,1,ML,subj_rel_all
+The customers that hate the minister,1,ML,subj_rel_all
+The customers that hate the taxi driver,1,ML,subj_rel_all
+The customers that hate the assistant,1,ML,subj_rel_all
+The customers that hate the executive,1,ML,subj_rel_all
+The customers that hate the parent,1,ML,subj_rel_all
+The customers that love the guard,1,ML,subj_rel_all
+The customers that love the chef,1,ML,subj_rel_all
+The customers that love the architect,1,ML,subj_rel_all
+The customers that love the skater,1,ML,subj_rel_all
+The customers that love the dancer,1,ML,subj_rel_all
+The customers that love the minister,1,ML,subj_rel_all
+The customers that love the taxi driver,1,ML,subj_rel_all
+The customers that love the assistant,1,ML,subj_rel_all
+The customers that love the executive,1,ML,subj_rel_all
+The customers that love the parent,1,ML,subj_rel_all
+The officers that like the guard,1,ML,subj_rel_all
+The officers that like the chef,1,ML,subj_rel_all
+The officers that like the architect,1,ML,subj_rel_all
+The officers that like the skater,1,ML,subj_rel_all
+The officers that like the dancer,1,ML,subj_rel_all
+The officers that like the minister,1,ML,subj_rel_all
+The officers that like the taxi driver,1,ML,subj_rel_all
+The officers that like the assistant,1,ML,subj_rel_all
+The officers that like the executive,1,ML,subj_rel_all
+The officers that like the parent,1,ML,subj_rel_all
+The officers that admire the guard,1,ML,subj_rel_all
+The officers that admire the chef,1,ML,subj_rel_all
+The officers that admire the architect,1,ML,subj_rel_all
+The officers that admire the skater,1,ML,subj_rel_all
+The officers that admire the dancer,1,ML,subj_rel_all
+The officers that admire the minister,1,ML,subj_rel_all
+The officers that admire the taxi driver,1,ML,subj_rel_all
+The officers that admire the assistant,1,ML,subj_rel_all
+The officers that admire the executive,1,ML,subj_rel_all
+The officers that admire the parent,1,ML,subj_rel_all
+The officers that hate the guard,1,ML,subj_rel_all
+The officers that hate the chef,1,ML,subj_rel_all
+The officers that hate the architect,1,ML,subj_rel_all
+The officers that hate the skater,1,ML,subj_rel_all
+The officers that hate the dancer,1,ML,subj_rel_all
+The officers that hate the minister,1,ML,subj_rel_all
+The officers that hate the taxi driver,1,ML,subj_rel_all
+The officers that hate the assistant,1,ML,subj_rel_all
+The officers that hate the executive,1,ML,subj_rel_all
+The officers that hate the parent,1,ML,subj_rel_all
+The officers that love the guard,1,ML,subj_rel_all
+The officers that love the chef,1,ML,subj_rel_all
+The officers that love the architect,1,ML,subj_rel_all
+The officers that love the skater,1,ML,subj_rel_all
+The officers that love the dancer,1,ML,subj_rel_all
+The officers that love the minister,1,ML,subj_rel_all
+The officers that love the taxi driver,1,ML,subj_rel_all
+The officers that love the assistant,1,ML,subj_rel_all
+The officers that love the executive,1,ML,subj_rel_all
+The officers that love the parent,1,ML,subj_rel_all
+The teachers that like the guard,1,ML,subj_rel_all
+The teachers that like the chef,1,ML,subj_rel_all
+The teachers that like the architect,1,ML,subj_rel_all
+The teachers that like the skater,1,ML,subj_rel_all
+The teachers that like the dancer,1,ML,subj_rel_all
+The teachers that like the minister,1,ML,subj_rel_all
+The teachers that like the taxi driver,1,ML,subj_rel_all
+The teachers that like the assistant,1,ML,subj_rel_all
+The teachers that like the executive,1,ML,subj_rel_all
+The teachers that like the parent,1,ML,subj_rel_all
+The teachers that admire the guard,1,ML,subj_rel_all
+The teachers that admire the chef,1,ML,subj_rel_all
+The teachers that admire the architect,1,ML,subj_rel_all
+The teachers that admire the skater,1,ML,subj_rel_all
+The teachers that admire the dancer,1,ML,subj_rel_all
+The teachers that admire the minister,1,ML,subj_rel_all
+The teachers that admire the taxi driver,1,ML,subj_rel_all
+The teachers that admire the assistant,1,ML,subj_rel_all
+The teachers that admire the executive,1,ML,subj_rel_all
+The teachers that admire the parent,1,ML,subj_rel_all
+The teachers that hate the guard,1,ML,subj_rel_all
+The teachers that hate the chef,1,ML,subj_rel_all
+The teachers that hate the architect,1,ML,subj_rel_all
+The teachers that hate the skater,1,ML,subj_rel_all
+The teachers that hate the dancer,1,ML,subj_rel_all
+The teachers that hate the minister,1,ML,subj_rel_all
+The teachers that hate the taxi driver,1,ML,subj_rel_all
+The teachers that hate the assistant,1,ML,subj_rel_all
+The teachers that hate the executive,1,ML,subj_rel_all
+The teachers that hate the parent,1,ML,subj_rel_all
+The teachers that love the guard,1,ML,subj_rel_all
+The teachers that love the chef,1,ML,subj_rel_all
+The teachers that love the architect,1,ML,subj_rel_all
+The teachers that love the skater,1,ML,subj_rel_all
+The teachers that love the dancer,1,ML,subj_rel_all
+The teachers that love the minister,1,ML,subj_rel_all
+The teachers that love the taxi driver,1,ML,subj_rel_all
+The teachers that love the assistant,1,ML,subj_rel_all
+The teachers that love the executive,1,ML,subj_rel_all
+The teachers that love the parent,1,ML,subj_rel_all
+The senators that like the guard,1,ML,subj_rel_all
+The senators that like the chef,1,ML,subj_rel_all
+The senators that like the architect,1,ML,subj_rel_all
+The senators that like the skater,1,ML,subj_rel_all
+The senators that like the dancer,1,ML,subj_rel_all
+The senators that like the minister,1,ML,subj_rel_all
+The senators that like the taxi driver,1,ML,subj_rel_all
+The senators that like the assistant,1,ML,subj_rel_all
+The senators that like the executive,1,ML,subj_rel_all
+The senators that like the parent,1,ML,subj_rel_all
+The senators that admire the guard,1,ML,subj_rel_all
+The senators that admire the chef,1,ML,subj_rel_all
+The senators that admire the architect,1,ML,subj_rel_all
+The senators that admire the skater,1,ML,subj_rel_all
+The senators that admire the dancer,1,ML,subj_rel_all
+The senators that admire the minister,1,ML,subj_rel_all
+The senators that admire the taxi driver,1,ML,subj_rel_all
+The senators that admire the assistant,1,ML,subj_rel_all
+The senators that admire the executive,1,ML,subj_rel_all
+The senators that admire the parent,1,ML,subj_rel_all
+The senators that hate the guard,1,ML,subj_rel_all
+The senators that hate the chef,1,ML,subj_rel_all
+The senators that hate the architect,1,ML,subj_rel_all
+The senators that hate the skater,1,ML,subj_rel_all
+The senators that hate the dancer,1,ML,subj_rel_all
+The senators that hate the minister,1,ML,subj_rel_all
+The senators that hate the taxi driver,1,ML,subj_rel_all
+The senators that hate the assistant,1,ML,subj_rel_all
+The senators that hate the executive,1,ML,subj_rel_all
+The senators that hate the parent,1,ML,subj_rel_all
+The senators that love the guard,1,ML,subj_rel_all
+The senators that love the chef,1,ML,subj_rel_all
+The senators that love the architect,1,ML,subj_rel_all
+The senators that love the skater,1,ML,subj_rel_all
+The senators that love the dancer,1,ML,subj_rel_all
+The senators that love the minister,1,ML,subj_rel_all
+The senators that love the taxi driver,1,ML,subj_rel_all
+The senators that love the assistant,1,ML,subj_rel_all
+The senators that love the executive,1,ML,subj_rel_all
+The senators that love the parent,1,ML,subj_rel_all
+The consultants that like the guard,1,ML,subj_rel_all
+The consultants that like the chef,1,ML,subj_rel_all
+The consultants that like the architect,1,ML,subj_rel_all
+The consultants that like the skater,1,ML,subj_rel_all
+The consultants that like the dancer,1,ML,subj_rel_all
+The consultants that like the minister,1,ML,subj_rel_all
+The consultants that like the taxi driver,1,ML,subj_rel_all
+The consultants that like the assistant,1,ML,subj_rel_all
+The consultants that like the executive,1,ML,subj_rel_all
+The consultants that like the parent,1,ML,subj_rel_all
+The consultants that admire the guard,1,ML,subj_rel_all
+The consultants that admire the chef,1,ML,subj_rel_all
+The consultants that admire the architect,1,ML,subj_rel_all
+The consultants that admire the skater,1,ML,subj_rel_all
+The consultants that admire the dancer,1,ML,subj_rel_all
+The consultants that admire the minister,1,ML,subj_rel_all
+The consultants that admire the taxi driver,1,ML,subj_rel_all
+The consultants that admire the assistant,1,ML,subj_rel_all
+The consultants that admire the executive,1,ML,subj_rel_all
+The consultants that admire the parent,1,ML,subj_rel_all
+The consultants that hate the guard,1,ML,subj_rel_all
+The consultants that hate the chef,1,ML,subj_rel_all
+The consultants that hate the architect,1,ML,subj_rel_all
+The consultants that hate the skater,1,ML,subj_rel_all
+The consultants that hate the dancer,1,ML,subj_rel_all
+The consultants that hate the minister,1,ML,subj_rel_all
+The consultants that hate the taxi driver,1,ML,subj_rel_all
+The consultants that hate the assistant,1,ML,subj_rel_all
+The consultants that hate the executive,1,ML,subj_rel_all
+The consultants that hate the parent,1,ML,subj_rel_all
+The consultants that love the guard,1,ML,subj_rel_all
+The consultants that love the chef,1,ML,subj_rel_all
+The consultants that love the architect,1,ML,subj_rel_all
+The consultants that love the skater,1,ML,subj_rel_all
+The consultants that love the dancer,1,ML,subj_rel_all
+The consultants that love the minister,1,ML,subj_rel_all
+The consultants that love the taxi driver,1,ML,subj_rel_all
+The consultants that love the assistant,1,ML,subj_rel_all
+The consultants that love the executive,1,ML,subj_rel_all
+The consultants that love the parent,1,ML,subj_rel_all
+The authors that like the guards,1,ML,subj_rel_all
+The authors that like the chefs,1,ML,subj_rel_all
+The authors that like the architects,1,ML,subj_rel_all
+The authors that like the skaters,1,ML,subj_rel_all
+The authors that like the dancers,1,ML,subj_rel_all
+The authors that like the ministers,1,ML,subj_rel_all
+The authors that like the taxi drivers,1,ML,subj_rel_all
+The authors that like the assistants,1,ML,subj_rel_all
+The authors that like the executives,1,ML,subj_rel_all
+The authors that like the parents,1,ML,subj_rel_all
+The authors that admire the guards,1,ML,subj_rel_all
+The authors that admire the chefs,1,ML,subj_rel_all
+The authors that admire the architects,1,ML,subj_rel_all
+The authors that admire the skaters,1,ML,subj_rel_all
+The authors that admire the dancers,1,ML,subj_rel_all
+The authors that admire the ministers,1,ML,subj_rel_all
+The authors that admire the taxi drivers,1,ML,subj_rel_all
+The authors that admire the assistants,1,ML,subj_rel_all
+The authors that admire the executives,1,ML,subj_rel_all
+The authors that admire the parents,1,ML,subj_rel_all
+The authors that hate the guards,1,ML,subj_rel_all
+The authors that hate the chefs,1,ML,subj_rel_all
+The authors that hate the architects,1,ML,subj_rel_all
+The authors that hate the skaters,1,ML,subj_rel_all
+The authors that hate the dancers,1,ML,subj_rel_all
+The authors that hate the ministers,1,ML,subj_rel_all
+The authors that hate the taxi drivers,1,ML,subj_rel_all
+The authors that hate the assistants,1,ML,subj_rel_all
+The authors that hate the executives,1,ML,subj_rel_all
+The authors that hate the parents,1,ML,subj_rel_all
+The authors that love the guards,1,ML,subj_rel_all
+The authors that love the chefs,1,ML,subj_rel_all
+The authors that love the architects,1,ML,subj_rel_all
+The authors that love the skaters,1,ML,subj_rel_all
+The authors that love the dancers,1,ML,subj_rel_all
+The authors that love the ministers,1,ML,subj_rel_all
+The authors that love the taxi drivers,1,ML,subj_rel_all
+The authors that love the assistants,1,ML,subj_rel_all
+The authors that love the executives,1,ML,subj_rel_all
+The authors that love the parents,1,ML,subj_rel_all
+The pilots that like the guards,1,ML,subj_rel_all
+The pilots that like the chefs,1,ML,subj_rel_all
+The pilots that like the architects,1,ML,subj_rel_all
+The pilots that like the skaters,1,ML,subj_rel_all
+The pilots that like the dancers,1,ML,subj_rel_all
+The pilots that like the ministers,1,ML,subj_rel_all
+The pilots that like the taxi drivers,1,ML,subj_rel_all
+The pilots that like the assistants,1,ML,subj_rel_all
+The pilots that like the executives,1,ML,subj_rel_all
+The pilots that like the parents,1,ML,subj_rel_all
+The pilots that admire the guards,1,ML,subj_rel_all
+The pilots that admire the chefs,1,ML,subj_rel_all
+The pilots that admire the architects,1,ML,subj_rel_all
+The pilots that admire the skaters,1,ML,subj_rel_all
+The pilots that admire the dancers,1,ML,subj_rel_all
+The pilots that admire the ministers,1,ML,subj_rel_all
+The pilots that admire the taxi drivers,1,ML,subj_rel_all
+The pilots that admire the assistants,1,ML,subj_rel_all
+The pilots that admire the executives,1,ML,subj_rel_all
+The pilots that admire the parents,1,ML,subj_rel_all
+The pilots that hate the guards,1,ML,subj_rel_all
+The pilots that hate the chefs,1,ML,subj_rel_all
+The pilots that hate the architects,1,ML,subj_rel_all
+The pilots that hate the skaters,1,ML,subj_rel_all
+The pilots that hate the dancers,1,ML,subj_rel_all
+The pilots that hate the ministers,1,ML,subj_rel_all
+The pilots that hate the taxi drivers,1,ML,subj_rel_all
+The pilots that hate the assistants,1,ML,subj_rel_all
+The pilots that hate the executives,1,ML,subj_rel_all
+The pilots that hate the parents,1,ML,subj_rel_all
+The pilots that love the guards,1,ML,subj_rel_all
+The pilots that love the chefs,1,ML,subj_rel_all
+The pilots that love the architects,1,ML,subj_rel_all
+The pilots that love the skaters,1,ML,subj_rel_all
+The pilots that love the dancers,1,ML,subj_rel_all
+The pilots that love the ministers,1,ML,subj_rel_all
+The pilots that love the taxi drivers,1,ML,subj_rel_all
+The pilots that love the assistants,1,ML,subj_rel_all
+The pilots that love the executives,1,ML,subj_rel_all
+The pilots that love the parents,1,ML,subj_rel_all
+The surgeons that like the guards,1,ML,subj_rel_all
+The surgeons that like the chefs,1,ML,subj_rel_all
+The surgeons that like the architects,1,ML,subj_rel_all
+The surgeons that like the skaters,1,ML,subj_rel_all
+The surgeons that like the dancers,1,ML,subj_rel_all
+The surgeons that like the ministers,1,ML,subj_rel_all
+The surgeons that like the taxi drivers,1,ML,subj_rel_all
+The surgeons that like the assistants,1,ML,subj_rel_all
+The surgeons that like the executives,1,ML,subj_rel_all
+The surgeons that like the parents,1,ML,subj_rel_all
+The surgeons that admire the guards,1,ML,subj_rel_all
+The surgeons that admire the chefs,1,ML,subj_rel_all
+The surgeons that admire the architects,1,ML,subj_rel_all
+The surgeons that admire the skaters,1,ML,subj_rel_all
+The surgeons that admire the dancers,1,ML,subj_rel_all
+The surgeons that admire the ministers,1,ML,subj_rel_all
+The surgeons that admire the taxi drivers,1,ML,subj_rel_all
+The surgeons that admire the assistants,1,ML,subj_rel_all
+The surgeons that admire the executives,1,ML,subj_rel_all
+The surgeons that admire the parents,1,ML,subj_rel_all
+The surgeons that hate the guards,1,ML,subj_rel_all
+The surgeons that hate the chefs,1,ML,subj_rel_all
+The surgeons that hate the architects,1,ML,subj_rel_all
+The surgeons that hate the skaters,1,ML,subj_rel_all
+The surgeons that hate the dancers,1,ML,subj_rel_all
+The surgeons that hate the ministers,1,ML,subj_rel_all
+The surgeons that hate the taxi drivers,1,ML,subj_rel_all
+The surgeons that hate the assistants,1,ML,subj_rel_all
+The surgeons that hate the executives,1,ML,subj_rel_all
+The surgeons that hate the parents,1,ML,subj_rel_all
+The surgeons that love the guards,1,ML,subj_rel_all
+The surgeons that love the chefs,1,ML,subj_rel_all
+The surgeons that love the architects,1,ML,subj_rel_all
+The surgeons that love the skaters,1,ML,subj_rel_all
+The surgeons that love the dancers,1,ML,subj_rel_all
+The surgeons that love the ministers,1,ML,subj_rel_all
+The surgeons that love the taxi drivers,1,ML,subj_rel_all
+The surgeons that love the assistants,1,ML,subj_rel_all
+The surgeons that love the executives,1,ML,subj_rel_all
+The surgeons that love the parents,1,ML,subj_rel_all
+The farmers that like the guards,1,ML,subj_rel_all
+The farmers that like the chefs,1,ML,subj_rel_all
+The farmers that like the architects,1,ML,subj_rel_all
+The farmers that like the skaters,1,ML,subj_rel_all
+The farmers that like the dancers,1,ML,subj_rel_all
+The farmers that like the ministers,1,ML,subj_rel_all
+The farmers that like the taxi drivers,1,ML,subj_rel_all
+The farmers that like the assistants,1,ML,subj_rel_all
+The farmers that like the executives,1,ML,subj_rel_all
+The farmers that like the parents,1,ML,subj_rel_all
+The farmers that admire the guards,1,ML,subj_rel_all
+The farmers that admire the chefs,1,ML,subj_rel_all
+The farmers that admire the architects,1,ML,subj_rel_all
+The farmers that admire the skaters,1,ML,subj_rel_all
+The farmers that admire the dancers,1,ML,subj_rel_all
+The farmers that admire the ministers,1,ML,subj_rel_all
+The farmers that admire the taxi drivers,1,ML,subj_rel_all
+The farmers that admire the assistants,1,ML,subj_rel_all
+The farmers that admire the executives,1,ML,subj_rel_all
+The farmers that admire the parents,1,ML,subj_rel_all
+The farmers that hate the guards,1,ML,subj_rel_all
+The farmers that hate the chefs,1,ML,subj_rel_all
+The farmers that hate the architects,1,ML,subj_rel_all
+The farmers that hate the skaters,1,ML,subj_rel_all
+The farmers that hate the dancers,1,ML,subj_rel_all
+The farmers that hate the ministers,1,ML,subj_rel_all
+The farmers that hate the taxi drivers,1,ML,subj_rel_all
+The farmers that hate the assistants,1,ML,subj_rel_all
+The farmers that hate the executives,1,ML,subj_rel_all
+The farmers that hate the parents,1,ML,subj_rel_all
+The farmers that love the guards,1,ML,subj_rel_all
+The farmers that love the chefs,1,ML,subj_rel_all
+The farmers that love the architects,1,ML,subj_rel_all
+The farmers that love the skaters,1,ML,subj_rel_all
+The farmers that love the dancers,1,ML,subj_rel_all
+The farmers that love the ministers,1,ML,subj_rel_all
+The farmers that love the taxi drivers,1,ML,subj_rel_all
+The farmers that love the assistants,1,ML,subj_rel_all
+The farmers that love the executives,1,ML,subj_rel_all
+The farmers that love the parents,1,ML,subj_rel_all
+The managers that like the guards,1,ML,subj_rel_all
+The managers that like the chefs,1,ML,subj_rel_all
+The managers that like the architects,1,ML,subj_rel_all
+The managers that like the skaters,1,ML,subj_rel_all
+The managers that like the dancers,1,ML,subj_rel_all
+The managers that like the ministers,1,ML,subj_rel_all
+The managers that like the taxi drivers,1,ML,subj_rel_all
+The managers that like the assistants,1,ML,subj_rel_all
+The managers that like the executives,1,ML,subj_rel_all
+The managers that like the parents,1,ML,subj_rel_all
+The managers that admire the guards,1,ML,subj_rel_all
+The managers that admire the chefs,1,ML,subj_rel_all
+The managers that admire the architects,1,ML,subj_rel_all
+The managers that admire the skaters,1,ML,subj_rel_all
+The managers that admire the dancers,1,ML,subj_rel_all
+The managers that admire the ministers,1,ML,subj_rel_all
+The managers that admire the taxi drivers,1,ML,subj_rel_all
+The managers that admire the assistants,1,ML,subj_rel_all
+The managers that admire the executives,1,ML,subj_rel_all
+The managers that admire the parents,1,ML,subj_rel_all
+The managers that hate the guards,1,ML,subj_rel_all
+The managers that hate the chefs,1,ML,subj_rel_all
+The managers that hate the architects,1,ML,subj_rel_all
+The managers that hate the skaters,1,ML,subj_rel_all
+The managers that hate the dancers,1,ML,subj_rel_all
+The managers that hate the ministers,1,ML,subj_rel_all
+The managers that hate the taxi drivers,1,ML,subj_rel_all
+The managers that hate the assistants,1,ML,subj_rel_all
+The managers that hate the executives,1,ML,subj_rel_all
+The managers that hate the parents,1,ML,subj_rel_all
+The managers that love the guards,1,ML,subj_rel_all
+The managers that love the chefs,1,ML,subj_rel_all
+The managers that love the architects,1,ML,subj_rel_all
+The managers that love the skaters,1,ML,subj_rel_all
+The managers that love the dancers,1,ML,subj_rel_all
+The managers that love the ministers,1,ML,subj_rel_all
+The managers that love the taxi drivers,1,ML,subj_rel_all
+The managers that love the assistants,1,ML,subj_rel_all
+The managers that love the executives,1,ML,subj_rel_all
+The managers that love the parents,1,ML,subj_rel_all
+The customers that like the guards,1,ML,subj_rel_all
+The customers that like the chefs,1,ML,subj_rel_all
+The customers that like the architects,1,ML,subj_rel_all
+The customers that like the skaters,1,ML,subj_rel_all
+The customers that like the dancers,1,ML,subj_rel_all
+The customers that like the ministers,1,ML,subj_rel_all
+The customers that like the taxi drivers,1,ML,subj_rel_all
+The customers that like the assistants,1,ML,subj_rel_all
+The customers that like the executives,1,ML,subj_rel_all
+The customers that like the parents,1,ML,subj_rel_all
+The customers that admire the guards,1,ML,subj_rel_all
+The customers that admire the chefs,1,ML,subj_rel_all
+The customers that admire the architects,1,ML,subj_rel_all
+The customers that admire the skaters,1,ML,subj_rel_all
+The customers that admire the dancers,1,ML,subj_rel_all
+The customers that admire the ministers,1,ML,subj_rel_all
+The customers that admire the taxi drivers,1,ML,subj_rel_all
+The customers that admire the assistants,1,ML,subj_rel_all
+The customers that admire the executives,1,ML,subj_rel_all
+The customers that admire the parents,1,ML,subj_rel_all
+The customers that hate the guards,1,ML,subj_rel_all
+The customers that hate the chefs,1,ML,subj_rel_all
+The customers that hate the architects,1,ML,subj_rel_all
+The customers that hate the skaters,1,ML,subj_rel_all
+The customers that hate the dancers,1,ML,subj_rel_all
+The customers that hate the ministers,1,ML,subj_rel_all
+The customers that hate the taxi drivers,1,ML,subj_rel_all
+The customers that hate the assistants,1,ML,subj_rel_all
+The customers that hate the executives,1,ML,subj_rel_all
+The customers that hate the parents,1,ML,subj_rel_all
+The customers that love the guards,1,ML,subj_rel_all
+The customers that love the chefs,1,ML,subj_rel_all
+The customers that love the architects,1,ML,subj_rel_all
+The customers that love the skaters,1,ML,subj_rel_all
+The customers that love the dancers,1,ML,subj_rel_all
+The customers that love the ministers,1,ML,subj_rel_all
+The customers that love the taxi drivers,1,ML,subj_rel_all
+The customers that love the assistants,1,ML,subj_rel_all
+The customers that love the executives,1,ML,subj_rel_all
+The customers that love the parents,1,ML,subj_rel_all
+The officers that like the guards,1,ML,subj_rel_all
+The officers that like the chefs,1,ML,subj_rel_all
+The officers that like the architects,1,ML,subj_rel_all
+The officers that like the skaters,1,ML,subj_rel_all
+The officers that like the dancers,1,ML,subj_rel_all
+The officers that like the ministers,1,ML,subj_rel_all
+The officers that like the taxi drivers,1,ML,subj_rel_all
+The officers that like the assistants,1,ML,subj_rel_all
+The officers that like the executives,1,ML,subj_rel_all
+The officers that like the parents,1,ML,subj_rel_all
+The officers that admire the guards,1,ML,subj_rel_all
+The officers that admire the chefs,1,ML,subj_rel_all
+The officers that admire the architects,1,ML,subj_rel_all
+The officers that admire the skaters,1,ML,subj_rel_all
+The officers that admire the dancers,1,ML,subj_rel_all
+The officers that admire the ministers,1,ML,subj_rel_all
+The officers that admire the taxi drivers,1,ML,subj_rel_all
+The officers that admire the assistants,1,ML,subj_rel_all
+The officers that admire the executives,1,ML,subj_rel_all
+The officers that admire the parents,1,ML,subj_rel_all
+The officers that hate the guards,1,ML,subj_rel_all
+The officers that hate the chefs,1,ML,subj_rel_all
+The officers that hate the architects,1,ML,subj_rel_all
+The officers that hate the skaters,1,ML,subj_rel_all
+The officers that hate the dancers,1,ML,subj_rel_all
+The officers that hate the ministers,1,ML,subj_rel_all
+The officers that hate the taxi drivers,1,ML,subj_rel_all
+The officers that hate the assistants,1,ML,subj_rel_all
+The officers that hate the executives,1,ML,subj_rel_all
+The officers that hate the parents,1,ML,subj_rel_all
+The officers that love the guards,1,ML,subj_rel_all
+The officers that love the chefs,1,ML,subj_rel_all
+The officers that love the architects,1,ML,subj_rel_all
+The officers that love the skaters,1,ML,subj_rel_all
+The officers that love the dancers,1,ML,subj_rel_all
+The officers that love the ministers,1,ML,subj_rel_all
+The officers that love the taxi drivers,1,ML,subj_rel_all
+The officers that love the assistants,1,ML,subj_rel_all
+The officers that love the executives,1,ML,subj_rel_all
+The officers that love the parents,1,ML,subj_rel_all
+The teachers that like the guards,1,ML,subj_rel_all
+The teachers that like the chefs,1,ML,subj_rel_all
+The teachers that like the architects,1,ML,subj_rel_all
+The teachers that like the skaters,1,ML,subj_rel_all
+The teachers that like the dancers,1,ML,subj_rel_all
+The teachers that like the ministers,1,ML,subj_rel_all
+The teachers that like the taxi drivers,1,ML,subj_rel_all
+The teachers that like the assistants,1,ML,subj_rel_all
+The teachers that like the executives,1,ML,subj_rel_all
+The teachers that like the parents,1,ML,subj_rel_all
+The teachers that admire the guards,1,ML,subj_rel_all
+The teachers that admire the chefs,1,ML,subj_rel_all
+The teachers that admire the architects,1,ML,subj_rel_all
+The teachers that admire the skaters,1,ML,subj_rel_all
+The teachers that admire the dancers,1,ML,subj_rel_all
+The teachers that admire the ministers,1,ML,subj_rel_all
+The teachers that admire the taxi drivers,1,ML,subj_rel_all
+The teachers that admire the assistants,1,ML,subj_rel_all
+The teachers that admire the executives,1,ML,subj_rel_all
+The teachers that admire the parents,1,ML,subj_rel_all
+The teachers that hate the guards,1,ML,subj_rel_all
+The teachers that hate the chefs,1,ML,subj_rel_all
+The teachers that hate the architects,1,ML,subj_rel_all
+The teachers that hate the skaters,1,ML,subj_rel_all
+The teachers that hate the dancers,1,ML,subj_rel_all
+The teachers that hate the ministers,1,ML,subj_rel_all
+The teachers that hate the taxi drivers,1,ML,subj_rel_all
+The teachers that hate the assistants,1,ML,subj_rel_all
+The teachers that hate the executives,1,ML,subj_rel_all
+The teachers that hate the parents,1,ML,subj_rel_all
+The teachers that love the guards,1,ML,subj_rel_all
+The teachers that love the chefs,1,ML,subj_rel_all
+The teachers that love the architects,1,ML,subj_rel_all
+The teachers that love the skaters,1,ML,subj_rel_all
+The teachers that love the dancers,1,ML,subj_rel_all
+The teachers that love the ministers,1,ML,subj_rel_all
+The teachers that love the taxi drivers,1,ML,subj_rel_all
+The teachers that love the assistants,1,ML,subj_rel_all
+The teachers that love the executives,1,ML,subj_rel_all
+The teachers that love the parents,1,ML,subj_rel_all
+The senators that like the guards,1,ML,subj_rel_all
+The senators that like the chefs,1,ML,subj_rel_all
+The senators that like the architects,1,ML,subj_rel_all
+The senators that like the skaters,1,ML,subj_rel_all
+The senators that like the dancers,1,ML,subj_rel_all
+The senators that like the ministers,1,ML,subj_rel_all
+The senators that like the taxi drivers,1,ML,subj_rel_all
+The senators that like the assistants,1,ML,subj_rel_all
+The senators that like the executives,1,ML,subj_rel_all
+The senators that like the parents,1,ML,subj_rel_all
+The senators that admire the guards,1,ML,subj_rel_all
+The senators that admire the chefs,1,ML,subj_rel_all
+The senators that admire the architects,1,ML,subj_rel_all
+The senators that admire the skaters,1,ML,subj_rel_all
+The senators that admire the dancers,1,ML,subj_rel_all
+The senators that admire the ministers,1,ML,subj_rel_all
+The senators that admire the taxi drivers,1,ML,subj_rel_all
+The senators that admire the assistants,1,ML,subj_rel_all
+The senators that admire the executives,1,ML,subj_rel_all
+The senators that admire the parents,1,ML,subj_rel_all
+The senators that hate the guards,1,ML,subj_rel_all
+The senators that hate the chefs,1,ML,subj_rel_all
+The senators that hate the architects,1,ML,subj_rel_all
+The senators that hate the skaters,1,ML,subj_rel_all
+The senators that hate the dancers,1,ML,subj_rel_all
+The senators that hate the ministers,1,ML,subj_rel_all
+The senators that hate the taxi drivers,1,ML,subj_rel_all
+The senators that hate the assistants,1,ML,subj_rel_all
+The senators that hate the executives,1,ML,subj_rel_all
+The senators that hate the parents,1,ML,subj_rel_all
+The senators that love the guards,1,ML,subj_rel_all
+The senators that love the chefs,1,ML,subj_rel_all
+The senators that love the architects,1,ML,subj_rel_all
+The senators that love the skaters,1,ML,subj_rel_all
+The senators that love the dancers,1,ML,subj_rel_all
+The senators that love the ministers,1,ML,subj_rel_all
+The senators that love the taxi drivers,1,ML,subj_rel_all
+The senators that love the assistants,1,ML,subj_rel_all
+The senators that love the executives,1,ML,subj_rel_all
+The senators that love the parents,1,ML,subj_rel_all
+The consultants that like the guards,1,ML,subj_rel_all
+The consultants that like the chefs,1,ML,subj_rel_all
+The consultants that like the architects,1,ML,subj_rel_all
+The consultants that like the skaters,1,ML,subj_rel_all
+The consultants that like the dancers,1,ML,subj_rel_all
+The consultants that like the ministers,1,ML,subj_rel_all
+The consultants that like the taxi drivers,1,ML,subj_rel_all
+The consultants that like the assistants,1,ML,subj_rel_all
+The consultants that like the executives,1,ML,subj_rel_all
+The consultants that like the parents,1,ML,subj_rel_all
+The consultants that admire the guards,1,ML,subj_rel_all
+The consultants that admire the chefs,1,ML,subj_rel_all
+The consultants that admire the architects,1,ML,subj_rel_all
+The consultants that admire the skaters,1,ML,subj_rel_all
+The consultants that admire the dancers,1,ML,subj_rel_all
+The consultants that admire the ministers,1,ML,subj_rel_all
+The consultants that admire the taxi drivers,1,ML,subj_rel_all
+The consultants that admire the assistants,1,ML,subj_rel_all
+The consultants that admire the executives,1,ML,subj_rel_all
+The consultants that admire the parents,1,ML,subj_rel_all
+The consultants that hate the guards,1,ML,subj_rel_all
+The consultants that hate the chefs,1,ML,subj_rel_all
+The consultants that hate the architects,1,ML,subj_rel_all
+The consultants that hate the skaters,1,ML,subj_rel_all
+The consultants that hate the dancers,1,ML,subj_rel_all
+The consultants that hate the ministers,1,ML,subj_rel_all
+The consultants that hate the taxi drivers,1,ML,subj_rel_all
+The consultants that hate the assistants,1,ML,subj_rel_all
+The consultants that hate the executives,1,ML,subj_rel_all
+The consultants that hate the parents,1,ML,subj_rel_all
+The consultants that love the guards,1,ML,subj_rel_all
+The consultants that love the chefs,1,ML,subj_rel_all
+The consultants that love the architects,1,ML,subj_rel_all
+The consultants that love the skaters,1,ML,subj_rel_all
+The consultants that love the dancers,1,ML,subj_rel_all
+The consultants that love the ministers,1,ML,subj_rel_all
+The consultants that love the taxi drivers,1,ML,subj_rel_all
+The consultants that love the assistants,1,ML,subj_rel_all
+The consultants that love the executives,1,ML,subj_rel_all
+The consultants that love the parents,1,ML,subj_rel_all

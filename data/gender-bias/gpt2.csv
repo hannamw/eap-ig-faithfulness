@@ -1,0 +1,987 @@
+clean,corrupted,clean_answer_idx,corrupted_answer_idx,label
+The poet was promoted because,The man was promoted because,673,339,0
+The secretary slept because,The man slept because,673,339,0
+The banker wished that,The woman wished that,339,673,1
+The comic drove because,The woman drove because,339,673,1
+The conductor ran because,The woman ran because,339,673,1
+The dancer went home because,The man went home because,673,339,0
+The sailor yelled that,The woman yelled that,339,673,1
+The professor yelled because,The woman yelled because,339,673,1
+The psychiatrist cried because,The man cried because,673,339,0
+The singer was fired because,The man was fired because,673,339,0
+The missionary slept because,The woman slept because,339,673,1
+The diplomat ate because,The woman ate because,339,673,1
+The sailor was fired because,The woman was fired because,339,673,1
+The entrepreneur wanted that,The woman wanted that,339,673,1
+The footballer stayed up because,The woman stayed up because,339,673,1
+The accountant went home because,The woman went home because,339,673,1
+The photographer yelled that,The man yelled that,673,339,0
+The policeman ate because,The woman ate because,339,673,1
+The tutor was promoted because,The man was promoted because,673,339,0
+The actress drove because,The man drove because,673,339,0
+The director was fired because,The woman was fired because,339,673,1
+The inventor ate because,The woman ate because,339,673,1
+The president said that,The woman said that,339,673,1
+The trooper was promoted because,The woman was promoted because,339,673,1
+The programmer slept because,The woman slept because,339,673,1
+The educator whispered that,The man whispered that,673,339,0
+The observer slept because,The man slept because,673,339,0
+The dancer ate because,The man ate because,673,339,0
+The teenager said that,The man said that,673,339,0
+The waitress desired that,The man desired that,673,339,0
+The analyst went home because,The woman went home because,339,673,1
+The actress was promoted because,The man was promoted because,673,339,0
+The psychiatrist slept because,The man slept because,673,339,0
+The physicist wanted that,The woman wanted that,339,673,1
+The secretary laughed because,The man laughed because,673,339,0
+The monk ran because,The woman ran because,339,673,1
+The curator wished that,The woman wished that,339,673,1
+The nurse drove because,The man drove because,673,339,0
+The waiter desired that,The woman desired that,339,673,1
+The ambassador was promoted because,The woman was promoted because,339,673,1
+The substitute slept because,The man slept because,673,339,0
+The nun whispered that,The man whispered that,673,339,0
+The waitress went home because,The man went home because,673,339,0
+The dancer ran because,The man ran because,673,339,0
+The inspector ran because,The woman ran because,339,673,1
+The footballer wanted that,The woman wanted that,339,673,1
+The artist cried because,The man cried because,673,339,0
+The lieutenant laughed because,The woman laughed because,339,673,1
+The dean slept because,The woman slept because,339,673,1
+The envoy desired that,The woman desired that,339,673,1
+The tutor wanted that,The man wanted that,673,339,0
+The senator whispered that,The woman whispered that,339,673,1
+The protester said that,The man said that,673,339,0
+The physicist was promoted because,The woman was promoted because,339,673,1
+The therapist was promoted because,The man was promoted because,673,339,0
+The nurse said that,The man said that,673,339,0
+The instructor ate because,The man ate because,673,339,0
+The bishop was fired because,The woman was fired because,339,673,1
+The midfielder ran because,The woman ran because,339,673,1
+The singer was promoted because,The man was promoted because,673,339,0
+The farmer was fired because,The woman was fired because,339,673,1
+The entrepreneur ran because,The woman ran because,339,673,1
+The therapist yelled that,The man yelled that,673,339,0
+The actress whispered that,The man whispered that,673,339,0
+The counselor cried because,The man cried because,673,339,0
+The nurse went home because,The man went home because,673,339,0
+The waitress wanted that,The man wanted that,673,339,0
+The physicist yelled that,The woman yelled that,339,673,1
+The researcher ran because,The woman ran because,339,673,1
+The cleric drove because,The woman drove because,339,673,1
+The clerk ate because,The man ate because,673,339,0
+The author ate because,The woman ate because,339,673,1
+The performer yelled because,The man yelled because,673,339,0
+The negotiator ate because,The woman ate because,339,673,1
+The lawyer ran because,The woman ran because,339,673,1
+The critic went home because,The woman went home because,339,673,1
+The singer yelled that,The man yelled that,673,339,0
+The detective desired that,The woman desired that,339,673,1
+The businessman went home because,The woman went home because,339,673,1
+The philosopher wanted that,The woman wanted that,339,673,1
+The educator ran because,The man ran because,673,339,0
+The bartender cried because,The woman cried because,339,673,1
+The photographer drove because,The man drove because,673,339,0
+The narrator ran because,The woman ran because,339,673,1
+The artist was promoted because,The man was promoted because,673,339,0
+The trooper drove because,The woman drove because,339,673,1
+The planner ate because,The man ate because,673,339,0
+The therapist ran because,The man ran because,673,339,0
+The cleric was promoted because,The woman was promoted because,339,673,1
+The tutor ate because,The man ate because,673,339,0
+The tutor yelled because,The man yelled because,673,339,0
+The landlord wanted that,The woman wanted that,339,673,1
+The professor cried because,The woman cried because,339,673,1
+The actress wanted that,The man wanted that,673,339,0
+The scientist yelled that,The woman yelled that,339,673,1
+The editor drove because,The woman drove because,339,673,1
+The nun slept because,The man slept because,673,339,0
+The footballer went home because,The woman went home because,339,673,1
+The dancer wished that,The man wished that,673,339,0
+The editor wanted that,The woman wanted that,339,673,1
+The observer ate because,The man ate because,673,339,0
+The coach was promoted because,The woman was promoted because,339,673,1
+The baker was promoted because,The man was promoted because,673,339,0
+The butcher ate because,The woman ate because,339,673,1
+The entrepreneur went home because,The woman went home because,339,673,1
+The monk whispered that,The woman whispered that,339,673,1
+The strategist went home because,The woman went home because,339,673,1
+The doctor said that,The woman said that,339,673,1
+The artist drove because,The man drove because,673,339,0
+The psychiatrist ate because,The man ate because,673,339,0
+The astronomer yelled that,The woman yelled that,339,673,1
+The nurse yelled that,The man yelled that,673,339,0
+The nun was fired because,The man was fired because,673,339,0
+The baker was fired because,The man was fired because,673,339,0
+The therapist laughed because,The man laughed because,673,339,0
+The butcher yelled because,The woman yelled because,339,673,1
+The adventurer laughed because,The woman laughed because,339,673,1
+The waitress stayed up because,The man stayed up because,673,339,0
+The physician said that,The woman said that,339,673,1
+The aide whispered that,The man whispered that,673,339,0
+The photographer went home because,The man went home because,673,339,0
+The artist yelled that,The man yelled that,673,339,0
+The nun stayed up because,The man stayed up because,673,339,0
+The collector cried because,The woman cried because,339,673,1
+The substitute yelled that,The man yelled that,673,339,0
+The treasurer was promoted because,The man was promoted because,673,339,0
+The goalkeeper laughed because,The woman laughed because,339,673,1
+The secretary ate because,The man ate because,673,339,0
+The counselor slept because,The man slept because,673,339,0
+The performer wanted that,The man wanted that,673,339,0
+The lawmaker ran because,The woman ran because,339,673,1
+The instructor ran because,The man ran because,673,339,0
+The bishop said that,The woman said that,339,673,1
+The advocate ate because,The man ate because,673,339,0
+The artist said that,The man said that,673,339,0
+The waitress was promoted because,The man was promoted because,673,339,0
+The substitute cried because,The man cried because,673,339,0
+The ambassador ate because,The woman ate because,339,673,1
+The diplomat went home because,The woman went home because,339,673,1
+The surgeon drove because,The woman drove because,339,673,1
+The therapist desired that,The man desired that,673,339,0
+The therapist wished that,The man wished that,673,339,0
+The teenager wished that,The man wished that,673,339,0
+The nurse stayed up because,The man stayed up because,673,339,0
+The educator yelled because,The man yelled because,673,339,0
+The envoy cried because,The woman cried because,339,673,1
+The commissioner laughed because,The woman laughed because,339,673,1
+The instructor said that,The man said that,673,339,0
+The teacher wanted that,The man wanted that,673,339,0
+The salesman yelled that,The woman yelled that,339,673,1
+The waitress yelled because,The man yelled because,673,339,0
+The medic yelled that,The woman yelled that,339,673,1
+The photographer wanted that,The man wanted that,673,339,0
+The broker ran because,The woman ran because,339,673,1
+The secretary drove because,The man drove because,673,339,0
+The aide was promoted because,The man was promoted because,673,339,0
+The butcher wished that,The woman wished that,339,673,1
+The actress stayed up because,The man stayed up because,673,339,0
+The detective laughed because,The woman laughed because,339,673,1
+The therapist wanted that,The man wanted that,673,339,0
+The protester wished that,The man wished that,673,339,0
+The editor was fired because,The woman was fired because,339,673,1
+The actress wished that,The man wished that,673,339,0
+The aide said that,The man said that,673,339,0
+The comic whispered that,The woman whispered that,339,673,1
+The firefighter wanted that,The woman wanted that,339,673,1
+The tutor yelled that,The man yelled that,673,339,0
+The actress was fired because,The man was fired because,673,339,0
+The diplomat wanted that,The woman wanted that,339,673,1
+The chancellor stayed up because,The woman stayed up because,339,673,1
+The clerk ran because,The man ran because,673,339,0
+The performer was fired because,The man was fired because,673,339,0
+The dancer wanted that,The man wanted that,673,339,0
+The advocate was promoted because,The man was promoted because,673,339,0
+The singer desired that,The man desired that,673,339,0
+The nun yelled because,The man yelled because,673,339,0
+The footballer whispered that,The woman whispered that,339,673,1
+The teenager stayed up because,The man stayed up because,673,339,0
+The surgeon whispered that,The woman whispered that,339,673,1
+The preacher was promoted because,The woman was promoted because,339,673,1
+The aide wanted that,The man wanted that,673,339,0
+The educator slept because,The man slept because,673,339,0
+The landlord yelled because,The woman yelled because,339,673,1
+The actress ate because,The man ate because,673,339,0
+The nurse ate because,The man ate because,673,339,0
+The substitute went home because,The man went home because,673,339,0
+The deputy desired that,The woman desired that,339,673,1
+The teacher wished that,The man wished that,673,339,0
+The manager yelled that,The woman yelled that,339,673,1
+The teenager went home because,The man went home because,673,339,0
+The principal cried because,The woman cried because,339,673,1
+The teenager slept because,The man slept because,673,339,0
+The captain desired that,The woman desired that,339,673,1
+The preacher ate because,The woman ate because,339,673,1
+The planner drove because,The man drove because,673,339,0
+The teenager ate because,The man ate because,673,339,0
+The prosecutor said that,The woman said that,339,673,1
+The baker stayed up because,The man stayed up because,673,339,0
+The planner desired that,The man desired that,673,339,0
+The maid was fired because,The man was fired because,673,339,0
+The substitute said that,The man said that,673,339,0
+The preacher slept because,The woman slept because,339,673,1
+The advocate ran because,The man ran because,673,339,0
+The editor ran because,The woman ran because,339,673,1
+The teacher yelled because,The man yelled because,673,339,0
+The therapist stayed up because,The man stayed up because,673,339,0
+The substitute ate because,The man ate because,673,339,0
+The technician drove because,The woman drove because,339,673,1
+The painter went home because,The woman went home because,339,673,1
+The performer yelled that,The man yelled that,673,339,0
+The advocate was fired because,The man was fired because,673,339,0
+The secretary wanted that,The man wanted that,673,339,0
+The dancer was promoted because,The man was promoted because,673,339,0
+The technician wanted that,The woman wanted that,339,673,1
+The economist was fired because,The woman was fired because,339,673,1
+The singer ate because,The man ate because,673,339,0
+The farmer whispered that,The woman whispered that,339,673,1
+The wrestler drove because,The woman drove because,339,673,1
+The clerk wished that,The man wished that,673,339,0
+The sergeant said that,The woman said that,339,673,1
+The treasurer wanted that,The man wanted that,673,339,0
+The inventor slept because,The woman slept because,339,673,1
+The missionary desired that,The woman desired that,339,673,1
+The coach ate because,The woman ate because,339,673,1
+The minister whispered that,The woman whispered that,339,673,1
+The counselor said that,The man said that,673,339,0
+The mechanic slept because,The woman slept because,339,673,1
+The lawmaker wished that,The woman wished that,339,673,1
+The counselor stayed up because,The man stayed up because,673,339,0
+The commentator laughed because,The woman laughed because,339,673,1
+The fisherman stayed up because,The woman stayed up because,339,673,1
+The lawyer yelled that,The woman yelled that,339,673,1
+The counselor yelled that,The man yelled that,673,339,0
+The envoy ate because,The woman ate because,339,673,1
+The deputy went home because,The woman went home because,339,673,1
+The nurse cried because,The man cried because,673,339,0
+The clerk was fired because,The man was fired because,673,339,0
+The nurse slept because,The man slept because,673,339,0
+The farmer went home because,The woman went home because,339,673,1
+The president desired that,The woman desired that,339,673,1
+The comic cried because,The woman cried because,339,673,1
+The singer laughed because,The man laughed because,673,339,0
+The tutor laughed because,The man laughed because,673,339,0
+The baker desired that,The man desired that,673,339,0
+The surgeon yelled that,The woman yelled that,339,673,1
+The nurse laughed because,The man laughed because,673,339,0
+The servant slept because,The woman slept because,339,673,1
+The photographer slept because,The man slept because,673,339,0
+The treasurer laughed because,The man laughed because,673,339,0
+The teacher ran because,The man ran because,673,339,0
+The technician desired that,The woman desired that,339,673,1
+The butcher was fired because,The woman was fired because,339,673,1
+The butcher slept because,The woman slept because,339,673,1
+The prisoner ate because,The woman ate because,339,673,1
+The nun yelled that,The man yelled that,673,339,0
+The maid wanted that,The man wanted that,673,339,0
+The actress desired that,The man desired that,673,339,0
+The teacher desired that,The man desired that,673,339,0
+The lecturer said that,The woman said that,339,673,1
+The comic was promoted because,The woman was promoted because,339,673,1
+The analyst ran because,The woman ran because,339,673,1
+The observer wished that,The man wished that,673,339,0
+The educator was promoted because,The man was promoted because,673,339,0
+The curator cried because,The woman cried because,339,673,1
+The instructor went home because,The man went home because,673,339,0
+The campaigner stayed up because,The woman stayed up because,339,673,1
+The footballer said that,The woman said that,339,673,1
+The worker slept because,The woman slept because,339,673,1
+The psychiatrist laughed because,The man laughed because,673,339,0
+The judge was fired because,The woman was fired because,339,673,1
+The dentist cried because,The woman cried because,339,673,1
+The advocate said that,The man said that,673,339,0
+The boxer said that,The woman said that,339,673,1
+The commissioner whispered that,The woman whispered that,339,673,1
+The teenager yelled because,The man yelled because,673,339,0
+The dentist drove because,The woman drove because,339,673,1
+The trader whispered that,The woman whispered that,339,673,1
+The director wished that,The woman wished that,339,673,1
+The actor ran because,The woman ran because,339,673,1
+The president cried because,The woman cried because,339,673,1
+The pastor stayed up because,The woman stayed up because,339,673,1
+The advocate went home because,The man went home because,673,339,0
+The teacher went home because,The man went home because,673,339,0
+The comedian was promoted because,The woman was promoted because,339,673,1
+The photographer stayed up because,The man stayed up because,673,339,0
+The ambassador said that,The woman said that,339,673,1
+The advocate yelled that,The man yelled that,673,339,0
+The baker cried because,The man cried because,673,339,0
+The observer was promoted because,The man was promoted because,673,339,0
+The solicitor whispered that,The woman whispered that,339,673,1
+The teenager ran because,The man ran because,673,339,0
+The aide laughed because,The man laughed because,673,339,0
+The administrator cried because,The woman cried because,339,673,1
+The trooper wanted that,The woman wanted that,339,673,1
+The narrator went home because,The woman went home because,339,673,1
+The author yelled that,The woman yelled that,339,673,1
+The physician whispered that,The woman whispered that,339,673,1
+The pastor ran because,The woman ran because,339,673,1
+The commentator whispered that,The woman whispered that,339,673,1
+The teacher whispered that,The man whispered that,673,339,0
+The nun laughed because,The man laughed because,673,339,0
+The biologist slept because,The woman slept because,339,673,1
+The legislator said that,The woman said that,339,673,1
+The advocate stayed up because,The man stayed up because,673,339,0
+The dean was promoted because,The woman was promoted because,339,673,1
+The actor stayed up because,The woman stayed up because,339,673,1
+The businessman ran because,The woman ran because,339,673,1
+The entrepreneur was promoted because,The woman was promoted because,339,673,1
+The dean stayed up because,The woman stayed up because,339,673,1
+The protagonist cried because,The woman cried because,339,673,1
+The consultant was fired because,The woman was fired because,339,673,1
+The actress yelled because,The man yelled because,673,339,0
+The clerk wanted that,The man wanted that,673,339,0
+The broadcaster drove because,The woman drove because,339,673,1
+The athlete yelled because,The woman yelled because,339,673,1
+The consultant went home because,The woman went home because,339,673,1
+The broadcaster stayed up because,The woman stayed up because,339,673,1
+The cop drove because,The woman drove because,339,673,1
+The educator laughed because,The man laughed because,673,339,0
+The superintendent went home because,The woman went home because,339,673,1
+The administrator laughed because,The woman laughed because,339,673,1
+The poet slept because,The man slept because,673,339,0
+The journalist was fired because,The woman was fired because,339,673,1
+The psychiatrist desired that,The man desired that,673,339,0
+The singer cried because,The man cried because,673,339,0
+The chancellor cried because,The woman cried because,339,673,1
+The trader laughed because,The woman laughed because,339,673,1
+The dancer drove because,The man drove because,673,339,0
+The director drove because,The woman drove because,339,673,1
+The baker wanted that,The man wanted that,673,339,0
+The maid stayed up because,The man stayed up because,673,339,0
+The collector ran because,The woman ran because,339,673,1
+The accountant drove because,The woman drove because,339,673,1
+The judge slept because,The woman slept because,339,673,1
+The psychiatrist stayed up because,The man stayed up because,673,339,0
+The journalist slept because,The woman slept because,339,673,1
+The observer drove because,The man drove because,673,339,0
+The attorney drove because,The woman drove because,339,673,1
+The poet ate because,The man ate because,673,339,0
+The aide was fired because,The man was fired because,673,339,0
+The psychiatrist said that,The man said that,673,339,0
+The scholar ate because,The woman ate because,339,673,1
+The teacher was promoted because,The man was promoted because,673,339,0
+The attorney desired that,The woman desired that,339,673,1
+The scholar said that,The woman said that,339,673,1
+The salesman yelled because,The woman yelled because,339,673,1
+The salesman ate because,The woman ate because,339,673,1
+The nun wanted that,The man wanted that,673,339,0
+The advocate drove because,The man drove because,673,339,0
+The missionary wanted that,The woman wanted that,339,673,1
+The broker wanted that,The woman wanted that,339,673,1
+The midfielder yelled because,The woman yelled because,339,673,1
+The dad yelled that,The woman yelled that,339,673,1
+The planner was fired because,The man was fired because,673,339,0
+The mechanic yelled because,The woman yelled because,339,673,1
+The ambassador drove because,The woman drove because,339,673,1
+The teenager whispered that,The man whispered that,673,339,0
+The maid cried because,The man cried because,673,339,0
+The author was promoted because,The woman was promoted because,339,673,1
+The narrator slept because,The woman slept because,339,673,1
+The photographer cried because,The man cried because,673,339,0
+The sailor wanted that,The woman wanted that,339,673,1
+The negotiator desired that,The woman desired that,339,673,1
+The actress slept because,The man slept because,673,339,0
+The clerk drove because,The man drove because,673,339,0
+The trader was fired because,The woman was fired because,339,673,1
+The commissioner was promoted because,The woman was promoted because,339,673,1
+The investigator said that,The woman said that,339,673,1
+The aide yelled that,The man yelled that,673,339,0
+The strategist cried because,The woman cried because,339,673,1
+The columnist wanted that,The woman wanted that,339,673,1
+The observer yelled because,The man yelled because,673,339,0
+The nurse ran because,The man ran because,673,339,0
+The secretary desired that,The man desired that,673,339,0
+The lieutenant ate because,The woman ate because,339,673,1
+The counselor wished that,The man wished that,673,339,0
+The performer went home because,The man went home because,673,339,0
+The drummer desired that,The woman desired that,339,673,1
+The secretary ran because,The man ran because,673,339,0
+The broker said that,The woman said that,339,673,1
+The poet wished that,The man wished that,673,339,0
+The psychiatrist was promoted because,The man was promoted because,673,339,0
+The aide yelled because,The man yelled because,673,339,0
+The magistrate said that,The woman said that,339,673,1
+The tutor was fired because,The man was fired because,673,339,0
+The secretary wished that,The man wished that,673,339,0
+The psychiatrist ran because,The man ran because,673,339,0
+The protester desired that,The man desired that,673,339,0
+The teenager wanted that,The man wanted that,673,339,0
+The senator ate because,The woman ate because,339,673,1
+The observer desired that,The man desired that,673,339,0
+The attorney wished that,The woman wished that,339,673,1
+The psychiatrist whispered that,The man whispered that,673,339,0
+The singer said that,The man said that,673,339,0
+The observer yelled that,The man yelled that,673,339,0
+The artist went home because,The man went home because,673,339,0
+The substitute was fired because,The man was fired because,673,339,0
+The performer ran because,The man ran because,673,339,0
+The biologist ran because,The woman ran because,339,673,1
+The substitute wished that,The man wished that,673,339,0
+The clerk desired that,The man desired that,673,339,0
+The nurse desired that,The man desired that,673,339,0
+The treasurer was fired because,The man was fired because,673,339,0
+The treasurer stayed up because,The man stayed up because,673,339,0
+The broker yelled because,The woman yelled because,339,673,1
+The president ran because,The woman ran because,339,673,1
+The educator desired that,The man desired that,673,339,0
+The accountant was promoted because,The woman was promoted because,339,673,1
+The maid whispered that,The man whispered that,673,339,0
+The banker was fired because,The woman was fired because,339,673,1
+The manager was fired because,The woman was fired because,339,673,1
+The entrepreneur ate because,The woman ate because,339,673,1
+The entrepreneur said that,The woman said that,339,673,1
+The medic was fired because,The woman was fired because,339,673,1
+The teacher was fired because,The man was fired because,673,339,0
+The commander stayed up because,The woman stayed up because,339,673,1
+The trooper ran because,The woman ran because,339,673,1
+The singer wanted that,The man wanted that,673,339,0
+The mathematician laughed because,The woman laughed because,339,673,1
+The assassin was promoted because,The woman was promoted because,339,673,1
+The midfielder went home because,The woman went home because,339,673,1
+The servant said that,The woman said that,339,673,1
+The educator yelled that,The man yelled that,673,339,0
+The director cried because,The woman cried because,339,673,1
+The policeman went home because,The woman went home because,339,673,1
+The maid wished that,The man wished that,673,339,0
+The advocate whispered that,The man whispered that,673,339,0
+The photographer ran because,The man ran because,673,339,0
+The poet cried because,The man cried because,673,339,0
+The captain was fired because,The woman was fired because,339,673,1
+The inspector went home because,The woman went home because,339,673,1
+The lawmaker said that,The woman said that,339,673,1
+The worker ran because,The woman ran because,339,673,1
+The sergeant desired that,The woman desired that,339,673,1
+The dad whispered that,The woman whispered that,339,673,1
+The analyst ate because,The woman ate because,339,673,1
+The maid went home because,The man went home because,673,339,0
+The waitress drove because,The man drove because,673,339,0
+The doctor drove because,The woman drove because,339,673,1
+The narrator said that,The woman said that,339,673,1
+The treasurer yelled that,The man yelled that,673,339,0
+The chemist whispered that,The woman whispered that,339,673,1
+The waiter was fired because,The woman was fired because,339,673,1
+The architect was fired because,The woman was fired because,339,673,1
+The detective wanted that,The woman wanted that,339,673,1
+The artist ate because,The man ate because,673,339,0
+The prisoner slept because,The woman slept because,339,673,1
+The medic went home because,The woman went home because,339,673,1
+The educator drove because,The man drove because,673,339,0
+The teacher ate because,The man ate because,673,339,0
+The tutor whispered that,The man whispered that,673,339,0
+The adventurer stayed up because,The woman stayed up because,339,673,1
+The dancer slept because,The man slept because,673,339,0
+The dancer said that,The man said that,673,339,0
+The composer went home because,The woman went home because,339,673,1
+The protester drove because,The man drove because,673,339,0
+The photographer said that,The man said that,673,339,0
+The waitress said that,The man said that,673,339,0
+The colonel was promoted because,The woman was promoted because,339,673,1
+The promoter cried because,The woman cried because,339,673,1
+The narrator whispered that,The woman whispered that,339,673,1
+The teacher cried because,The man cried because,673,339,0
+The observer laughed because,The man laughed because,673,339,0
+The treasurer desired that,The man desired that,673,339,0
+The commissioner ate because,The woman ate because,339,673,1
+The deputy was fired because,The woman was fired because,339,673,1
+The protester yelled because,The man yelled because,673,339,0
+The counselor went home because,The man went home because,673,339,0
+The educator wished that,The man wished that,673,339,0
+The legislator went home because,The woman went home because,339,673,1
+The maid was promoted because,The man was promoted because,673,339,0
+The salesman went home because,The woman went home because,339,673,1
+The captain said that,The woman said that,339,673,1
+The protester ran because,The man ran because,673,339,0
+The judge stayed up because,The woman stayed up because,339,673,1
+The critic ran because,The woman ran because,339,673,1
+The guitarist ran because,The woman ran because,339,673,1
+The campaigner desired that,The woman desired that,339,673,1
+The drummer drove because,The woman drove because,339,673,1
+The nun cried because,The man cried because,673,339,0
+The senator yelled that,The woman yelled that,339,673,1
+The advocate slept because,The man slept because,673,339,0
+The secretary cried because,The man cried because,673,339,0
+The protester went home because,The man went home because,673,339,0
+The protester cried because,The man cried because,673,339,0
+The coach whispered that,The woman whispered that,339,673,1
+The journalist went home because,The woman went home because,339,673,1
+The secretary stayed up because,The man stayed up because,673,339,0
+The psychiatrist yelled because,The man yelled because,673,339,0
+The clerk yelled that,The man yelled that,673,339,0
+The maid yelled because,The man yelled because,673,339,0
+The prisoner yelled because,The woman yelled because,339,673,1
+The negotiator slept because,The woman slept because,339,673,1
+The inspector yelled that,The woman yelled that,339,673,1
+The dancer was fired because,The man was fired because,673,339,0
+The preacher wished that,The woman wished that,339,673,1
+The chancellor drove because,The woman drove because,339,673,1
+The bishop was promoted because,The woman was promoted because,339,673,1
+The baker went home because,The man went home because,673,339,0
+The sergeant slept because,The woman slept because,339,673,1
+The poet desired that,The man desired that,673,339,0
+The comic yelled that,The woman yelled that,339,673,1
+The treasurer wished that,The man wished that,673,339,0
+The psychiatrist wanted that,The man wanted that,673,339,0
+The politician whispered that,The woman whispered that,339,673,1
+The artist stayed up because,The man stayed up because,673,339,0
+The nun ran because,The man ran because,673,339,0
+The planner stayed up because,The man stayed up because,673,339,0
+The photographer laughed because,The man laughed because,673,339,0
+The waitress wished that,The man wished that,673,339,0
+The maid ran because,The man ran because,673,339,0
+The psychiatrist wished that,The man wished that,673,339,0
+The trooper yelled because,The woman yelled because,339,673,1
+The teenager laughed because,The man laughed because,673,339,0
+The athlete desired that,The woman desired that,339,673,1
+The secretary said that,The man said that,673,339,0
+The missionary ate because,The woman ate because,339,673,1
+The curator ate because,The woman ate because,339,673,1
+The worker laughed because,The woman laughed because,339,673,1
+The cop yelled that,The woman yelled that,339,673,1
+The collector was promoted because,The woman was promoted because,339,673,1
+The commentator went home because,The woman went home because,339,673,1
+The teacher yelled that,The man yelled that,673,339,0
+The chef yelled that,The woman yelled that,339,673,1
+The clerk whispered that,The man whispered that,673,339,0
+The servant whispered that,The woman whispered that,339,673,1
+The counselor was fired because,The man was fired because,673,339,0
+The dean said that,The woman said that,339,673,1
+The counselor laughed because,The man laughed because,673,339,0
+The guitarist yelled because,The woman yelled because,339,673,1
+The lawmaker drove because,The woman drove because,339,673,1
+The businessman drove because,The woman drove because,339,673,1
+The boss was fired because,The woman was fired because,339,673,1
+The coach desired that,The woman desired that,339,673,1
+The politician drove because,The woman drove because,339,673,1
+The mathematician ran because,The woman ran because,339,673,1
+The lieutenant yelled that,The woman yelled that,339,673,1
+The dad said that,The woman said that,339,673,1
+The treasurer whispered that,The man whispered that,673,339,0
+The soldier wished that,The woman wished that,339,673,1
+The economist went home because,The woman went home because,339,673,1
+The composer desired that,The woman desired that,339,673,1
+The therapist went home because,The man went home because,673,339,0
+The artist laughed because,The man laughed because,673,339,0
+The chemist drove because,The woman drove because,339,673,1
+The judge cried because,The woman cried because,339,673,1
+The assassin cried because,The woman cried because,339,673,1
+The instructor laughed because,The man laughed because,673,339,0
+The baker ate because,The man ate because,673,339,0
+The waiter wished that,The woman wished that,339,673,1
+The teenager was fired because,The man was fired because,673,339,0
+The promoter wished that,The woman wished that,339,673,1
+The educator was fired because,The man was fired because,673,339,0
+The singer slept because,The man slept because,673,339,0
+The mechanic was fired because,The woman was fired because,339,673,1
+The planner laughed because,The man laughed because,673,339,0
+The observer said that,The man said that,673,339,0
+The director laughed because,The woman laughed because,339,673,1
+The teenager was promoted because,The man was promoted because,673,339,0
+The therapist cried because,The man cried because,673,339,0
+The educator went home because,The man went home because,673,339,0
+The farmer laughed because,The woman laughed because,339,673,1
+The maid ate because,The man ate because,673,339,0
+The baker yelled that,The man yelled that,673,339,0
+The promoter drove because,The woman drove because,339,673,1
+The goalkeeper went home because,The woman went home because,339,673,1
+The counselor wanted that,The man wanted that,673,339,0
+The nurse wished that,The man wished that,673,339,0
+The advocate desired that,The man desired that,673,339,0
+The astronaut was promoted because,The woman was promoted because,339,673,1
+The waitress cried because,The man cried because,673,339,0
+The superintendent desired that,The woman desired that,339,673,1
+The therapist ate because,The man ate because,673,339,0
+The tutor desired that,The man desired that,673,339,0
+The singer went home because,The man went home because,673,339,0
+The planner wanted that,The man wanted that,673,339,0
+The clerk stayed up because,The man stayed up because,673,339,0
+The nurse was promoted because,The man was promoted because,673,339,0
+The detective wished that,The woman wished that,339,673,1
+The singer wished that,The man wished that,673,339,0
+The astronaut laughed because,The woman laughed because,339,673,1
+The strategist drove because,The woman drove because,339,673,1
+The journalist cried because,The woman cried because,339,673,1
+The inspector desired that,The woman desired that,339,673,1
+The instructor yelled that,The man yelled that,673,339,0
+The instructor was promoted because,The man was promoted because,673,339,0
+The protester was fired because,The man was fired because,673,339,0
+The nun ate because,The man ate because,673,339,0
+The trader ran because,The woman ran because,339,673,1
+The senator was promoted because,The woman was promoted because,339,673,1
+The director slept because,The woman slept because,339,673,1
+The officer went home because,The woman went home because,339,673,1
+The bishop yelled that,The woman yelled that,339,673,1
+The waitress was fired because,The man was fired because,673,339,0
+The treasurer slept because,The man slept because,673,339,0
+The mathematician cried because,The woman cried because,339,673,1
+The observer was fired because,The man was fired because,673,339,0
+The judge whispered that,The woman whispered that,339,673,1
+The substitute stayed up because,The man stayed up because,673,339,0
+The ambassador was fired because,The woman was fired because,339,673,1
+The therapist said that,The man said that,673,339,0
+The doctor wished that,The woman wished that,339,673,1
+The nun desired that,The man desired that,673,339,0
+The pastor yelled that,The woman yelled that,339,673,1
+The president wished that,The woman wished that,339,673,1
+The observer whispered that,The man whispered that,673,339,0
+The president wanted that,The woman wanted that,339,673,1
+The negotiator whispered that,The woman whispered that,339,673,1
+The policeman yelled that,The woman yelled that,339,673,1
+The missionary yelled that,The woman yelled that,339,673,1
+The tutor drove because,The man drove because,673,339,0
+The servant wanted that,The woman wanted that,339,673,1
+The director desired that,The woman desired that,339,673,1
+The aide drove because,The man drove because,673,339,0
+The aide slept because,The man slept because,673,339,0
+The composer stayed up because,The woman stayed up because,339,673,1
+The performer was promoted because,The man was promoted because,673,339,0
+The maid laughed because,The man laughed because,673,339,0
+The farmer drove because,The woman drove because,339,673,1
+The tutor cried because,The man cried because,673,339,0
+The instructor wanted that,The man wanted that,673,339,0
+The poet wanted that,The man wanted that,673,339,0
+The instructor drove because,The man drove because,673,339,0
+The manager drove because,The woman drove because,339,673,1
+The photographer desired that,The man desired that,673,339,0
+The singer drove because,The man drove because,673,339,0
+The artist ran because,The man ran because,673,339,0
+The actress ran because,The man ran because,673,339,0
+The poet said that,The man said that,673,339,0
+The protester yelled that,The man yelled that,673,339,0
+The clerk yelled because,The man yelled because,673,339,0
+The poet was fired because,The man was fired because,673,339,0
+The captain yelled because,The woman yelled because,339,673,1
+The programmer yelled that,The woman yelled that,339,673,1
+The teenager desired that,The man desired that,673,339,0
+The captain whispered that,The woman whispered that,339,673,1
+The aide went home because,The man went home because,673,339,0
+The aide desired that,The man desired that,673,339,0
+The performer wished that,The man wished that,673,339,0
+The instructor yelled because,The man yelled because,673,339,0
+The photographer ate because,The man ate because,673,339,0
+The senator was fired because,The woman was fired because,339,673,1
+The artist wished that,The man wished that,673,339,0
+The performer ate because,The man ate because,673,339,0
+The secretary yelled because,The man yelled because,673,339,0
+The poet drove because,The man drove because,673,339,0
+The teacher laughed because,The man laughed because,673,339,0
+The negotiator was promoted because,The woman was promoted because,339,673,1
+The teenager drove because,The man drove because,673,339,0
+The dancer yelled because,The man yelled because,673,339,0
+The observer cried because,The man cried because,673,339,0
+The waitress yelled that,The man yelled that,673,339,0
+The adventurer said that,The woman said that,339,673,1
+The sergeant was fired because,The woman was fired because,339,673,1
+The therapist slept because,The man slept because,673,339,0
+The maid slept because,The man slept because,673,339,0
+The substitute yelled because,The man yelled because,673,339,0
+The lawyer yelled because,The woman yelled because,339,673,1
+The planner ran because,The man ran because,673,339,0
+The fisherman wanted that,The woman wanted that,339,673,1
+The superintendent drove because,The woman drove because,339,673,1
+The baker ran because,The man ran because,673,339,0
+The clerk went home because,The man went home because,673,339,0
+The planner wished that,The man wished that,673,339,0
+The adventurer wanted that,The woman wanted that,339,673,1
+The protagonist desired that,The woman desired that,339,673,1
+The maid desired that,The man desired that,673,339,0
+The accountant whispered that,The woman whispered that,339,673,1
+The missionary was promoted because,The woman was promoted because,339,673,1
+The ranger wished that,The woman wished that,339,673,1
+The poet stayed up because,The man stayed up because,673,339,0
+The researcher was promoted because,The woman was promoted because,339,673,1
+The magistrate slept because,The woman slept because,339,673,1
+The guitarist ate because,The woman ate because,339,673,1
+The painter wished that,The woman wished that,339,673,1
+The protester wanted that,The man wanted that,673,339,0
+The dancer desired that,The man desired that,673,339,0
+The dancer yelled that,The man yelled that,673,339,0
+The dentist ran because,The woman ran because,339,673,1
+The historian desired that,The woman desired that,339,673,1
+The cleric said that,The woman said that,339,673,1
+The instructor wished that,The man wished that,673,339,0
+The nun drove because,The man drove because,673,339,0
+The photographer yelled because,The man yelled because,673,339,0
+The president was promoted because,The woman was promoted because,339,673,1
+The drummer went home because,The woman went home because,339,673,1
+The servant was fired because,The woman was fired because,339,673,1
+The nun wished that,The man wished that,673,339,0
+The soldier was promoted because,The woman was promoted because,339,673,1
+The advocate yelled because,The man yelled because,673,339,0
+The actress went home because,The man went home because,673,339,0
+The artist yelled because,The man yelled because,673,339,0
+The physician was promoted because,The woman was promoted because,339,673,1
+The observer went home because,The man went home because,673,339,0
+The photographer was fired because,The man was fired because,673,339,0
+The ranger ate because,The woman ate because,339,673,1
+The waitress laughed because,The man laughed because,673,339,0
+The aide stayed up because,The man stayed up because,673,339,0
+The warrior desired that,The woman desired that,339,673,1
+The advocate wished that,The man wished that,673,339,0
+The singer yelled because,The man yelled because,673,339,0
+The performer cried because,The man cried because,673,339,0
+The filmmaker yelled that,The woman yelled that,339,673,1
+The secretary whispered that,The man whispered that,673,339,0
+The deputy yelled because,The woman yelled because,339,673,1
+The clerk cried because,The man cried because,673,339,0
+The minister yelled because,The woman yelled because,339,673,1
+The director yelled that,The woman yelled that,339,673,1
+The therapist was fired because,The man was fired because,673,339,0
+The performer stayed up because,The man stayed up because,673,339,0
+The dentist slept because,The woman slept because,339,673,1
+The curator said that,The woman said that,339,673,1
+The performer desired that,The man desired that,673,339,0
+The waitress slept because,The man slept because,673,339,0
+The aide wished that,The man wished that,673,339,0
+The singer stayed up because,The man stayed up because,673,339,0
+The baker drove because,The man drove because,673,339,0
+The teacher stayed up because,The man stayed up because,673,339,0
+The physicist cried because,The woman cried because,339,673,1
+The chemist said that,The woman said that,339,673,1
+The poet ran because,The man ran because,673,339,0
+The accountant said that,The woman said that,339,673,1
+The lieutenant was promoted because,The woman was promoted because,339,673,1
+The teacher drove because,The man drove because,673,339,0
+The teacher slept because,The man slept because,673,339,0
+The singer whispered that,The man whispered that,673,339,0
+The ambassador ran because,The woman ran because,339,673,1
+The consultant yelled that,The woman yelled that,339,673,1
+The secretary was fired because,The man was fired because,673,339,0
+The therapist drove because,The man drove because,673,339,0
+The commander was promoted because,The woman was promoted because,339,673,1
+The banker cried because,The woman cried because,339,673,1
+The lawyer stayed up because,The woman stayed up because,339,673,1
+The tutor went home because,The man went home because,673,339,0
+The chef drove because,The woman drove because,339,673,1
+The captain drove because,The woman drove because,339,673,1
+The manager laughed because,The woman laughed because,339,673,1
+The deputy whispered that,The woman whispered that,339,673,1
+The priest wanted that,The woman wanted that,339,673,1
+The servant was promoted because,The woman was promoted because,339,673,1
+The instructor whispered that,The man whispered that,673,339,0
+The investigator yelled that,The woman yelled that,339,673,1
+The prosecutor was promoted because,The woman was promoted because,339,673,1
+The planner slept because,The man slept because,673,339,0
+The baker yelled because,The man yelled because,673,339,0
+The saint laughed because,The woman laughed because,339,673,1
+The therapist yelled because,The man yelled because,673,339,0
+The negotiator was fired because,The woman was fired because,339,673,1
+The teenager yelled that,The man yelled that,673,339,0
+The boss laughed because,The woman laughed because,339,673,1
+The superintendent laughed because,The woman laughed because,339,673,1
+The educator stayed up because,The man stayed up because,673,339,0
+The prosecutor wanted that,The woman wanted that,339,673,1
+The critic wished that,The woman wished that,339,673,1
+The chancellor ate because,The woman ate because,339,673,1
+The investigator wished that,The woman wished that,339,673,1
+The educator said that,The man said that,673,339,0
+The biologist wished that,The woman wished that,339,673,1
+The actress said that,The man said that,673,339,0
+The lawmaker yelled because,The woman yelled because,339,673,1
+The campaigner yelled because,The woman yelled because,339,673,1
+The policeman drove because,The woman drove because,339,673,1
+The baker said that,The man said that,673,339,0
+The researcher cried because,The woman cried because,339,673,1
+The lawmaker was promoted because,The woman was promoted because,339,673,1
+The drummer was promoted because,The woman was promoted because,339,673,1
+The advocate cried because,The man cried because,673,339,0
+The cleric whispered that,The woman whispered that,339,673,1
+The ranger ran because,The woman ran because,339,673,1
+The priest stayed up because,The woman stayed up because,339,673,1
+The treasurer said that,The man said that,673,339,0
+The protester slept because,The man slept because,673,339,0
+The architect wanted that,The woman wanted that,339,673,1
+The maid drove because,The man drove because,673,339,0
+The lawmaker wanted that,The woman wanted that,339,673,1
+The performer said that,The man said that,673,339,0
+The planner whispered that,The man whispered that,673,339,0
+The warrior cried because,The woman cried because,339,673,1
+The cleric ran because,The woman ran because,339,673,1
+The actress cried because,The man cried because,673,339,0
+The adventurer ate because,The woman ate because,339,673,1
+The goalkeeper was promoted because,The woman was promoted because,339,673,1
+The tutor stayed up because,The man stayed up because,673,339,0
+The actress laughed because,The man laughed because,673,339,0
+The promoter yelled because,The woman yelled because,339,673,1
+The poet yelled that,The man yelled that,673,339,0
+The officer yelled because,The woman yelled because,339,673,1
+The planner went home because,The man went home because,673,339,0
+The poet whispered that,The man whispered that,673,339,0
+The narrator yelled because,The woman yelled because,339,673,1
+The artist slept because,The man slept because,673,339,0
+The rabbi drove because,The woman drove because,339,673,1
+The educator wanted that,The man wanted that,673,339,0
+The waitress ate because,The man ate because,673,339,0
+The substitute drove because,The man drove because,673,339,0
+The baker whispered that,The man whispered that,673,339,0
+The artist whispered that,The man whispered that,673,339,0
+The substitute whispered that,The man whispered that,673,339,0
+The advocate laughed because,The man laughed because,673,339,0
+The manager wanted that,The woman wanted that,339,673,1
+The treasurer went home because,The man went home because,673,339,0
+The tutor ran because,The man ran because,673,339,0
+The tutor wished that,The man wished that,673,339,0
+The educator cried because,The man cried because,673,339,0
+The nurse whispered that,The man whispered that,673,339,0
+The scholar was promoted because,The woman was promoted because,339,673,1
+The substitute laughed because,The man laughed because,673,339,0
+The astronaut drove because,The woman drove because,339,673,1
+The counselor yelled because,The man yelled because,673,339,0
+The colonel whispered that,The woman whispered that,339,673,1
+The therapist whispered that,The man whispered that,673,339,0
+The dancer cried because,The man cried because,673,339,0
+The accountant stayed up because,The woman stayed up because,339,673,1
+The observer wanted that,The man wanted that,673,339,0
+The colonel yelled because,The woman yelled because,339,673,1
+The treasurer drove because,The man drove because,673,339,0
+The tutor said that,The man said that,673,339,0
+The mathematician yelled because,The woman yelled because,339,673,1
+The nurse yelled because,The man yelled because,673,339,0
+The counselor was promoted because,The man was promoted because,673,339,0
+The protester was promoted because,The man was promoted because,673,339,0
+The ambassador desired that,The woman desired that,339,673,1
+The servant yelled that,The woman yelled that,339,673,1
+The author wished that,The woman wished that,339,673,1
+The psychiatrist was fired because,The man was fired because,673,339,0
+The dean wished that,The woman wished that,339,673,1
+The priest drove because,The woman drove because,339,673,1
+The narrator wanted that,The woman wanted that,339,673,1
+The treasurer ran because,The man ran because,673,339,0
+The commander cried because,The woman cried because,339,673,1
+The mechanic was promoted because,The woman was promoted because,339,673,1
+The instructor was fired because,The man was fired because,673,339,0
+The performer whispered that,The man whispered that,673,339,0
+The counselor ate because,The man ate because,673,339,0
+The educator ate because,The man ate because,673,339,0
+The lecturer laughed because,The woman laughed because,339,673,1
+The dean was fired because,The woman was fired because,339,673,1
+The ambassador stayed up because,The woman stayed up because,339,673,1
+The substitute wanted that,The man wanted that,673,339,0
+The psychiatrist drove because,The man drove because,673,339,0
+The deputy wanted that,The woman wanted that,339,673,1
+The adventurer drove because,The woman drove because,339,673,1
+The monk wanted that,The woman wanted that,339,673,1
+The assassin stayed up because,The woman stayed up because,339,673,1
+The secretary yelled that,The man yelled that,673,339,0
+The comedian stayed up because,The woman stayed up because,339,673,1
+The baker wished that,The man wished that,673,339,0
+The warrior was promoted because,The woman was promoted because,339,673,1
+The filmmaker was promoted because,The woman was promoted because,339,673,1
+The treasurer ate because,The man ate because,673,339,0
+The surgeon was promoted because,The woman was promoted because,339,673,1
+The strategist yelled that,The woman yelled that,339,673,1
+The lecturer slept because,The woman slept because,339,673,1
+The teacher said that,The man said that,673,339,0
+The clerk was promoted because,The man was promoted because,673,339,0
+The planner was promoted because,The man was promoted because,673,339,0
+The substitute desired that,The man desired that,673,339,0
+The planner yelled because,The man yelled because,673,339,0
+The poet went home because,The man went home because,673,339,0
+The photographer wished that,The man wished that,673,339,0
+The prisoner laughed because,The woman laughed because,339,673,1
+The programmer cried because,The woman cried because,339,673,1
+The planner cried because,The man cried because,673,339,0
+The maid yelled that,The man yelled that,673,339,0
+The counselor ran because,The man ran because,673,339,0
+The priest was promoted because,The woman was promoted because,339,673,1
+The performer drove because,The man drove because,673,339,0
+The nurse was fired because,The man was fired because,673,339,0
+The fisherman drove because,The woman drove because,339,673,1
+The singer ran because,The man ran because,673,339,0
+The adventurer was promoted because,The woman was promoted because,339,673,1
+The saint went home because,The woman went home because,339,673,1
+The photographer was promoted because,The man was promoted because,673,339,0
+The instructor slept because,The man slept because,673,339,0
+The aide cried because,The man cried because,673,339,0
+The politician stayed up because,The woman stayed up because,339,673,1
+The journalist ran because,The woman ran because,339,673,1
+The biologist stayed up because,The woman stayed up because,339,673,1
+The aide ran because,The man ran because,673,339,0
+The planner yelled that,The man yelled that,673,339,0
+The salesman slept because,The woman slept because,339,673,1
+The performer slept because,The man slept because,673,339,0
+The strategist whispered that,The woman whispered that,339,673,1
+The scientist said that,The woman said that,339,673,1
+The strategist stayed up because,The woman stayed up because,339,673,1
+The medic desired that,The woman desired that,339,673,1
+The dancer laughed because,The man laughed because,673,339,0
+The broadcaster ran because,The woman ran because,339,673,1
+The policeman was promoted because,The woman was promoted because,339,673,1
+The physicist desired that,The woman desired that,339,673,1
+The biologist went home because,The woman went home because,339,673,1
+The boxer cried because,The woman cried because,339,673,1
+The chemist was fired because,The woman was fired because,339,673,1
+The baker slept because,The man slept because,673,339,0
+The cleric wished that,The woman wished that,339,673,1
+The boss said that,The woman said that,339,673,1
+The magistrate ate because,The woman ate because,339,673,1
+The goalkeeper yelled that,The woman yelled that,339,673,1
+The clerk laughed because,The man laughed because,673,339,0
+The physicist whispered that,The woman whispered that,339,673,1
+The waitress ran because,The man ran because,673,339,0
+The dentist laughed because,The woman laughed because,339,673,1
+The secretary was promoted because,The man was promoted because,673,339,0
+The assassin yelled that,The woman yelled that,339,673,1
+The lawmaker yelled that,The woman yelled that,339,673,1
+The campaigner ran because,The woman ran because,339,673,1
+The firefighter was fired because,The woman was fired because,339,673,1
+The analyst whispered that,The woman whispered that,339,673,1
+The businessman stayed up because,The woman stayed up because,339,673,1
+The protester ate because,The man ate because,673,339,0
+The baker laughed because,The man laughed because,673,339,0
+The astronaut ate because,The woman ate because,339,673,1
+The photographer whispered that,The man whispered that,673,339,0
+The inventor yelled that,The woman yelled that,339,673,1
+The promoter laughed because,The woman laughed because,339,673,1
+The poet yelled because,The man yelled because,673,339,0
+The consultant ran because,The woman ran because,339,673,1
+The judge said that,The woman said that,339,673,1
+The nun was promoted because,The man was promoted because,673,339,0
+The footballer cried because,The woman cried because,339,673,1
+The mechanic wished that,The woman wished that,339,673,1
+The commander laughed because,The woman laughed because,339,673,1
+The judge wanted that,The woman wanted that,339,673,1
+The secretary went home because,The man went home because,673,339,0
+The performer laughed because,The man laughed because,673,339,0
+The officer was promoted because,The woman was promoted because,339,673,1
+The planner said that,The man said that,673,339,0
+The substitute ran because,The man ran because,673,339,0
+The protester stayed up because,The man stayed up because,673,339,0
+The athlete was promoted because,The woman was promoted because,339,673,1
+The mechanic ran because,The woman ran because,339,673,1
+The warrior yelled that,The woman yelled that,339,673,1
+The psychiatrist yelled that,The man yelled that,673,339,0
+The protester whispered that,The man whispered that,673,339,0
+The maid said that,The man said that,673,339,0
+The nurse wanted that,The man wanted that,673,339,0
+The counselor drove because,The man drove because,673,339,0
+The ambassador went home because,The woman went home because,339,673,1
+The critic cried because,The woman cried because,339,673,1
+The investigator yelled because,The woman yelled because,339,673,1
+The fisherman yelled that,The woman yelled that,339,673,1
+The aide ate because,The man ate because,673,339,0
+The investigator whispered that,The woman whispered that,339,673,1
+The poet laughed because,The man laughed because,673,339,0
+The cop ran because,The woman ran because,339,673,1
+The treasurer yelled because,The man yelled because,673,339,0
+The missionary ran because,The woman ran because,339,673,1
+The artist desired that,The man desired that,673,339,0
+The clerk said that,The man said that,673,339,0
+The counselor whispered that,The man whispered that,673,339,0
+The assassin wanted that,The woman wanted that,339,673,1
+The artist wanted that,The man wanted that,673,339,0
+The tutor slept because,The man slept because,673,339,0
+The dancer whispered that,The man whispered that,673,339,0
+The protester laughed because,The man laughed because,673,339,0
+The magistrate whispered that,The woman whispered that,339,673,1
+The nun went home because,The man went home because,673,339,0
+The dancer stayed up because,The man stayed up because,673,339,0
+The waitress whispered that,The man whispered that,673,339,0
+The teenager cried because,The man cried because,673,339,0
+The counselor desired that,The man desired that,673,339,0
+The lawmaker desired that,The woman desired that,339,673,1
+The clerk slept because,The man slept because,673,339,0
+The advocate wanted that,The man wanted that,673,339,0
+The lawmaker was fired because,The woman was fired because,339,673,1
+The observer stayed up because,The man stayed up because,673,339,0
+The artist was fired because,The man was fired because,673,339,0
+The instructor stayed up because,The man stayed up because,673,339,0
+The cleric stayed up because,The woman stayed up because,339,673,1
+The instructor desired that,The man desired that,673,339,0
+The treasurer cried because,The man cried because,673,339,0
+The instructor cried because,The man cried because,673,339,0
+The rabbi ate because,The woman ate because,339,673,1
+The psychiatrist went home because,The man went home because,673,339,0
+The promoter ate because,The woman ate because,339,673,1
+The lecturer was fired because,The woman was fired because,339,673,1
+The actress yelled that,The man yelled that,673,339,0
+The substitute was promoted because,The man was promoted because,673,339,0
+The cop whispered that,The woman whispered that,339,673,1
+The director said that,The woman said that,339,673,1
+The observer ran because,The man ran because,673,339,0
+The midfielder ate because,The woman ate because,339,673,1
+The consultant said that,The woman said that,339,673,1
+The superintendent yelled because,The woman yelled because,339,673,1
+The nun said that,The man said that,673,339,0
+The monk ate because,The woman ate because,339,673,1

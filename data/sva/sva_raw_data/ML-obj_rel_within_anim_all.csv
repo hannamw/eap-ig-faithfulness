@@ -1,0 +1,401 @@
+sentence,label,group,source
+The authors that the guards,1,ML,obj_rel_within_anim_all
+The authors that the chefs,1,ML,obj_rel_within_anim_all
+The authors that the architects,1,ML,obj_rel_within_anim_all
+The authors that the skaters,1,ML,obj_rel_within_anim_all
+The authors that the dancers,1,ML,obj_rel_within_anim_all
+The authors that the ministers,1,ML,obj_rel_within_anim_all
+The authors that the taxi drivers,1,ML,obj_rel_within_anim_all
+The authors that the assistants,1,ML,obj_rel_within_anim_all
+The authors that the executives,1,ML,obj_rel_within_anim_all
+The authors that the parents,1,ML,obj_rel_within_anim_all
+The pilots that the guards,1,ML,obj_rel_within_anim_all
+The pilots that the chefs,1,ML,obj_rel_within_anim_all
+The pilots that the architects,1,ML,obj_rel_within_anim_all
+The pilots that the skaters,1,ML,obj_rel_within_anim_all
+The pilots that the dancers,1,ML,obj_rel_within_anim_all
+The pilots that the ministers,1,ML,obj_rel_within_anim_all
+The pilots that the taxi drivers,1,ML,obj_rel_within_anim_all
+The pilots that the assistants,1,ML,obj_rel_within_anim_all
+The pilots that the executives,1,ML,obj_rel_within_anim_all
+The pilots that the parents,1,ML,obj_rel_within_anim_all
+The surgeons that the guards,1,ML,obj_rel_within_anim_all
+The surgeons that the chefs,1,ML,obj_rel_within_anim_all
+The surgeons that the architects,1,ML,obj_rel_within_anim_all
+The surgeons that the skaters,1,ML,obj_rel_within_anim_all
+The surgeons that the dancers,1,ML,obj_rel_within_anim_all
+The surgeons that the ministers,1,ML,obj_rel_within_anim_all
+The surgeons that the taxi drivers,1,ML,obj_rel_within_anim_all
+The surgeons that the assistants,1,ML,obj_rel_within_anim_all
+The surgeons that the executives,1,ML,obj_rel_within_anim_all
+The surgeons that the parents,1,ML,obj_rel_within_anim_all
+The farmers that the guards,1,ML,obj_rel_within_anim_all
+The farmers that the chefs,1,ML,obj_rel_within_anim_all
+The farmers that the architects,1,ML,obj_rel_within_anim_all
+The farmers that the skaters,1,ML,obj_rel_within_anim_all
+The farmers that the dancers,1,ML,obj_rel_within_anim_all
+The farmers that the ministers,1,ML,obj_rel_within_anim_all
+The farmers that the taxi drivers,1,ML,obj_rel_within_anim_all
+The farmers that the assistants,1,ML,obj_rel_within_anim_all
+The farmers that the executives,1,ML,obj_rel_within_anim_all
+The farmers that the parents,1,ML,obj_rel_within_anim_all
+The managers that the guards,1,ML,obj_rel_within_anim_all
+The managers that the chefs,1,ML,obj_rel_within_anim_all
+The managers that the architects,1,ML,obj_rel_within_anim_all
+The managers that the skaters,1,ML,obj_rel_within_anim_all
+The managers that the dancers,1,ML,obj_rel_within_anim_all
+The managers that the ministers,1,ML,obj_rel_within_anim_all
+The managers that the taxi drivers,1,ML,obj_rel_within_anim_all
+The managers that the assistants,1,ML,obj_rel_within_anim_all
+The managers that the executives,1,ML,obj_rel_within_anim_all
+The managers that the parents,1,ML,obj_rel_within_anim_all
+The customers that the guards,1,ML,obj_rel_within_anim_all
+The customers that the chefs,1,ML,obj_rel_within_anim_all
+The customers that the architects,1,ML,obj_rel_within_anim_all
+The customers that the skaters,1,ML,obj_rel_within_anim_all
+The customers that the dancers,1,ML,obj_rel_within_anim_all
+The customers that the ministers,1,ML,obj_rel_within_anim_all
+The customers that the taxi drivers,1,ML,obj_rel_within_anim_all
+The customers that the assistants,1,ML,obj_rel_within_anim_all
+The customers that the executives,1,ML,obj_rel_within_anim_all
+The customers that the parents,1,ML,obj_rel_within_anim_all
+The officers that the guards,1,ML,obj_rel_within_anim_all
+The officers that the chefs,1,ML,obj_rel_within_anim_all
+The officers that the architects,1,ML,obj_rel_within_anim_all
+The officers that the skaters,1,ML,obj_rel_within_anim_all
+The officers that the dancers,1,ML,obj_rel_within_anim_all
+The officers that the ministers,1,ML,obj_rel_within_anim_all
+The officers that the taxi drivers,1,ML,obj_rel_within_anim_all
+The officers that the assistants,1,ML,obj_rel_within_anim_all
+The officers that the executives,1,ML,obj_rel_within_anim_all
+The officers that the parents,1,ML,obj_rel_within_anim_all
+The teachers that the guards,1,ML,obj_rel_within_anim_all
+The teachers that the chefs,1,ML,obj_rel_within_anim_all
+The teachers that the architects,1,ML,obj_rel_within_anim_all
+The teachers that the skaters,1,ML,obj_rel_within_anim_all
+The teachers that the dancers,1,ML,obj_rel_within_anim_all
+The teachers that the ministers,1,ML,obj_rel_within_anim_all
+The teachers that the taxi drivers,1,ML,obj_rel_within_anim_all
+The teachers that the assistants,1,ML,obj_rel_within_anim_all
+The teachers that the executives,1,ML,obj_rel_within_anim_all
+The teachers that the parents,1,ML,obj_rel_within_anim_all
+The senators that the guards,1,ML,obj_rel_within_anim_all
+The senators that the chefs,1,ML,obj_rel_within_anim_all
+The senators that the architects,1,ML,obj_rel_within_anim_all
+The senators that the skaters,1,ML,obj_rel_within_anim_all
+The senators that the dancers,1,ML,obj_rel_within_anim_all
+The senators that the ministers,1,ML,obj_rel_within_anim_all
+The senators that the taxi drivers,1,ML,obj_rel_within_anim_all
+The senators that the assistants,1,ML,obj_rel_within_anim_all
+The senators that the executives,1,ML,obj_rel_within_anim_all
+The senators that the parents,1,ML,obj_rel_within_anim_all
+The consultants that the guards,1,ML,obj_rel_within_anim_all
+The consultants that the chefs,1,ML,obj_rel_within_anim_all
+The consultants that the architects,1,ML,obj_rel_within_anim_all
+The consultants that the skaters,1,ML,obj_rel_within_anim_all
+The consultants that the dancers,1,ML,obj_rel_within_anim_all
+The consultants that the ministers,1,ML,obj_rel_within_anim_all
+The consultants that the taxi drivers,1,ML,obj_rel_within_anim_all
+The consultants that the assistants,1,ML,obj_rel_within_anim_all
+The consultants that the executives,1,ML,obj_rel_within_anim_all
+The consultants that the parents,1,ML,obj_rel_within_anim_all
+The author that the guards,1,ML,obj_rel_within_anim_all
+The author that the chefs,1,ML,obj_rel_within_anim_all
+The author that the architects,1,ML,obj_rel_within_anim_all
+The author that the skaters,1,ML,obj_rel_within_anim_all
+The author that the dancers,1,ML,obj_rel_within_anim_all
+The author that the ministers,1,ML,obj_rel_within_anim_all
+The author that the taxi drivers,1,ML,obj_rel_within_anim_all
+The author that the assistants,1,ML,obj_rel_within_anim_all
+The author that the executives,1,ML,obj_rel_within_anim_all
+The author that the parents,1,ML,obj_rel_within_anim_all
+The pilot that the guards,1,ML,obj_rel_within_anim_all
+The pilot that the chefs,1,ML,obj_rel_within_anim_all
+The pilot that the architects,1,ML,obj_rel_within_anim_all
+The pilot that the skaters,1,ML,obj_rel_within_anim_all
+The pilot that the dancers,1,ML,obj_rel_within_anim_all
+The pilot that the ministers,1,ML,obj_rel_within_anim_all
+The pilot that the taxi drivers,1,ML,obj_rel_within_anim_all
+The pilot that the assistants,1,ML,obj_rel_within_anim_all
+The pilot that the executives,1,ML,obj_rel_within_anim_all
+The pilot that the parents,1,ML,obj_rel_within_anim_all
+The surgeon that the guards,1,ML,obj_rel_within_anim_all
+The surgeon that the chefs,1,ML,obj_rel_within_anim_all
+The surgeon that the architects,1,ML,obj_rel_within_anim_all
+The surgeon that the skaters,1,ML,obj_rel_within_anim_all
+The surgeon that the dancers,1,ML,obj_rel_within_anim_all
+The surgeon that the ministers,1,ML,obj_rel_within_anim_all
+The surgeon that the taxi drivers,1,ML,obj_rel_within_anim_all
+The surgeon that the assistants,1,ML,obj_rel_within_anim_all
+The surgeon that the executives,1,ML,obj_rel_within_anim_all
+The surgeon that the parents,1,ML,obj_rel_within_anim_all
+The farmer that the guards,1,ML,obj_rel_within_anim_all
+The farmer that the chefs,1,ML,obj_rel_within_anim_all
+The farmer that the architects,1,ML,obj_rel_within_anim_all
+The farmer that the skaters,1,ML,obj_rel_within_anim_all
+The farmer that the dancers,1,ML,obj_rel_within_anim_all
+The farmer that the ministers,1,ML,obj_rel_within_anim_all
+The farmer that the taxi drivers,1,ML,obj_rel_within_anim_all
+The farmer that the assistants,1,ML,obj_rel_within_anim_all
+The farmer that the executives,1,ML,obj_rel_within_anim_all
+The farmer that the parents,1,ML,obj_rel_within_anim_all
+The manager that the guards,1,ML,obj_rel_within_anim_all
+The manager that the chefs,1,ML,obj_rel_within_anim_all
+The manager that the architects,1,ML,obj_rel_within_anim_all
+The manager that the skaters,1,ML,obj_rel_within_anim_all
+The manager that the dancers,1,ML,obj_rel_within_anim_all
+The manager that the ministers,1,ML,obj_rel_within_anim_all
+The manager that the taxi drivers,1,ML,obj_rel_within_anim_all
+The manager that the assistants,1,ML,obj_rel_within_anim_all
+The manager that the executives,1,ML,obj_rel_within_anim_all
+The manager that the parents,1,ML,obj_rel_within_anim_all
+The customer that the guards,1,ML,obj_rel_within_anim_all
+The customer that the chefs,1,ML,obj_rel_within_anim_all
+The customer that the architects,1,ML,obj_rel_within_anim_all
+The customer that the skaters,1,ML,obj_rel_within_anim_all
+The customer that the dancers,1,ML,obj_rel_within_anim_all
+The customer that the ministers,1,ML,obj_rel_within_anim_all
+The customer that the taxi drivers,1,ML,obj_rel_within_anim_all
+The customer that the assistants,1,ML,obj_rel_within_anim_all
+The customer that the executives,1,ML,obj_rel_within_anim_all
+The customer that the parents,1,ML,obj_rel_within_anim_all
+The officer that the guards,1,ML,obj_rel_within_anim_all
+The officer that the chefs,1,ML,obj_rel_within_anim_all
+The officer that the architects,1,ML,obj_rel_within_anim_all
+The officer that the skaters,1,ML,obj_rel_within_anim_all
+The officer that the dancers,1,ML,obj_rel_within_anim_all
+The officer that the ministers,1,ML,obj_rel_within_anim_all
+The officer that the taxi drivers,1,ML,obj_rel_within_anim_all
+The officer that the assistants,1,ML,obj_rel_within_anim_all
+The officer that the executives,1,ML,obj_rel_within_anim_all
+The officer that the parents,1,ML,obj_rel_within_anim_all
+The teacher that the guards,1,ML,obj_rel_within_anim_all
+The teacher that the chefs,1,ML,obj_rel_within_anim_all
+The teacher that the architects,1,ML,obj_rel_within_anim_all
+The teacher that the skaters,1,ML,obj_rel_within_anim_all
+The teacher that the dancers,1,ML,obj_rel_within_anim_all
+The teacher that the ministers,1,ML,obj_rel_within_anim_all
+The teacher that the taxi drivers,1,ML,obj_rel_within_anim_all
+The teacher that the assistants,1,ML,obj_rel_within_anim_all
+The teacher that the executives,1,ML,obj_rel_within_anim_all
+The teacher that the parents,1,ML,obj_rel_within_anim_all
+The senator that the guards,1,ML,obj_rel_within_anim_all
+The senator that the chefs,1,ML,obj_rel_within_anim_all
+The senator that the architects,1,ML,obj_rel_within_anim_all
+The senator that the skaters,1,ML,obj_rel_within_anim_all
+The senator that the dancers,1,ML,obj_rel_within_anim_all
+The senator that the ministers,1,ML,obj_rel_within_anim_all
+The senator that the taxi drivers,1,ML,obj_rel_within_anim_all
+The senator that the assistants,1,ML,obj_rel_within_anim_all
+The senator that the executives,1,ML,obj_rel_within_anim_all
+The senator that the parents,1,ML,obj_rel_within_anim_all
+The consultant that the guards,1,ML,obj_rel_within_anim_all
+The consultant that the chefs,1,ML,obj_rel_within_anim_all
+The consultant that the architects,1,ML,obj_rel_within_anim_all
+The consultant that the skaters,1,ML,obj_rel_within_anim_all
+The consultant that the dancers,1,ML,obj_rel_within_anim_all
+The consultant that the ministers,1,ML,obj_rel_within_anim_all
+The consultant that the taxi drivers,1,ML,obj_rel_within_anim_all
+The consultant that the assistants,1,ML,obj_rel_within_anim_all
+The consultant that the executives,1,ML,obj_rel_within_anim_all
+The consultant that the parents,1,ML,obj_rel_within_anim_all
+The authors that the guard,0,ML,obj_rel_within_anim_all
+The authors that the chef,0,ML,obj_rel_within_anim_all
+The authors that the architect,0,ML,obj_rel_within_anim_all
+The authors that the skater,0,ML,obj_rel_within_anim_all
+The authors that the dancer,0,ML,obj_rel_within_anim_all
+The authors that the minister,0,ML,obj_rel_within_anim_all
+The authors that the taxi driver,0,ML,obj_rel_within_anim_all
+The authors that the assistant,0,ML,obj_rel_within_anim_all
+The authors that the executive,0,ML,obj_rel_within_anim_all
+The authors that the parent,0,ML,obj_rel_within_anim_all
+The pilots that the guard,0,ML,obj_rel_within_anim_all
+The pilots that the chef,0,ML,obj_rel_within_anim_all
+The pilots that the architect,0,ML,obj_rel_within_anim_all
+The pilots that the skater,0,ML,obj_rel_within_anim_all
+The pilots that the dancer,0,ML,obj_rel_within_anim_all
+The pilots that the minister,0,ML,obj_rel_within_anim_all
+The pilots that the taxi driver,0,ML,obj_rel_within_anim_all
+The pilots that the assistant,0,ML,obj_rel_within_anim_all
+The pilots that the executive,0,ML,obj_rel_within_anim_all
+The pilots that the parent,0,ML,obj_rel_within_anim_all
+The surgeons that the guard,0,ML,obj_rel_within_anim_all
+The surgeons that the chef,0,ML,obj_rel_within_anim_all
+The surgeons that the architect,0,ML,obj_rel_within_anim_all
+The surgeons that the skater,0,ML,obj_rel_within_anim_all
+The surgeons that the dancer,0,ML,obj_rel_within_anim_all
+The surgeons that the minister,0,ML,obj_rel_within_anim_all
+The surgeons that the taxi driver,0,ML,obj_rel_within_anim_all
+The surgeons that the assistant,0,ML,obj_rel_within_anim_all
+The surgeons that the executive,0,ML,obj_rel_within_anim_all
+The surgeons that the parent,0,ML,obj_rel_within_anim_all
+The farmers that the guard,0,ML,obj_rel_within_anim_all
+The farmers that the chef,0,ML,obj_rel_within_anim_all
+The farmers that the architect,0,ML,obj_rel_within_anim_all
+The farmers that the skater,0,ML,obj_rel_within_anim_all
+The farmers that the dancer,0,ML,obj_rel_within_anim_all
+The farmers that the minister,0,ML,obj_rel_within_anim_all
+The farmers that the taxi driver,0,ML,obj_rel_within_anim_all
+The farmers that the assistant,0,ML,obj_rel_within_anim_all
+The farmers that the executive,0,ML,obj_rel_within_anim_all
+The farmers that the parent,0,ML,obj_rel_within_anim_all
+The managers that the guard,0,ML,obj_rel_within_anim_all
+The managers that the chef,0,ML,obj_rel_within_anim_all
+The managers that the architect,0,ML,obj_rel_within_anim_all
+The managers that the skater,0,ML,obj_rel_within_anim_all
+The managers that the dancer,0,ML,obj_rel_within_anim_all
+The managers that the minister,0,ML,obj_rel_within_anim_all
+The managers that the taxi driver,0,ML,obj_rel_within_anim_all
+The managers that the assistant,0,ML,obj_rel_within_anim_all
+The managers that the executive,0,ML,obj_rel_within_anim_all
+The managers that the parent,0,ML,obj_rel_within_anim_all
+The customers that the guard,0,ML,obj_rel_within_anim_all
+The customers that the chef,0,ML,obj_rel_within_anim_all
+The customers that the architect,0,ML,obj_rel_within_anim_all
+The customers that the skater,0,ML,obj_rel_within_anim_all
+The customers that the dancer,0,ML,obj_rel_within_anim_all
+The customers that the minister,0,ML,obj_rel_within_anim_all
+The customers that the taxi driver,0,ML,obj_rel_within_anim_all
+The customers that the assistant,0,ML,obj_rel_within_anim_all
+The customers that the executive,0,ML,obj_rel_within_anim_all
+The customers that the parent,0,ML,obj_rel_within_anim_all
+The officers that the guard,0,ML,obj_rel_within_anim_all
+The officers that the chef,0,ML,obj_rel_within_anim_all
+The officers that the architect,0,ML,obj_rel_within_anim_all
+The officers that the skater,0,ML,obj_rel_within_anim_all
+The officers that the dancer,0,ML,obj_rel_within_anim_all
+The officers that the minister,0,ML,obj_rel_within_anim_all
+The officers that the taxi driver,0,ML,obj_rel_within_anim_all
+The officers that the assistant,0,ML,obj_rel_within_anim_all
+The officers that the executive,0,ML,obj_rel_within_anim_all
+The officers that the parent,0,ML,obj_rel_within_anim_all
+The teachers that the guard,0,ML,obj_rel_within_anim_all
+The teachers that the chef,0,ML,obj_rel_within_anim_all
+The teachers that the architect,0,ML,obj_rel_within_anim_all
+The teachers that the skater,0,ML,obj_rel_within_anim_all
+The teachers that the dancer,0,ML,obj_rel_within_anim_all
+The teachers that the minister,0,ML,obj_rel_within_anim_all
+The teachers that the taxi driver,0,ML,obj_rel_within_anim_all
+The teachers that the assistant,0,ML,obj_rel_within_anim_all
+The teachers that the executive,0,ML,obj_rel_within_anim_all
+The teachers that the parent,0,ML,obj_rel_within_anim_all
+The senators that the guard,0,ML,obj_rel_within_anim_all
+The senators that the chef,0,ML,obj_rel_within_anim_all
+The senators that the architect,0,ML,obj_rel_within_anim_all
+The senators that the skater,0,ML,obj_rel_within_anim_all
+The senators that the dancer,0,ML,obj_rel_within_anim_all
+The senators that the minister,0,ML,obj_rel_within_anim_all
+The senators that the taxi driver,0,ML,obj_rel_within_anim_all
+The senators that the assistant,0,ML,obj_rel_within_anim_all
+The senators that the executive,0,ML,obj_rel_within_anim_all
+The senators that the parent,0,ML,obj_rel_within_anim_all
+The consultants that the guard,0,ML,obj_rel_within_anim_all
+The consultants that the chef,0,ML,obj_rel_within_anim_all
+The consultants that the architect,0,ML,obj_rel_within_anim_all
+The consultants that the skater,0,ML,obj_rel_within_anim_all
+The consultants that the dancer,0,ML,obj_rel_within_anim_all
+The consultants that the minister,0,ML,obj_rel_within_anim_all
+The consultants that the taxi driver,0,ML,obj_rel_within_anim_all
+The consultants that the assistant,0,ML,obj_rel_within_anim_all
+The consultants that the executive,0,ML,obj_rel_within_anim_all
+The consultants that the parent,0,ML,obj_rel_within_anim_all
+The author that the guard,0,ML,obj_rel_within_anim_all
+The author that the chef,0,ML,obj_rel_within_anim_all
+The author that the architect,0,ML,obj_rel_within_anim_all
+The author that the skater,0,ML,obj_rel_within_anim_all
+The author that the dancer,0,ML,obj_rel_within_anim_all
+The author that the minister,0,ML,obj_rel_within_anim_all
+The author that the taxi driver,0,ML,obj_rel_within_anim_all
+The author that the assistant,0,ML,obj_rel_within_anim_all
+The author that the executive,0,ML,obj_rel_within_anim_all
+The author that the parent,0,ML,obj_rel_within_anim_all
+The pilot that the guard,0,ML,obj_rel_within_anim_all
+The pilot that the chef,0,ML,obj_rel_within_anim_all
+The pilot that the architect,0,ML,obj_rel_within_anim_all
+The pilot that the skater,0,ML,obj_rel_within_anim_all
+The pilot that the dancer,0,ML,obj_rel_within_anim_all
+The pilot that the minister,0,ML,obj_rel_within_anim_all
+The pilot that the taxi driver,0,ML,obj_rel_within_anim_all
+The pilot that the assistant,0,ML,obj_rel_within_anim_all
+The pilot that the executive,0,ML,obj_rel_within_anim_all
+The pilot that the parent,0,ML,obj_rel_within_anim_all
+The surgeon that the guard,0,ML,obj_rel_within_anim_all
+The surgeon that the chef,0,ML,obj_rel_within_anim_all
+The surgeon that the architect,0,ML,obj_rel_within_anim_all
+The surgeon that the skater,0,ML,obj_rel_within_anim_all
+The surgeon that the dancer,0,ML,obj_rel_within_anim_all
+The surgeon that the minister,0,ML,obj_rel_within_anim_all
+The surgeon that the taxi driver,0,ML,obj_rel_within_anim_all
+The surgeon that the assistant,0,ML,obj_rel_within_anim_all
+The surgeon that the executive,0,ML,obj_rel_within_anim_all
+The surgeon that the parent,0,ML,obj_rel_within_anim_all
+The farmer that the guard,0,ML,obj_rel_within_anim_all
+The farmer that the chef,0,ML,obj_rel_within_anim_all
+The farmer that the architect,0,ML,obj_rel_within_anim_all
+The farmer that the skater,0,ML,obj_rel_within_anim_all
+The farmer that the dancer,0,ML,obj_rel_within_anim_all
+The farmer that the minister,0,ML,obj_rel_within_anim_all
+The farmer that the taxi driver,0,ML,obj_rel_within_anim_all
+The farmer that the assistant,0,ML,obj_rel_within_anim_all
+The farmer that the executive,0,ML,obj_rel_within_anim_all
+The farmer that the parent,0,ML,obj_rel_within_anim_all
+The manager that the guard,0,ML,obj_rel_within_anim_all
+The manager that the chef,0,ML,obj_rel_within_anim_all
+The manager that the architect,0,ML,obj_rel_within_anim_all
+The manager that the skater,0,ML,obj_rel_within_anim_all
+The manager that the dancer,0,ML,obj_rel_within_anim_all
+The manager that the minister,0,ML,obj_rel_within_anim_all
+The manager that the taxi driver,0,ML,obj_rel_within_anim_all
+The manager that the assistant,0,ML,obj_rel_within_anim_all
+The manager that the executive,0,ML,obj_rel_within_anim_all
+The manager that the parent,0,ML,obj_rel_within_anim_all
+The customer that the guard,0,ML,obj_rel_within_anim_all
+The customer that the chef,0,ML,obj_rel_within_anim_all
+The customer that the architect,0,ML,obj_rel_within_anim_all
+The customer that the skater,0,ML,obj_rel_within_anim_all
+The customer that the dancer,0,ML,obj_rel_within_anim_all
+The customer that the minister,0,ML,obj_rel_within_anim_all
+The customer that the taxi driver,0,ML,obj_rel_within_anim_all
+The customer that the assistant,0,ML,obj_rel_within_anim_all
+The customer that the executive,0,ML,obj_rel_within_anim_all
+The customer that the parent,0,ML,obj_rel_within_anim_all
+The officer that the guard,0,ML,obj_rel_within_anim_all
+The officer that the chef,0,ML,obj_rel_within_anim_all
+The officer that the architect,0,ML,obj_rel_within_anim_all
+The officer that the skater,0,ML,obj_rel_within_anim_all
+The officer that the dancer,0,ML,obj_rel_within_anim_all
+The officer that the minister,0,ML,obj_rel_within_anim_all
+The officer that the taxi driver,0,ML,obj_rel_within_anim_all
+The officer that the assistant,0,ML,obj_rel_within_anim_all
+The officer that the executive,0,ML,obj_rel_within_anim_all
+The officer that the parent,0,ML,obj_rel_within_anim_all
+The teacher that the guard,0,ML,obj_rel_within_anim_all
+The teacher that the chef,0,ML,obj_rel_within_anim_all
+The teacher that the architect,0,ML,obj_rel_within_anim_all
+The teacher that the skater,0,ML,obj_rel_within_anim_all
+The teacher that the dancer,0,ML,obj_rel_within_anim_all
+The teacher that the minister,0,ML,obj_rel_within_anim_all
+The teacher that the taxi driver,0,ML,obj_rel_within_anim_all
+The teacher that the assistant,0,ML,obj_rel_within_anim_all
+The teacher that the executive,0,ML,obj_rel_within_anim_all
+The teacher that the parent,0,ML,obj_rel_within_anim_all
+The senator that the guard,0,ML,obj_rel_within_anim_all
+The senator that the chef,0,ML,obj_rel_within_anim_all
+The senator that the architect,0,ML,obj_rel_within_anim_all
+The senator that the skater,0,ML,obj_rel_within_anim_all
+The senator that the dancer,0,ML,obj_rel_within_anim_all
+The senator that the minister,0,ML,obj_rel_within_anim_all
+The senator that the taxi driver,0,ML,obj_rel_within_anim_all
+The senator that the assistant,0,ML,obj_rel_within_anim_all
+The senator that the executive,0,ML,obj_rel_within_anim_all
+The senator that the parent,0,ML,obj_rel_within_anim_all
+The consultant that the guard,0,ML,obj_rel_within_anim_all
+The consultant that the chef,0,ML,obj_rel_within_anim_all
+The consultant that the architect,0,ML,obj_rel_within_anim_all
+The consultant that the skater,0,ML,obj_rel_within_anim_all
+The consultant that the dancer,0,ML,obj_rel_within_anim_all
+The consultant that the minister,0,ML,obj_rel_within_anim_all
+The consultant that the taxi driver,0,ML,obj_rel_within_anim_all
+The consultant that the assistant,0,ML,obj_rel_within_anim_all
+The consultant that the executive,0,ML,obj_rel_within_anim_all
+The consultant that the parent,0,ML,obj_rel_within_anim_all

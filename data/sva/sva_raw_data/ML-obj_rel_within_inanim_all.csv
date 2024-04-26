@@ -1,0 +1,361 @@
+sentence,label,group,source
+The movies that the guards,1,ML,obj_rel_within_inanim_all
+The movies that the chefs,1,ML,obj_rel_within_inanim_all
+The movies that the architects,1,ML,obj_rel_within_inanim_all
+The movies that the skaters,1,ML,obj_rel_within_inanim_all
+The movies that the dancers,1,ML,obj_rel_within_inanim_all
+The movies that the ministers,1,ML,obj_rel_within_inanim_all
+The movies that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The movies that the assistants,1,ML,obj_rel_within_inanim_all
+The movies that the executives,1,ML,obj_rel_within_inanim_all
+The movies that the parents,1,ML,obj_rel_within_inanim_all
+The books that the guards,1,ML,obj_rel_within_inanim_all
+The books that the chefs,1,ML,obj_rel_within_inanim_all
+The books that the architects,1,ML,obj_rel_within_inanim_all
+The books that the skaters,1,ML,obj_rel_within_inanim_all
+The books that the dancers,1,ML,obj_rel_within_inanim_all
+The books that the ministers,1,ML,obj_rel_within_inanim_all
+The books that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The books that the assistants,1,ML,obj_rel_within_inanim_all
+The books that the executives,1,ML,obj_rel_within_inanim_all
+The books that the parents,1,ML,obj_rel_within_inanim_all
+The games that the guards,1,ML,obj_rel_within_inanim_all
+The games that the chefs,1,ML,obj_rel_within_inanim_all
+The games that the architects,1,ML,obj_rel_within_inanim_all
+The games that the skaters,1,ML,obj_rel_within_inanim_all
+The games that the dancers,1,ML,obj_rel_within_inanim_all
+The games that the ministers,1,ML,obj_rel_within_inanim_all
+The games that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The games that the assistants,1,ML,obj_rel_within_inanim_all
+The games that the executives,1,ML,obj_rel_within_inanim_all
+The games that the parents,1,ML,obj_rel_within_inanim_all
+The songs that the guards,1,ML,obj_rel_within_inanim_all
+The songs that the chefs,1,ML,obj_rel_within_inanim_all
+The songs that the architects,1,ML,obj_rel_within_inanim_all
+The songs that the skaters,1,ML,obj_rel_within_inanim_all
+The songs that the dancers,1,ML,obj_rel_within_inanim_all
+The songs that the ministers,1,ML,obj_rel_within_inanim_all
+The songs that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The songs that the assistants,1,ML,obj_rel_within_inanim_all
+The songs that the executives,1,ML,obj_rel_within_inanim_all
+The songs that the parents,1,ML,obj_rel_within_inanim_all
+The pictures that the guards,1,ML,obj_rel_within_inanim_all
+The pictures that the chefs,1,ML,obj_rel_within_inanim_all
+The pictures that the architects,1,ML,obj_rel_within_inanim_all
+The pictures that the skaters,1,ML,obj_rel_within_inanim_all
+The pictures that the dancers,1,ML,obj_rel_within_inanim_all
+The pictures that the ministers,1,ML,obj_rel_within_inanim_all
+The pictures that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The pictures that the assistants,1,ML,obj_rel_within_inanim_all
+The pictures that the executives,1,ML,obj_rel_within_inanim_all
+The pictures that the parents,1,ML,obj_rel_within_inanim_all
+The paintings that the guards,1,ML,obj_rel_within_inanim_all
+The paintings that the chefs,1,ML,obj_rel_within_inanim_all
+The paintings that the architects,1,ML,obj_rel_within_inanim_all
+The paintings that the skaters,1,ML,obj_rel_within_inanim_all
+The paintings that the dancers,1,ML,obj_rel_within_inanim_all
+The paintings that the ministers,1,ML,obj_rel_within_inanim_all
+The paintings that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The paintings that the assistants,1,ML,obj_rel_within_inanim_all
+The paintings that the executives,1,ML,obj_rel_within_inanim_all
+The paintings that the parents,1,ML,obj_rel_within_inanim_all
+The novels that the guards,1,ML,obj_rel_within_inanim_all
+The novels that the chefs,1,ML,obj_rel_within_inanim_all
+The novels that the architects,1,ML,obj_rel_within_inanim_all
+The novels that the skaters,1,ML,obj_rel_within_inanim_all
+The novels that the dancers,1,ML,obj_rel_within_inanim_all
+The novels that the ministers,1,ML,obj_rel_within_inanim_all
+The novels that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The novels that the assistants,1,ML,obj_rel_within_inanim_all
+The novels that the executives,1,ML,obj_rel_within_inanim_all
+The novels that the parents,1,ML,obj_rel_within_inanim_all
+The poems that the guards,1,ML,obj_rel_within_inanim_all
+The poems that the chefs,1,ML,obj_rel_within_inanim_all
+The poems that the architects,1,ML,obj_rel_within_inanim_all
+The poems that the skaters,1,ML,obj_rel_within_inanim_all
+The poems that the dancers,1,ML,obj_rel_within_inanim_all
+The poems that the ministers,1,ML,obj_rel_within_inanim_all
+The poems that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The poems that the assistants,1,ML,obj_rel_within_inanim_all
+The poems that the executives,1,ML,obj_rel_within_inanim_all
+The poems that the parents,1,ML,obj_rel_within_inanim_all
+The shows that the guards,1,ML,obj_rel_within_inanim_all
+The shows that the chefs,1,ML,obj_rel_within_inanim_all
+The shows that the architects,1,ML,obj_rel_within_inanim_all
+The shows that the skaters,1,ML,obj_rel_within_inanim_all
+The shows that the dancers,1,ML,obj_rel_within_inanim_all
+The shows that the ministers,1,ML,obj_rel_within_inanim_all
+The shows that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The shows that the assistants,1,ML,obj_rel_within_inanim_all
+The shows that the executives,1,ML,obj_rel_within_inanim_all
+The shows that the parents,1,ML,obj_rel_within_inanim_all
+The movie that the guards,1,ML,obj_rel_within_inanim_all
+The movie that the chefs,1,ML,obj_rel_within_inanim_all
+The movie that the architects,1,ML,obj_rel_within_inanim_all
+The movie that the skaters,1,ML,obj_rel_within_inanim_all
+The movie that the dancers,1,ML,obj_rel_within_inanim_all
+The movie that the ministers,1,ML,obj_rel_within_inanim_all
+The movie that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The movie that the assistants,1,ML,obj_rel_within_inanim_all
+The movie that the executives,1,ML,obj_rel_within_inanim_all
+The movie that the parents,1,ML,obj_rel_within_inanim_all
+The book that the guards,1,ML,obj_rel_within_inanim_all
+The book that the chefs,1,ML,obj_rel_within_inanim_all
+The book that the architects,1,ML,obj_rel_within_inanim_all
+The book that the skaters,1,ML,obj_rel_within_inanim_all
+The book that the dancers,1,ML,obj_rel_within_inanim_all
+The book that the ministers,1,ML,obj_rel_within_inanim_all
+The book that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The book that the assistants,1,ML,obj_rel_within_inanim_all
+The book that the executives,1,ML,obj_rel_within_inanim_all
+The book that the parents,1,ML,obj_rel_within_inanim_all
+The game that the guards,1,ML,obj_rel_within_inanim_all
+The game that the chefs,1,ML,obj_rel_within_inanim_all
+The game that the architects,1,ML,obj_rel_within_inanim_all
+The game that the skaters,1,ML,obj_rel_within_inanim_all
+The game that the dancers,1,ML,obj_rel_within_inanim_all
+The game that the ministers,1,ML,obj_rel_within_inanim_all
+The game that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The game that the assistants,1,ML,obj_rel_within_inanim_all
+The game that the executives,1,ML,obj_rel_within_inanim_all
+The game that the parents,1,ML,obj_rel_within_inanim_all
+The song that the guards,1,ML,obj_rel_within_inanim_all
+The song that the chefs,1,ML,obj_rel_within_inanim_all
+The song that the architects,1,ML,obj_rel_within_inanim_all
+The song that the skaters,1,ML,obj_rel_within_inanim_all
+The song that the dancers,1,ML,obj_rel_within_inanim_all
+The song that the ministers,1,ML,obj_rel_within_inanim_all
+The song that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The song that the assistants,1,ML,obj_rel_within_inanim_all
+The song that the executives,1,ML,obj_rel_within_inanim_all
+The song that the parents,1,ML,obj_rel_within_inanim_all
+The picture that the guards,1,ML,obj_rel_within_inanim_all
+The picture that the chefs,1,ML,obj_rel_within_inanim_all
+The picture that the architects,1,ML,obj_rel_within_inanim_all
+The picture that the skaters,1,ML,obj_rel_within_inanim_all
+The picture that the dancers,1,ML,obj_rel_within_inanim_all
+The picture that the ministers,1,ML,obj_rel_within_inanim_all
+The picture that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The picture that the assistants,1,ML,obj_rel_within_inanim_all
+The picture that the executives,1,ML,obj_rel_within_inanim_all
+The picture that the parents,1,ML,obj_rel_within_inanim_all
+The painting that the guards,1,ML,obj_rel_within_inanim_all
+The painting that the chefs,1,ML,obj_rel_within_inanim_all
+The painting that the architects,1,ML,obj_rel_within_inanim_all
+The painting that the skaters,1,ML,obj_rel_within_inanim_all
+The painting that the dancers,1,ML,obj_rel_within_inanim_all
+The painting that the ministers,1,ML,obj_rel_within_inanim_all
+The painting that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The painting that the assistants,1,ML,obj_rel_within_inanim_all
+The painting that the executives,1,ML,obj_rel_within_inanim_all
+The painting that the parents,1,ML,obj_rel_within_inanim_all
+The novel that the guards,1,ML,obj_rel_within_inanim_all
+The novel that the chefs,1,ML,obj_rel_within_inanim_all
+The novel that the architects,1,ML,obj_rel_within_inanim_all
+The novel that the skaters,1,ML,obj_rel_within_inanim_all
+The novel that the dancers,1,ML,obj_rel_within_inanim_all
+The novel that the ministers,1,ML,obj_rel_within_inanim_all
+The novel that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The novel that the assistants,1,ML,obj_rel_within_inanim_all
+The novel that the executives,1,ML,obj_rel_within_inanim_all
+The novel that the parents,1,ML,obj_rel_within_inanim_all
+The poem that the guards,1,ML,obj_rel_within_inanim_all
+The poem that the chefs,1,ML,obj_rel_within_inanim_all
+The poem that the architects,1,ML,obj_rel_within_inanim_all
+The poem that the skaters,1,ML,obj_rel_within_inanim_all
+The poem that the dancers,1,ML,obj_rel_within_inanim_all
+The poem that the ministers,1,ML,obj_rel_within_inanim_all
+The poem that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The poem that the assistants,1,ML,obj_rel_within_inanim_all
+The poem that the executives,1,ML,obj_rel_within_inanim_all
+The poem that the parents,1,ML,obj_rel_within_inanim_all
+The show that the guards,1,ML,obj_rel_within_inanim_all
+The show that the chefs,1,ML,obj_rel_within_inanim_all
+The show that the architects,1,ML,obj_rel_within_inanim_all
+The show that the skaters,1,ML,obj_rel_within_inanim_all
+The show that the dancers,1,ML,obj_rel_within_inanim_all
+The show that the ministers,1,ML,obj_rel_within_inanim_all
+The show that the taxi drivers,1,ML,obj_rel_within_inanim_all
+The show that the assistants,1,ML,obj_rel_within_inanim_all
+The show that the executives,1,ML,obj_rel_within_inanim_all
+The show that the parents,1,ML,obj_rel_within_inanim_all
+The movies that the guard,0,ML,obj_rel_within_inanim_all
+The movies that the chef,0,ML,obj_rel_within_inanim_all
+The movies that the architect,0,ML,obj_rel_within_inanim_all
+The movies that the skater,0,ML,obj_rel_within_inanim_all
+The movies that the dancer,0,ML,obj_rel_within_inanim_all
+The movies that the minister,0,ML,obj_rel_within_inanim_all
+The movies that the taxi driver,0,ML,obj_rel_within_inanim_all
+The movies that the assistant,0,ML,obj_rel_within_inanim_all
+The movies that the executive,0,ML,obj_rel_within_inanim_all
+The movies that the parent,0,ML,obj_rel_within_inanim_all
+The books that the guard,0,ML,obj_rel_within_inanim_all
+The books that the chef,0,ML,obj_rel_within_inanim_all
+The books that the architect,0,ML,obj_rel_within_inanim_all
+The books that the skater,0,ML,obj_rel_within_inanim_all
+The books that the dancer,0,ML,obj_rel_within_inanim_all
+The books that the minister,0,ML,obj_rel_within_inanim_all
+The books that the taxi driver,0,ML,obj_rel_within_inanim_all
+The books that the assistant,0,ML,obj_rel_within_inanim_all
+The books that the executive,0,ML,obj_rel_within_inanim_all
+The books that the parent,0,ML,obj_rel_within_inanim_all
+The games that the guard,0,ML,obj_rel_within_inanim_all
+The games that the chef,0,ML,obj_rel_within_inanim_all
+The games that the architect,0,ML,obj_rel_within_inanim_all
+The games that the skater,0,ML,obj_rel_within_inanim_all
+The games that the dancer,0,ML,obj_rel_within_inanim_all
+The games that the minister,0,ML,obj_rel_within_inanim_all
+The games that the taxi driver,0,ML,obj_rel_within_inanim_all
+The games that the assistant,0,ML,obj_rel_within_inanim_all
+The games that the executive,0,ML,obj_rel_within_inanim_all
+The games that the parent,0,ML,obj_rel_within_inanim_all
+The songs that the guard,0,ML,obj_rel_within_inanim_all
+The songs that the chef,0,ML,obj_rel_within_inanim_all
+The songs that the architect,0,ML,obj_rel_within_inanim_all
+The songs that the skater,0,ML,obj_rel_within_inanim_all
+The songs that the dancer,0,ML,obj_rel_within_inanim_all
+The songs that the minister,0,ML,obj_rel_within_inanim_all
+The songs that the taxi driver,0,ML,obj_rel_within_inanim_all
+The songs that the assistant,0,ML,obj_rel_within_inanim_all
+The songs that the executive,0,ML,obj_rel_within_inanim_all
+The songs that the parent,0,ML,obj_rel_within_inanim_all
+The pictures that the guard,0,ML,obj_rel_within_inanim_all
+The pictures that the chef,0,ML,obj_rel_within_inanim_all
+The pictures that the architect,0,ML,obj_rel_within_inanim_all
+The pictures that the skater,0,ML,obj_rel_within_inanim_all
+The pictures that the dancer,0,ML,obj_rel_within_inanim_all
+The pictures that the minister,0,ML,obj_rel_within_inanim_all
+The pictures that the taxi driver,0,ML,obj_rel_within_inanim_all
+The pictures that the assistant,0,ML,obj_rel_within_inanim_all
+The pictures that the executive,0,ML,obj_rel_within_inanim_all
+The pictures that the parent,0,ML,obj_rel_within_inanim_all
+The paintings that the guard,0,ML,obj_rel_within_inanim_all
+The paintings that the chef,0,ML,obj_rel_within_inanim_all
+The paintings that the architect,0,ML,obj_rel_within_inanim_all
+The paintings that the skater,0,ML,obj_rel_within_inanim_all
+The paintings that the dancer,0,ML,obj_rel_within_inanim_all
+The paintings that the minister,0,ML,obj_rel_within_inanim_all
+The paintings that the taxi driver,0,ML,obj_rel_within_inanim_all
+The paintings that the assistant,0,ML,obj_rel_within_inanim_all
+The paintings that the executive,0,ML,obj_rel_within_inanim_all
+The paintings that the parent,0,ML,obj_rel_within_inanim_all
+The novels that the guard,0,ML,obj_rel_within_inanim_all
+The novels that the chef,0,ML,obj_rel_within_inanim_all
+The novels that the architect,0,ML,obj_rel_within_inanim_all
+The novels that the skater,0,ML,obj_rel_within_inanim_all
+The novels that the dancer,0,ML,obj_rel_within_inanim_all
+The novels that the minister,0,ML,obj_rel_within_inanim_all
+The novels that the taxi driver,0,ML,obj_rel_within_inanim_all
+The novels that the assistant,0,ML,obj_rel_within_inanim_all
+The novels that the executive,0,ML,obj_rel_within_inanim_all
+The novels that the parent,0,ML,obj_rel_within_inanim_all
+The poems that the guard,0,ML,obj_rel_within_inanim_all
+The poems that the chef,0,ML,obj_rel_within_inanim_all
+The poems that the architect,0,ML,obj_rel_within_inanim_all
+The poems that the skater,0,ML,obj_rel_within_inanim_all
+The poems that the dancer,0,ML,obj_rel_within_inanim_all
+The poems that the minister,0,ML,obj_rel_within_inanim_all
+The poems that the taxi driver,0,ML,obj_rel_within_inanim_all
+The poems that the assistant,0,ML,obj_rel_within_inanim_all
+The poems that the executive,0,ML,obj_rel_within_inanim_all
+The poems that the parent,0,ML,obj_rel_within_inanim_all
+The shows that the guard,0,ML,obj_rel_within_inanim_all
+The shows that the chef,0,ML,obj_rel_within_inanim_all
+The shows that the architect,0,ML,obj_rel_within_inanim_all
+The shows that the skater,0,ML,obj_rel_within_inanim_all
+The shows that the dancer,0,ML,obj_rel_within_inanim_all
+The shows that the minister,0,ML,obj_rel_within_inanim_all
+The shows that the taxi driver,0,ML,obj_rel_within_inanim_all
+The shows that the assistant,0,ML,obj_rel_within_inanim_all
+The shows that the executive,0,ML,obj_rel_within_inanim_all
+The shows that the parent,0,ML,obj_rel_within_inanim_all
+The movie that the guard,0,ML,obj_rel_within_inanim_all
+The movie that the chef,0,ML,obj_rel_within_inanim_all
+The movie that the architect,0,ML,obj_rel_within_inanim_all
+The movie that the skater,0,ML,obj_rel_within_inanim_all
+The movie that the dancer,0,ML,obj_rel_within_inanim_all
+The movie that the minister,0,ML,obj_rel_within_inanim_all
+The movie that the taxi driver,0,ML,obj_rel_within_inanim_all
+The movie that the assistant,0,ML,obj_rel_within_inanim_all
+The movie that the executive,0,ML,obj_rel_within_inanim_all
+The movie that the parent,0,ML,obj_rel_within_inanim_all
+The book that the guard,0,ML,obj_rel_within_inanim_all
+The book that the chef,0,ML,obj_rel_within_inanim_all
+The book that the architect,0,ML,obj_rel_within_inanim_all
+The book that the skater,0,ML,obj_rel_within_inanim_all
+The book that the dancer,0,ML,obj_rel_within_inanim_all
+The book that the minister,0,ML,obj_rel_within_inanim_all
+The book that the taxi driver,0,ML,obj_rel_within_inanim_all
+The book that the assistant,0,ML,obj_rel_within_inanim_all
+The book that the executive,0,ML,obj_rel_within_inanim_all
+The book that the parent,0,ML,obj_rel_within_inanim_all
+The game that the guard,0,ML,obj_rel_within_inanim_all
+The game that the chef,0,ML,obj_rel_within_inanim_all
+The game that the architect,0,ML,obj_rel_within_inanim_all
+The game that the skater,0,ML,obj_rel_within_inanim_all
+The game that the dancer,0,ML,obj_rel_within_inanim_all
+The game that the minister,0,ML,obj_rel_within_inanim_all
+The game that the taxi driver,0,ML,obj_rel_within_inanim_all
+The game that the assistant,0,ML,obj_rel_within_inanim_all
+The game that the executive,0,ML,obj_rel_within_inanim_all
+The game that the parent,0,ML,obj_rel_within_inanim_all
+The song that the guard,0,ML,obj_rel_within_inanim_all
+The song that the chef,0,ML,obj_rel_within_inanim_all
+The song that the architect,0,ML,obj_rel_within_inanim_all
+The song that the skater,0,ML,obj_rel_within_inanim_all
+The song that the dancer,0,ML,obj_rel_within_inanim_all
+The song that the minister,0,ML,obj_rel_within_inanim_all
+The song that the taxi driver,0,ML,obj_rel_within_inanim_all
+The song that the assistant,0,ML,obj_rel_within_inanim_all
+The song that the executive,0,ML,obj_rel_within_inanim_all
+The song that the parent,0,ML,obj_rel_within_inanim_all
+The picture that the guard,0,ML,obj_rel_within_inanim_all
+The picture that the chef,0,ML,obj_rel_within_inanim_all
+The picture that the architect,0,ML,obj_rel_within_inanim_all
+The picture that the skater,0,ML,obj_rel_within_inanim_all
+The picture that the dancer,0,ML,obj_rel_within_inanim_all
+The picture that the minister,0,ML,obj_rel_within_inanim_all
+The picture that the taxi driver,0,ML,obj_rel_within_inanim_all
+The picture that the assistant,0,ML,obj_rel_within_inanim_all
+The picture that the executive,0,ML,obj_rel_within_inanim_all
+The picture that the parent,0,ML,obj_rel_within_inanim_all
+The painting that the guard,0,ML,obj_rel_within_inanim_all
+The painting that the chef,0,ML,obj_rel_within_inanim_all
+The painting that the architect,0,ML,obj_rel_within_inanim_all
+The painting that the skater,0,ML,obj_rel_within_inanim_all
+The painting that the dancer,0,ML,obj_rel_within_inanim_all
+The painting that the minister,0,ML,obj_rel_within_inanim_all
+The painting that the taxi driver,0,ML,obj_rel_within_inanim_all
+The painting that the assistant,0,ML,obj_rel_within_inanim_all
+The painting that the executive,0,ML,obj_rel_within_inanim_all
+The painting that the parent,0,ML,obj_rel_within_inanim_all
+The novel that the guard,0,ML,obj_rel_within_inanim_all
+The novel that the chef,0,ML,obj_rel_within_inanim_all
+The novel that the architect,0,ML,obj_rel_within_inanim_all
+The novel that the skater,0,ML,obj_rel_within_inanim_all
+The novel that the dancer,0,ML,obj_rel_within_inanim_all
+The novel that the minister,0,ML,obj_rel_within_inanim_all
+The novel that the taxi driver,0,ML,obj_rel_within_inanim_all
+The novel that the assistant,0,ML,obj_rel_within_inanim_all
+The novel that the executive,0,ML,obj_rel_within_inanim_all
+The novel that the parent,0,ML,obj_rel_within_inanim_all
+The poem that the guard,0,ML,obj_rel_within_inanim_all
+The poem that the chef,0,ML,obj_rel_within_inanim_all
+The poem that the architect,0,ML,obj_rel_within_inanim_all
+The poem that the skater,0,ML,obj_rel_within_inanim_all
+The poem that the dancer,0,ML,obj_rel_within_inanim_all
+The poem that the minister,0,ML,obj_rel_within_inanim_all
+The poem that the taxi driver,0,ML,obj_rel_within_inanim_all
+The poem that the assistant,0,ML,obj_rel_within_inanim_all
+The poem that the executive,0,ML,obj_rel_within_inanim_all
+The poem that the parent,0,ML,obj_rel_within_inanim_all
+The show that the guard,0,ML,obj_rel_within_inanim_all
+The show that the chef,0,ML,obj_rel_within_inanim_all
+The show that the architect,0,ML,obj_rel_within_inanim_all
+The show that the skater,0,ML,obj_rel_within_inanim_all
+The show that the dancer,0,ML,obj_rel_within_inanim_all
+The show that the minister,0,ML,obj_rel_within_inanim_all
+The show that the taxi driver,0,ML,obj_rel_within_inanim_all
+The show that the assistant,0,ML,obj_rel_within_inanim_all
+The show that the executive,0,ML,obj_rel_within_inanim_all
+The show that the parent,0,ML,obj_rel_within_inanim_all

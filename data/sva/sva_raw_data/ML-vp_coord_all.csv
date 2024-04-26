@@ -1,0 +1,141 @@
+sentence,label,group,source
+The authors laugh and,1,ML,vp_coord_all
+The authors swim and,1,ML,vp_coord_all
+The authors smile and,1,ML,vp_coord_all
+The authors are tall and,1,ML,vp_coord_all
+The authors are old and,1,ML,vp_coord_all
+The authors are young and,1,ML,vp_coord_all
+The authors are short and,1,ML,vp_coord_all
+The pilots laugh and,1,ML,vp_coord_all
+The pilots swim and,1,ML,vp_coord_all
+The pilots smile and,1,ML,vp_coord_all
+The pilots are tall and,1,ML,vp_coord_all
+The pilots are old and,1,ML,vp_coord_all
+The pilots are young and,1,ML,vp_coord_all
+The pilots are short and,1,ML,vp_coord_all
+The surgeons laugh and,1,ML,vp_coord_all
+The surgeons swim and,1,ML,vp_coord_all
+The surgeons smile and,1,ML,vp_coord_all
+The surgeons are tall and,1,ML,vp_coord_all
+The surgeons are old and,1,ML,vp_coord_all
+The surgeons are young and,1,ML,vp_coord_all
+The surgeons are short and,1,ML,vp_coord_all
+The farmers laugh and,1,ML,vp_coord_all
+The farmers swim and,1,ML,vp_coord_all
+The farmers smile and,1,ML,vp_coord_all
+The farmers are tall and,1,ML,vp_coord_all
+The farmers are old and,1,ML,vp_coord_all
+The farmers are young and,1,ML,vp_coord_all
+The farmers are short and,1,ML,vp_coord_all
+The managers laugh and,1,ML,vp_coord_all
+The managers swim and,1,ML,vp_coord_all
+The managers smile and,1,ML,vp_coord_all
+The managers are tall and,1,ML,vp_coord_all
+The managers are old and,1,ML,vp_coord_all
+The managers are young and,1,ML,vp_coord_all
+The managers are short and,1,ML,vp_coord_all
+The customers laugh and,1,ML,vp_coord_all
+The customers swim and,1,ML,vp_coord_all
+The customers smile and,1,ML,vp_coord_all
+The customers are tall and,1,ML,vp_coord_all
+The customers are old and,1,ML,vp_coord_all
+The customers are young and,1,ML,vp_coord_all
+The customers are short and,1,ML,vp_coord_all
+The officers laugh and,1,ML,vp_coord_all
+The officers swim and,1,ML,vp_coord_all
+The officers smile and,1,ML,vp_coord_all
+The officers are tall and,1,ML,vp_coord_all
+The officers are old and,1,ML,vp_coord_all
+The officers are young and,1,ML,vp_coord_all
+The officers are short and,1,ML,vp_coord_all
+The teachers laugh and,1,ML,vp_coord_all
+The teachers swim and,1,ML,vp_coord_all
+The teachers smile and,1,ML,vp_coord_all
+The teachers are tall and,1,ML,vp_coord_all
+The teachers are old and,1,ML,vp_coord_all
+The teachers are young and,1,ML,vp_coord_all
+The teachers are short and,1,ML,vp_coord_all
+The senators laugh and,1,ML,vp_coord_all
+The senators swim and,1,ML,vp_coord_all
+The senators smile and,1,ML,vp_coord_all
+The senators are tall and,1,ML,vp_coord_all
+The senators are old and,1,ML,vp_coord_all
+The senators are young and,1,ML,vp_coord_all
+The senators are short and,1,ML,vp_coord_all
+The consultants laugh and,1,ML,vp_coord_all
+The consultants swim and,1,ML,vp_coord_all
+The consultants smile and,1,ML,vp_coord_all
+The consultants are tall and,1,ML,vp_coord_all
+The consultants are old and,1,ML,vp_coord_all
+The consultants are young and,1,ML,vp_coord_all
+The consultants are short and,1,ML,vp_coord_all
+The author laughs and,0,ML,vp_coord_all
+The author swims and,0,ML,vp_coord_all
+The author smiles and,0,ML,vp_coord_all
+The author is tall and,0,ML,vp_coord_all
+The author is old and,0,ML,vp_coord_all
+The author is young and,0,ML,vp_coord_all
+The author is short and,0,ML,vp_coord_all
+The pilot laughs and,0,ML,vp_coord_all
+The pilot swims and,0,ML,vp_coord_all
+The pilot smiles and,0,ML,vp_coord_all
+The pilot is tall and,0,ML,vp_coord_all
+The pilot is old and,0,ML,vp_coord_all
+The pilot is young and,0,ML,vp_coord_all
+The pilot is short and,0,ML,vp_coord_all
+The surgeon laughs and,0,ML,vp_coord_all
+The surgeon swims and,0,ML,vp_coord_all
+The surgeon smiles and,0,ML,vp_coord_all
+The surgeon is tall and,0,ML,vp_coord_all
+The surgeon is old and,0,ML,vp_coord_all
+The surgeon is young and,0,ML,vp_coord_all
+The surgeon is short and,0,ML,vp_coord_all
+The farmer laughs and,0,ML,vp_coord_all
+The farmer swims and,0,ML,vp_coord_all
+The farmer smiles and,0,ML,vp_coord_all
+The farmer is tall and,0,ML,vp_coord_all
+The farmer is old and,0,ML,vp_coord_all
+The farmer is young and,0,ML,vp_coord_all
+The farmer is short and,0,ML,vp_coord_all
+The manager laughs and,0,ML,vp_coord_all
+The manager swims and,0,ML,vp_coord_all
+The manager smiles and,0,ML,vp_coord_all
+The manager is tall and,0,ML,vp_coord_all
+The manager is old and,0,ML,vp_coord_all
+The manager is young and,0,ML,vp_coord_all
+The manager is short and,0,ML,vp_coord_all
+The customer laughs and,0,ML,vp_coord_all
+The customer swims and,0,ML,vp_coord_all
+The customer smiles and,0,ML,vp_coord_all
+The customer is tall and,0,ML,vp_coord_all
+The customer is old and,0,ML,vp_coord_all
+The customer is young and,0,ML,vp_coord_all
+The customer is short and,0,ML,vp_coord_all
+The officer laughs and,0,ML,vp_coord_all
+The officer swims and,0,ML,vp_coord_all
+The officer smiles and,0,ML,vp_coord_all
+The officer is tall and,0,ML,vp_coord_all
+The officer is old and,0,ML,vp_coord_all
+The officer is young and,0,ML,vp_coord_all
+The officer is short and,0,ML,vp_coord_all
+The teacher laughs and,0,ML,vp_coord_all
+The teacher swims and,0,ML,vp_coord_all
+The teacher smiles and,0,ML,vp_coord_all
+The teacher is tall and,0,ML,vp_coord_all
+The teacher is old and,0,ML,vp_coord_all
+The teacher is young and,0,ML,vp_coord_all
+The teacher is short and,0,ML,vp_coord_all
+The senator laughs and,0,ML,vp_coord_all
+The senator swims and,0,ML,vp_coord_all
+The senator smiles and,0,ML,vp_coord_all
+The senator is tall and,0,ML,vp_coord_all
+The senator is old and,0,ML,vp_coord_all
+The senator is young and,0,ML,vp_coord_all
+The senator is short and,0,ML,vp_coord_all
+The consultant laughs and,0,ML,vp_coord_all
+The consultant swims and,0,ML,vp_coord_all
+The consultant smiles and,0,ML,vp_coord_all
+The consultant is tall and,0,ML,vp_coord_all
+The consultant is old and,0,ML,vp_coord_all
+The consultant is young and,0,ML,vp_coord_all
+The consultant is short and,0,ML,vp_coord_all

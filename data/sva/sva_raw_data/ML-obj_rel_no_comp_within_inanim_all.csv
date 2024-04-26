@@ -1,0 +1,361 @@
+sentence,label,group,source
+The movies the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The books the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The books the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The books the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The books the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The books the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The books the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The books the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The books the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The books the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The books the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The games the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The games the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The games the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The games the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The games the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The games the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The games the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The games the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The games the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The games the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The songs the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The pictures the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The paintings the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The novels the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The poems the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The shows the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The movie the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The book the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The book the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The book the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The book the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The book the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The book the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The book the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The book the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The book the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The book the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The game the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The game the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The game the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The game the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The game the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The game the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The game the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The game the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The game the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The game the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The song the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The song the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The song the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The song the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The song the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The song the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The song the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The song the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The song the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The song the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The picture the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The painting the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The novel the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The poem the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The show the guards,1,ML,obj_rel_no_comp_within_inanim_all
+The show the chefs,1,ML,obj_rel_no_comp_within_inanim_all
+The show the architects,1,ML,obj_rel_no_comp_within_inanim_all
+The show the skaters,1,ML,obj_rel_no_comp_within_inanim_all
+The show the dancers,1,ML,obj_rel_no_comp_within_inanim_all
+The show the ministers,1,ML,obj_rel_no_comp_within_inanim_all
+The show the taxi drivers,1,ML,obj_rel_no_comp_within_inanim_all
+The show the assistants,1,ML,obj_rel_no_comp_within_inanim_all
+The show the executives,1,ML,obj_rel_no_comp_within_inanim_all
+The show the parents,1,ML,obj_rel_no_comp_within_inanim_all
+The movies the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The movies the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The books the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The books the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The books the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The books the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The books the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The books the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The books the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The books the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The books the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The books the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The games the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The games the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The games the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The games the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The games the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The games the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The games the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The games the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The games the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The games the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The songs the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The pictures the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The paintings the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The novels the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The poems the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The shows the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The movie the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The book the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The book the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The book the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The book the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The book the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The book the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The book the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The book the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The book the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The book the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The game the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The game the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The game the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The game the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The game the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The game the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The game the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The game the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The game the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The game the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The song the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The song the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The song the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The song the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The song the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The song the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The song the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The song the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The song the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The song the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The picture the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The painting the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The novel the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The poem the parent,0,ML,obj_rel_no_comp_within_inanim_all
+The show the guard,0,ML,obj_rel_no_comp_within_inanim_all
+The show the chef,0,ML,obj_rel_no_comp_within_inanim_all
+The show the architect,0,ML,obj_rel_no_comp_within_inanim_all
+The show the skater,0,ML,obj_rel_no_comp_within_inanim_all
+The show the dancer,0,ML,obj_rel_no_comp_within_inanim_all
+The show the minister,0,ML,obj_rel_no_comp_within_inanim_all
+The show the taxi driver,0,ML,obj_rel_no_comp_within_inanim_all
+The show the assistant,0,ML,obj_rel_no_comp_within_inanim_all
+The show the executive,0,ML,obj_rel_no_comp_within_inanim_all
+The show the parent,0,ML,obj_rel_no_comp_within_inanim_all

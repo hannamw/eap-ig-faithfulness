@@ -1,0 +1,101 @@
+sentence,label,group,source
+The authors know many different foreign languages and,1,ML,long_vp_coord_all
+The authors like to watch television shows and,1,ML,long_vp_coord_all
+The authors are twenty three years old and,1,ML,long_vp_coord_all
+The authors enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The authors write in a journal every day and,1,ML,long_vp_coord_all
+The pilots know many different foreign languages and,1,ML,long_vp_coord_all
+The pilots like to watch television shows and,1,ML,long_vp_coord_all
+The pilots are twenty three years old and,1,ML,long_vp_coord_all
+The pilots enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The pilots write in a journal every day and,1,ML,long_vp_coord_all
+The surgeons know many different foreign languages and,1,ML,long_vp_coord_all
+The surgeons like to watch television shows and,1,ML,long_vp_coord_all
+The surgeons are twenty three years old and,1,ML,long_vp_coord_all
+The surgeons enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The surgeons write in a journal every day and,1,ML,long_vp_coord_all
+The farmers know many different foreign languages and,1,ML,long_vp_coord_all
+The farmers like to watch television shows and,1,ML,long_vp_coord_all
+The farmers are twenty three years old and,1,ML,long_vp_coord_all
+The farmers enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The farmers write in a journal every day and,1,ML,long_vp_coord_all
+The managers know many different foreign languages and,1,ML,long_vp_coord_all
+The managers like to watch television shows and,1,ML,long_vp_coord_all
+The managers are twenty three years old and,1,ML,long_vp_coord_all
+The managers enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The managers write in a journal every day and,1,ML,long_vp_coord_all
+The customers know many different foreign languages and,1,ML,long_vp_coord_all
+The customers like to watch television shows and,1,ML,long_vp_coord_all
+The customers are twenty three years old and,1,ML,long_vp_coord_all
+The customers enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The customers write in a journal every day and,1,ML,long_vp_coord_all
+The officers know many different foreign languages and,1,ML,long_vp_coord_all
+The officers like to watch television shows and,1,ML,long_vp_coord_all
+The officers are twenty three years old and,1,ML,long_vp_coord_all
+The officers enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The officers write in a journal every day and,1,ML,long_vp_coord_all
+The teachers know many different foreign languages and,1,ML,long_vp_coord_all
+The teachers like to watch television shows and,1,ML,long_vp_coord_all
+The teachers are twenty three years old and,1,ML,long_vp_coord_all
+The teachers enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The teachers write in a journal every day and,1,ML,long_vp_coord_all
+The senators know many different foreign languages and,1,ML,long_vp_coord_all
+The senators like to watch television shows and,1,ML,long_vp_coord_all
+The senators are twenty three years old and,1,ML,long_vp_coord_all
+The senators enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The senators write in a journal every day and,1,ML,long_vp_coord_all
+The consultants know many different foreign languages and,1,ML,long_vp_coord_all
+The consultants like to watch television shows and,1,ML,long_vp_coord_all
+The consultants are twenty three years old and,1,ML,long_vp_coord_all
+The consultants enjoy playing tennis with colleagues and,1,ML,long_vp_coord_all
+The consultants write in a journal every day and,1,ML,long_vp_coord_all
+The author knows many different foreign languages and,0,ML,long_vp_coord_all
+The author likes to watch television shows and,0,ML,long_vp_coord_all
+The author is twenty three years old and,0,ML,long_vp_coord_all
+The author enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The author writes in a journal every day and,0,ML,long_vp_coord_all
+The pilot knows many different foreign languages and,0,ML,long_vp_coord_all
+The pilot likes to watch television shows and,0,ML,long_vp_coord_all
+The pilot is twenty three years old and,0,ML,long_vp_coord_all
+The pilot enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The pilot writes in a journal every day and,0,ML,long_vp_coord_all
+The surgeon knows many different foreign languages and,0,ML,long_vp_coord_all
+The surgeon likes to watch television shows and,0,ML,long_vp_coord_all
+The surgeon is twenty three years old and,0,ML,long_vp_coord_all
+The surgeon enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The surgeon writes in a journal every day and,0,ML,long_vp_coord_all
+The farmer knows many different foreign languages and,0,ML,long_vp_coord_all
+The farmer likes to watch television shows and,0,ML,long_vp_coord_all
+The farmer is twenty three years old and,0,ML,long_vp_coord_all
+The farmer enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The farmer writes in a journal every day and,0,ML,long_vp_coord_all
+The manager knows many different foreign languages and,0,ML,long_vp_coord_all
+The manager likes to watch television shows and,0,ML,long_vp_coord_all
+The manager is twenty three years old and,0,ML,long_vp_coord_all
+The manager enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The manager writes in a journal every day and,0,ML,long_vp_coord_all
+The customer knows many different foreign languages and,0,ML,long_vp_coord_all
+The customer likes to watch television shows and,0,ML,long_vp_coord_all
+The customer is twenty three years old and,0,ML,long_vp_coord_all
+The customer enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The customer writes in a journal every day and,0,ML,long_vp_coord_all
+The officer knows many different foreign languages and,0,ML,long_vp_coord_all
+The officer likes to watch television shows and,0,ML,long_vp_coord_all
+The officer is twenty three years old and,0,ML,long_vp_coord_all
+The officer enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The officer writes in a journal every day and,0,ML,long_vp_coord_all
+The teacher knows many different foreign languages and,0,ML,long_vp_coord_all
+The teacher likes to watch television shows and,0,ML,long_vp_coord_all
+The teacher is twenty three years old and,0,ML,long_vp_coord_all
+The teacher enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The teacher writes in a journal every day and,0,ML,long_vp_coord_all
+The senator knows many different foreign languages and,0,ML,long_vp_coord_all
+The senator likes to watch television shows and,0,ML,long_vp_coord_all
+The senator is twenty three years old and,0,ML,long_vp_coord_all
+The senator enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The senator writes in a journal every day and,0,ML,long_vp_coord_all
+The consultant knows many different foreign languages and,0,ML,long_vp_coord_all
+The consultant likes to watch television shows and,0,ML,long_vp_coord_all
+The consultant is twenty three years old and,0,ML,long_vp_coord_all
+The consultant enjoys playing tennis with colleagues and,0,ML,long_vp_coord_all
+The consultant writes in a journal every day and,0,ML,long_vp_coord_all

@@ -1,0 +1,191 @@
+clean,capital,country,country_idx,corrupted,corrupted_capital,corrupted_country,corrupted_country_idx
+" Kabul, the capital of",Kabul,Afghanistan,8037," London, the capital of",London,United Kingdom,1578
+" Tirana, the capital of",Tirana,Albania,44615," Majuro, the capital of",Majuro,Marshall Islands,13606
+" Algiers, the capital of",Algiers,Algeria,36498," Funafuti, the capital of",Funafuti,Tuvalu,16749
+" Andorra la Vella, the capital of",Andorra la Vella,Andorra,843," Bandar Seri Begawan, the capital of",Bandar Seri Begawan,Brunei,46070
+" Luanda, the capital of",Luanda,Angola,48968," Kuwait City, the capital of",Kuwait City,Kuwait,27028
+" Saint John's, the capital of",Saint John's,Antigua and Barbuda,3738," Lusaka, the capital of",Lusaka,Zambia,44418
+" Buenos Aires, the capital of",Buenos Aires,Argentina,16519," Taipei, the capital of",Taipei,Taiwan,14119
+" Yerevan, the capital of",Yerevan,Armenia,32369," Maseru, the capital of",Maseru,Lesotho,11732
+" Canberra, the capital of",Canberra,Australia,4505," Ankara, the capital of",Ankara,Turkey,7137
+" Vienna, the capital of",Vienna,Austria,17322," Pyongyang, the capital of",Pyongyang,North Korea,2258
+" Baku, the capital of",Baku,Azerbaijan,33605," San Salvador, the capital of",San Salvador,El Salvador,2574
+" Nassau, the capital of",Nassau,Bahamas,45726," Rabat, the capital of",Rabat,Morocco,29638
+" Manama, the capital of",Manama,Bahrain,29066," Muscat, the capital of",Muscat,Oman,41782
+" Dhaka, the capital of",Dhaka,Bangladesh,19483," Mexico City, the capital of",Mexico City,Mexico,5828
+" Bridgetown, the capital of",Bridgetown,Barbados,10593," Vilnius, the capital of",Vilnius,Lithuania,31295
+" Minsk, the capital of",Minsk,Belarus,33368," Mexico City, the capital of",Mexico City,Mexico,5828
+" Brussels, the capital of",Brussels,Belgium,15664," Kabul, the capital of",Kabul,Afghanistan,8037
+" Belmopan, the capital of",Belmopan,Belize,3944," Mogadishu, the capital of",Mogadishu,Somalia,23918
+" Porto Novo, the capital of",Porto Novo,Benin,3932," Reykjavik, the capital of",Reykjavik,Iceland,17333
+" Thimphu, the capital of",Thimphu,Bhutan,16581," Reykjavik, the capital of",Reykjavik,Iceland,17333
+" La Paz, the capital of",La Paz,Bolivia,38496," Vaduz, the capital of",Vaduz,Liechtenstein,12060
+" Sarajevo, the capital of",Sarajevo,Bosnia and Herzegovina,34292," Khartoum, the capital of",Khartoum,Sudan,19610
+" Gaborone, the capital of",Gaborone,Botswana,40946," Skopje, the capital of",Skopje,North Macedonia,2258
+" Brasilia, the capital of",Brasilia,Brazil,7595," Malabo, the capital of",Malabo,Equatorial Guinea,7889
+" Bandar Seri Begawan, the capital of",Bandar Seri Begawan,Brunei,46070," Ljubljana, the capital of",Ljubljana,Slovenia,37562
+" Sofia, the capital of",Sofia,Bulgaria,27902," Kingstown, the capital of",Kingstown,Saint Vincent and the Grenadines,9281
+" Ouagadougou, the capital of",Ouagadougou,Burkina Faso,37940," Tegucigalpa, the capital of",Tegucigalpa,Honduras,32982
+" Gitega, the capital of",Gitega,Burundi,5481," Port Vila, the capital of",Port Vila,Vanuatu,6656
+" Phnom Penh, the capital of",Phnom Penh,Cambodia,31057," Dushanbe, the capital of",Dushanbe,Tajikistan,32490
+" Yaounde, the capital of",Yaounde,Cameroon,44568," Nairobi, the capital of",Nairobi,Kenya,21506
+" Ottawa, the capital of",Ottawa,Canada,3340," Brussels, the capital of",Brussels,Belgium,15664
+" Praia, the capital of",Praia,Cape Verde,15725," Malabo, the capital of",Malabo,Equatorial Guinea,7889
+" Bangui, the capital of",Bangui,Central African Republic,5694," Maseru, the capital of",Maseru,Lesotho,11732
+" N'Djamena, the capital of",N'Djamena,Chad,19800," Yamoussoukro, the capital of",Yamoussoukro,Côte d'Ivoire,327
+" Santiago, the capital of",Santiago,Chile,17456," Tripoli, the capital of",Tripoli,Libya,13465
+" Beijing, the capital of",Beijing,China,2807," Luxembourg, the capital of",Luxembourg,Luxembourg,31864
+" Bogota, the capital of",Bogota,Colombia,21291," Moroni, the capital of",Moroni,Comoros,955
+" Moroni, the capital of",Moroni,Comoros,955," Tallinn, the capital of",Tallinn,Estonia,30912
+" Kinshasa, the capital of",Kinshasa,Democratic Republic of the Congo,4390," Addis Ababa, the capital of",Addis Ababa,Ethiopia,31592
+" Brazzaville, the capital of",Brazzaville,Congo,25935," Reykjavik, the capital of",Reykjavik,Iceland,17333
+" San Jose, the capital of",San Jose,Costa Rica,18133," Doha, the capital of",Doha,Qatar,18286
+" Yamoussoukro, the capital of",Yamoussoukro,Côte d'Ivoire,327," Ouagadougou, the capital of",Ouagadougou,Burkina Faso,37940
+" Zagreb, the capital of",Zagreb,Croatia,28975," Asuncion, the capital of",Asuncion,Paraguay,47268
+" Havana, the capital of",Havana,Cuba,14159," Berlin, the capital of",Berlin,Germany,4486
+" Nicosia, the capital of",Nicosia,Cyprus,27885," Yaounde, the capital of",Yaounde,Cameroon,44568
+" Prague, the capital of",Prague,Czech Republic,16639," Tokyo, the capital of",Tokyo,Japan,2869
+" Copenhagen, the capital of",Copenhagen,Denmark,16490," Wellington, the capital of",Wellington,New Zealand,968
+" Djibouti, the capital of",Djibouti,Djibouti,19307," Brazzaville, the capital of",Brazzaville,Congo,25935
+" Roseau, the capital of",Roseau,Dominica,11817," Bamako, the capital of",Bamako,Mali,29599
+" Santo Domingo, the capital of",Santo Domingo,Dominican Republic,32022," N'Djamena, the capital of",N'Djamena,Chad,19800
+" Dili, the capital of",Dili,East Timor,3687," Luanda, the capital of",Luanda,Angola,48968
+" Quito, the capital of",Quito,Ecuador,25794," Doha, the capital of",Doha,Qatar,18286
+" Cairo, the capital of",Cairo,Egypt,6365," Stockholm, the capital of",Stockholm,Sweden,10710
+" San Salvador, the capital of",San Salvador,El Salvador,2574," Abu Dhabi, the capital of",Abu Dhabi,UAE,29367
+" Malabo, the capital of",Malabo,Equatorial Guinea,7889," Bogota, the capital of",Bogota,Colombia,21291
+" Asmara, the capital of",Asmara,Eritrea,43349," Sana'a, the capital of",Sana'a,Yemen,12492
+" Tallinn, the capital of",Tallinn,Estonia,30912," Montevideo, the capital of",Montevideo,Uruguay,36421
+" Mbabana, the capital of",Mbabana,Eswatini,412," Port au Prince, the capital of",Port au Prince,Haiti,25051
+" Addis Ababa, the capital of",Addis Ababa,Ethiopia,31592," Port Moresby, the capital of",Port Moresby,Papua New Guinea,46117
+" Palikir, the capital of",Palikir,Micronesia,7631," La Paz, the capital of",La Paz,Bolivia,38496
+" Suva, the capital of",Suva,Fiji,43676," Moroni, the capital of",Moroni,Comoros,955
+" Helsinki, the capital of",Helsinki,Finland,17837," Stockholm, the capital of",Stockholm,Sweden,10710
+" Paris, the capital of",Paris,France,4881," Wellington, the capital of",Wellington,New Zealand,968
+" Libreville, the capital of",Libreville,Gabon,12300," Doha, the capital of",Doha,Qatar,18286
+" Banjul, the capital of",Banjul,Gambia,33330," Hanoi, the capital of",Hanoi,Vietnam,10836
+" Tbilisi, the capital of",Tbilisi,Georgia,7859," Sana'a, the capital of",Sana'a,Yemen,12492
+" Berlin, the capital of",Berlin,Germany,4486," Stockholm, the capital of",Stockholm,Sweden,10710
+" Accra, the capital of",Accra,Ghana,32825," Belgrade, the capital of",Belgrade,Serbia,27229
+" Athens, the capital of",Athens,Greece,10315," Georgetown, the capital of",Georgetown,Guyana,13145
+" Saint George's, the capital of",Saint George's,Grenada,19674," Maseru, the capital of",Maseru,Lesotho,11732
+" Guatemala City, the capital of",Guatemala City,Guatemala,32183," Astana, the capital of",Astana,Kazakhstan,34474
+" Conakry, the capital of",Conakry,Guinea,22777," Asuncion, the capital of",Asuncion,Paraguay,47268
+" Bissau, the capital of",Bissau,Guinea-Bissau,22777," Nicosia, the capital of",Nicosia,Cyprus,27885
+" Georgetown, the capital of",Georgetown,Guyana,13145," Wellington, the capital of",Wellington,New Zealand,968
+" Port au Prince, the capital of",Port au Prince,Haiti,25051," Saint George's, the capital of",Saint George's,Grenada,19674
+" Tegucigalpa, the capital of",Tegucigalpa,Honduras,32982," Santo Domingo, the capital of",Santo Domingo,Dominican Republic,32022
+" Budapest, the capital of",Budapest,Hungary,19562," Canberra, the capital of",Canberra,Australia,4505
+" Reykjavik, the capital of",Reykjavik,Iceland,17333," Ashgabat, the capital of",Ashgabat,Turkmenistan,8484
+" New Delhi, the capital of",New Delhi,India,3794," Rabat, the capital of",Rabat,Morocco,29638
+" Jakarta, the capital of",Jakarta,Indonesia,16256," Georgetown, the capital of",Georgetown,Guyana,13145
+" Tehran, the capital of",Tehran,Iran,4068," Baghdad, the capital of",Baghdad,Iraq,3908
+" Baghdad, the capital of",Baghdad,Iraq,3908," Tripoli, the capital of",Tripoli,Libya,13465
+" Dublin, the capital of",Dublin,Ireland,7517," Kiev, the capital of",Kiev,Ukraine,7049
+" Jerusalem, the capital of",Jerusalem,Israel,2692," Canberra, the capital of",Canberra,Australia,4505
+" Rome, the capital of",Rome,Italy,8031," Cairo, the capital of",Cairo,Egypt,6365
+" Kingston, the capital of",Kingston,Jamaica,31620," Madrid, the capital of",Madrid,Spain,8602
+" Tokyo, the capital of",Tokyo,Japan,2869," Beirut, the capital of",Beirut,Lebanon,16849
+" Amman, the capital of",Amman,Jordan,8078," Accra, the capital of",Accra,Ghana,32825
+" Astana, the capital of",Astana,Kazakhstan,34474," Castries, the capital of",Castries,Saint Lucia,9281
+" Nairobi, the capital of",Nairobi,Kenya,21506," Managua, the capital of",Managua,Nicaragua,38252
+" Tarawa Atoll, the capital of",Tarawa Atoll,Kiribati,7385," Djibouti, the capital of",Djibouti,Djibouti,19307
+" Pristina, the capital of",Pristina,Kosovo,37445," Managua, the capital of",Managua,Nicaragua,38252
+" Kuwait City, the capital of",Kuwait City,Kuwait,27028," Cape Town, the capital of",Cape Town,South Africa,2520
+" Bishkek, the capital of",Bishkek,Kyrgyzstan,42748," Tarawa Atoll, the capital of",Tarawa Atoll,Kiribati,7385
+" Vientiane, the capital of",Vientiane,Laos,45919," Nicosia, the capital of",Nicosia,Cyprus,27885
+" Riga, the capital of",Riga,Latvia,35794," Minsk, the capital of",Minsk,Belarus,33368
+" Beirut, the capital of",Beirut,Lebanon,16849," Warsaw, the capital of",Warsaw,Poland,12873
+" Maseru, the capital of",Maseru,Lesotho,11732," Managua, the capital of",Managua,Nicaragua,38252
+" Monrovia, the capital of",Monrovia,Liberia,33208," Gaborone, the capital of",Gaborone,Botswana,40946
+" Tripoli, the capital of",Tripoli,Libya,13465," Jerusalem, the capital of",Jerusalem,Israel,2692
+" Vaduz, the capital of",Vaduz,Liechtenstein,12060," Port Vila, the capital of",Port Vila,Vanuatu,6656
+" Vilnius, the capital of",Vilnius,Lithuania,31295," Basseterre, the capital of",Basseterre,Saint Kitts and Nevis,9281
+" Luxembourg, the capital of",Luxembourg,Luxembourg,31864," Kingston, the capital of",Kingston,Jamaica,31620
+" Antananarivo, the capital of",Antananarivo,Madagascar,46694," Thimphu, the capital of",Thimphu,Bhutan,16581
+" Lilongwe, the capital of",Lilongwe,Malawi,4434," Bissau, the capital of",Bissau,Guinea-Bissau,22777
+" Kuala Lumpur, the capital of",Kuala Lumpur,Malaysia,15336," Bucharest, the capital of",Bucharest,Romania,23356
+" Male, the capital of",Male,Maldives,37490," Copenhagen, the capital of",Copenhagen,Denmark,16490
+" Bamako, the capital of",Bamako,Mali,29599," Abu Dhabi, the capital of",Abu Dhabi,UAE,29367
+" Valletta, the capital of",Valletta,Malta,35206," Freetown, the capital of",Freetown,Sierra Leone,17559
+" Majuro, the capital of",Majuro,Marshall Islands,13606," Montevideo, the capital of",Montevideo,Uruguay,36421
+" Nouakchott, the capital of",Nouakchott,Mauritania,46106," Tarawa Atoll, the capital of",Tarawa Atoll,Kiribati,7385
+" Port Louis, the capital of",Port Louis,Mauritius,46106," Amman, the capital of",Amman,Jordan,8078
+" Mexico City, the capital of",Mexico City,Mexico,5828," San Jose, the capital of",San Jose,Costa Rica,18133
+" Chisinau, the capital of",Chisinau,Moldova,29684," Freetown, the capital of",Freetown,Sierra Leone,17559
+" Ulaanbaatar, the capital of",Ulaanbaatar,Mongolia,44364," Yamoussoukro, the capital of",Yamoussoukro,Côte d'Ivoire,327
+" Podgorica, the capital of",Podgorica,Montenegro,50008," Lilongwe, the capital of",Lilongwe,Malawi,4434
+" Rabat, the capital of",Rabat,Morocco,29638," Doha, the capital of",Doha,Qatar,18286
+" Maputo, the capital of",Maputo,Mozambique,28036," Brasilia, the capital of",Brasilia,Brazil,7595
+" Nay Pyi Taw, the capital of",Nay Pyi Taw,Myanmar,22815," Tegucigalpa, the capital of",Tegucigalpa,Honduras,32982
+" Windhoek, the capital of",Windhoek,Namibia,17871," Monrovia, the capital of",Monrovia,Liberia,33208
+" Kathmandu, the capital of",Kathmandu,Nepal,27026," Nairobi, the capital of",Nairobi,Kenya,21506
+" Amsterdam, the capital of",Amsterdam,Netherlands,12671," Luxembourg, the capital of",Luxembourg,Luxembourg,31864
+" Wellington, the capital of",Wellington,New Zealand,968," Warsaw, the capital of",Warsaw,Poland,12873
+" Managua, the capital of",Managua,Nicaragua,38252," Banjul, the capital of",Banjul,Gambia,33330
+" Niamey, the capital of",Niamey,Niger,23731," Nicosia, the capital of",Nicosia,Cyprus,27885
+" Abuja, the capital of",Abuja,Nigeria,19398," Abu Dhabi, the capital of",Abu Dhabi,UAE,29367
+" Pyongyang, the capital of",Pyongyang,North Korea,2258," Budapest, the capital of",Budapest,Hungary,19562
+" Skopje, the capital of",Skopje,North Macedonia,2258," Funafuti, the capital of",Funafuti,Tuvalu,16749
+" Oslo, the capital of",Oslo,Norway,15238," Male, the capital of",Male,Maldives,37490
+" Muscat, the capital of",Muscat,Oman,41782," Astana, the capital of",Astana,Kazakhstan,34474
+" Islamabad, the capital of",Islamabad,Pakistan,7648," Wellington, the capital of",Wellington,New Zealand,968
+" Melekeok, the capital of",Melekeok,Palau,3175," Antananarivo, the capital of",Antananarivo,Madagascar,46694
+" Panama City, the capital of",Panama City,Panama,23519," Luanda, the capital of",Luanda,Angola,48968
+" Port Moresby, the capital of",Port Moresby,Papua New Guinea,46117," Dushanbe, the capital of",Dushanbe,Tajikistan,32490
+" Asuncion, the capital of",Asuncion,Paraguay,47268," Podgorica, the capital of",Podgorica,Montenegro,50008
+" Lima, the capital of",Lima,Peru,25768," Warsaw, the capital of",Warsaw,Poland,12873
+" Manila, the capital of",Manila,Philippines,13316," Tunis, the capital of",Tunis,Tunisia,33972
+" Warsaw, the capital of",Warsaw,Poland,12873," Wellington, the capital of",Wellington,New Zealand,968
+" Lisbon, the capital of",Lisbon,Portugal,19101," Kabul, the capital of",Kabul,Afghanistan,8037
+" Doha, the capital of",Doha,Qatar,18286," Luanda, the capital of",Luanda,Angola,48968
+" Bucharest, the capital of",Bucharest,Romania,23356," Kuala Lumpur, the capital of",Kuala Lumpur,Malaysia,15336
+" Moscow, the capital of",Moscow,Russia,3284," Riyadh, the capital of",Riyadh,Saudi Arabia,7420
+" Kigali, the capital of",Kigali,Rwanda,38507," Paramaribo, the capital of",Paramaribo,Suriname,4198
+" Basseterre, the capital of",Basseterre,Saint Kitts and Nevis,9281," La Paz, the capital of",La Paz,Bolivia,38496
+" Castries, the capital of",Castries,Saint Lucia,9281," Cape Town, the capital of",Cape Town,South Africa,2520
+" Kingstown, the capital of",Kingstown,Saint Vincent and the Grenadines,9281," Riga, the capital of",Riga,Latvia,35794
+" Apia, the capital of",Apia,Samoa,43663," New Delhi, the capital of",New Delhi,India,3794
+" Sao Tome, the capital of",Sao Tome,Sao Tome and Principe,47040," Lome, the capital of",Lome,Togo,309
+" Riyadh, the capital of",Riyadh,Saudi Arabia,7420," Ottawa, the capital of",Ottawa,Canada,3340
+" Dakar, the capital of",Dakar,Senegal,49657," Doha, the capital of",Doha,Qatar,18286
+" Belgrade, the capital of",Belgrade,Serbia,27229," Buenos Aires, the capital of",Buenos Aires,Argentina,16519
+" Victoria, the capital of",Victoria,Seychelles,1001," Lima, the capital of",Lima,Peru,25768
+" Freetown, the capital of",Freetown,Sierra Leone,17559," Asmara, the capital of",Asmara,Eritrea,43349
+" Bratislava, the capital of",Bratislava,Slovakia,36839," Addis Ababa, the capital of",Addis Ababa,Ethiopia,31592
+" Ljubljana, the capital of",Ljubljana,Slovenia,37562," Nuku'alofa, the capital of",Nuku'alofa,Tonga,26565
+" Honiara, the capital of",Honiara,Solomon Islands,22912," Monrovia, the capital of",Monrovia,Liberia,33208
+" Mogadishu, the capital of",Mogadishu,Somalia,23918," Kigali, the capital of",Kigali,Rwanda,38507
+" Cape Town, the capital of",Cape Town,South Africa,2520," Nassau, the capital of",Nassau,Bahamas,45726
+" Seoul, the capital of",Seoul,South Korea,2520," Kabul, the capital of",Kabul,Afghanistan,8037
+" Juba, the capital of",Juba,South Sudan,2520," Abu Dhabi, the capital of",Abu Dhabi,UAE,29367
+" Madrid, the capital of",Madrid,Spain,8602," Paris, the capital of",Paris,France,4881
+" Khartoum, the capital of",Khartoum,Sudan,19610," Tarawa Atoll, the capital of",Tarawa Atoll,Kiribati,7385
+" Paramaribo, the capital of",Paramaribo,Suriname,4198," Mbabana, the capital of",Mbabana,Eswatini,412
+" Stockholm, the capital of",Stockholm,Sweden,10710," Brussels, the capital of",Brussels,Belgium,15664
+" Bern, the capital of",Bern,Switzerland,14679," Tunis, the capital of",Tunis,Tunisia,33972
+" Damascus, the capital of",Damascus,Syria,4392," Ottawa, the capital of",Ottawa,Canada,3340
+" Taipei, the capital of",Taipei,Taiwan,14119," Port Louis, the capital of",Port Louis,Mauritius,46106
+" Dushanbe, the capital of",Dushanbe,Tajikistan,32490," Djibouti, the capital of",Djibouti,Djibouti,19307
+" Dodoma, the capital of",Dodoma,Tanzania,37270," Dhaka, the capital of",Dhaka,Bangladesh,19483
+" Bangkok, the capital of",Bangkok,Thailand,16952," Bern, the capital of",Bern,Switzerland,14679
+" Lome, the capital of",Lome,Togo,309," Libreville, the capital of",Libreville,Gabon,12300
+" Nuku'alofa, the capital of",Nuku'alofa,Tonga,26565," Andorra la Vella, the capital of",Andorra la Vella,Andorra,843
+" Port of Spain, the capital of",Port of Spain,Trinidad and Tobago,48269," Maseru, the capital of",Maseru,Lesotho,11732
+" Tunis, the capital of",Tunis,Tunisia,33972," Kiev, the capital of",Kiev,Ukraine,7049
+" Ankara, the capital of",Ankara,Turkey,7137," Oslo, the capital of",Oslo,Norway,15238
+" Ashgabat, the capital of",Ashgabat,Turkmenistan,8484," Thimphu, the capital of",Thimphu,Bhutan,16581
+" Funafuti, the capital of",Funafuti,Tuvalu,16749," Kigali, the capital of",Kigali,Rwanda,38507
+" Kampala, the capital of",Kampala,Uganda,30872," Accra, the capital of",Accra,Ghana,32825
+" Kiev, the capital of",Kiev,Ukraine,7049," Amsterdam, the capital of",Amsterdam,Netherlands,12671
+" Abu Dhabi, the capital of",Abu Dhabi,UAE,29367," Roseau, the capital of",Roseau,Dominica,11817
+" London, the capital of",London,United Kingdom,1578," Beijing, the capital of",Beijing,China,2807
+" Washington D.C., the capital of",Washington D.C.,United States,1578," Porto Novo, the capital of",Porto Novo,Benin,3932
+" Montevideo, the capital of",Montevideo,Uruguay,36421," Manama, the capital of",Manama,Bahrain,29066
+" Tashkent, the capital of",Tashkent,Uzbekistan,42619," Reykjavik, the capital of",Reykjavik,Iceland,17333
+" Port Vila, the capital of",Port Vila,Vanuatu,6656," Niamey, the capital of",Niamey,Niger,23731
+" Caracas, the capital of",Caracas,Venezuela,16666," Panama City, the capital of",Panama City,Panama,23519
+" Hanoi, the capital of",Hanoi,Vietnam,10836," Mogadishu, the capital of",Mogadishu,Somalia,23918
+" Sana'a, the capital of",Sana'a,Yemen,12492," Saint George's, the capital of",Saint George's,Grenada,19674
+" Lusaka, the capital of",Lusaka,Zambia,44418," Vientiane, the capital of",Vientiane,Laos,45919
+" Harare, the capital of",Harare,Zimbabwe,28589," Minsk, the capital of",Minsk,Belarus,33368
