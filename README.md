@@ -1,6 +1,6 @@
 # eap-ig-faithfulness
 
-This repo contains the code for the paper "Automatic Circuit Finding and Faithfulness" ([Arxiv](https://arxiv.org/abs/2403.17806)). The code for manipulating model graphs and performing EAP/-IG is contained in a submodule, [EAP-IG](https://github.com/hannamw/EAP-IG). After pulling that submodule, you can install it by calling `pip install -e .` in its directory. A Conda environment that can be used to run these experiments is contained in `environment.yml`.
+This repo contains the code for the paper "Automatic Circuit Finding and Faithfulness" (COLM 2024; [Arxiv link](https://arxiv.org/abs/2403.17806)). The code for manipulating model graphs and performing EAP/-IG is contained in a submodule, [EAP-IG](https://github.com/hannamw/EAP-IG); make sure to pull the commit / submodule here, as I've updated the EAP-IG module since releasing this experimental code. After pulling that submodule, you can install it by calling `pip install -e .` in its directory. A Conda environment that can be used to run these experiments is contained in `environment.yml`.
 
 You can replicate the experiments in the paper as follows:
 
